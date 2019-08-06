@@ -1,0 +1,28 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/10.8.0/bin/node">
+      <version-cache version="10.8.0" last-modified="1534357209000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.8.0" last-modified="1534357209000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.10.1/bin/node">
+      <version-cache last-modified="1522846771000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.8.0/bin/node">
+      <version-cache last-modified="1520852570000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.1.0/bin/node">
+      <version-cache last-modified="1496939381000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.0.0/bin/node">
+      <version-cache version="7.0.0" last-modified="1477401981000" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
+  </component>
+</application>

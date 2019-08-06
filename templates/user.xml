@@ -1,0 +1,201 @@
+<templateSet group="user">
+  <template name="fori" value="for ($i = 0; $i &lt; $selection$; $i++)&#10;{           &#10;    $END$&#10;}" description="for $i" toReformat="true" toShortenFQNames="true">
+    <variable name="selection" expression="" defaultValue="20" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="primet" value="private function $name$($varialble$)&#10;{&#10;    $END$      &#10;}" description="public function" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="varialble" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="psr4_yml" value="suites:&#10;  acme_suite:&#10;    namespace: Acme&#10;    psr4_prefix: Acme&#10;    src_path: src/Acme" description="phpspec_config_yml" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PHP" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="composer_json" value="{&#10;  &quot;require&quot;: {&#10;    &quot;phpspec/phpspec&quot;: &quot;^4.2&quot;&#10;  },&#10;  &quot;autoload&quot;: {&#10;    &quot;psr-4&quot;: {&#10;      &quot;Acme\\&quot;: &quot;src/Acme&quot;&#10;    }&#10;  }&#10;}&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="Gulp_file.js" value="var gulp = require('gulp');&#10;var phpspec = require('gulp-phpspec');&#10;var run = require('gulp-run');&#10;var notify = require('gulp-notify');&#10;&#10;gulp.task('test', function () {&#10;    gulp.src('spec/**/*.php')&#10;        .pipe(phpspec('', {clear: true, notify: true}))&#10;        .on('error', notify.onError({&#10;            title: 'Crap',&#10;            message: 'Test Failed',&#10;            icon: __dirname + '/fail.png',&#10;            sound: 'Frog'&#10;        }))&#10;        .pipe(notify({&#10;            title: 'Success',&#10;            message: 'All tests have returned green!',&#10;        }));&#10;});&#10;&#10;gulp.task('watch', function () {&#10;    gulp.watch(['spec/**/*.php', 'src/**/*.php'], ['test']);&#10;});&#10;&#10;gulp.task('default', ['test', 'watch']);&#10;&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="textfield" value="&lt;!-- $VALUE$ Input --&gt;&#10;&lt;div class=&quot;form-group&quot;&gt;&#10;    {{ Form::label('$NAME$','$VALUE$:') }}&#10;    {{ Form::text('$NAME$', null, ['class' =&gt; 'form-control']}}&#10;&lt;/div&gt;" description="Form text field" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="capitalize(NAME):" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="passwordfield" value="&lt;!-- $VALUE$ Input --&gt;&#10;&lt;div class=&quot;form-group&quot;&gt;&#10;    {{ Form::label('$NAME$','$VALUE$:') }}&#10;    {{ Form::password('$NAME$', ['class' =&gt; 'form-control']}}&#10;&lt;/div&gt;" description="Form password field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ret" value="return $END$&#10;;" description="return ;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vue" value="&lt;template&gt;&#10;    &lt;div&gt;&#10;        $END$&#10;    &lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;    export default {&#10;        props: ['$1$'],&#10;        &#10;        data() {&#10;            return {&#10;                $2$&#10;            }&#10;        }&#10;    }&#10;&lt;/script&gt;" description="Vue template" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="comp" value="computed: {&#10;    $END$            &#10;}," description="vue computed" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vmet" value="methods: {&#10;    $NAME$($ATTR$){ &#10;        $END$&#10;    } &#10;}," description="vue method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ATTR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="com" value="components: { $END$ }, " description="vue components" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vm" value="$NAME$($1$){&#10;    $END$                  &#10;}," description="vue method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="bspage" value="&lt;ul class=&quot;pagination&quot;&gt;&#10;    &lt;li class=&quot;page-item&quot;&gt;&#10;        &lt;a class=&quot;page-link&quot; href=&quot;#&quot; aria-label=&quot;Previous&quot;&gt;&#10;            &lt;span aria-hidden=&quot;true&quot;&gt;&amp;laquo; previous&lt;/span&gt;&#10;            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;&#10;        &lt;/a&gt;&#10;    &lt;/li&gt;&#10;    &lt;li class=&quot;page-item&quot;&gt;&lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;1&lt;/a&gt;&lt;/li&gt;&#10;    &lt;li class=&quot;page-item&quot;&gt;&lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;2&lt;/a&gt;&lt;/li&gt;&#10;    &lt;li class=&quot;page-item&quot;&gt;&lt;a class=&quot;page-link&quot; href=&quot;#&quot;&gt;3&lt;/a&gt;&lt;/li&gt;&#10;    &lt;li class=&quot;page-item&quot;&gt;&#10;        &lt;a class=&quot;page-link&quot; href=&quot;#&quot; aria-label=&quot;Next&quot;&gt;&#10;            &lt;span aria-hidden=&quot;true&quot;&gt;next &amp;raquo;&lt;/span&gt;&#10;            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;&#10;        &lt;/a&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;" description="bootstrap paginate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bsdrop" value="&lt;li class=&quot;nav-item dropdown&quot;&gt;&#10;    &lt;a id=&quot;navbarDropdown&quot; class=&quot;nav-link dropdown-toggle&quot; href=&quot;#&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot;&#10;       aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot; v-pre&gt;&#10;        $START$&#10;        &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&#10;    &lt;/a&gt;&#10;    &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;navbarDropdown&quot;&gt;&#10;        &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;$END$&lt;/a&gt;&#10;    &lt;/div&gt;&#10;&lt;/li&gt; " description="bootstrap dropdown" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="citem" value="$item = create('App\Item'$END$);" description="fatory app crate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="cbox" value="$box = create('App\Box');" description="factory app crate box" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="fn" value="function ($VAR$){ &#10;   $VAR1$-&gt;$END$;&#10;}" description="function" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="VAR" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="settime" value="setTimeout(() =&gt; {&#10;    $EXPR$ ;&#10;}, $SECOND$);" description="setTimeOut" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SECOND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vbutton" value="&lt;button class=&quot;btn btn-primary btn-sm&quot;&gt;$END$&lt;/button&gt;" description="Vue용 button" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="@c" value="@click=&quot;$METHOD$&quot;$END$" description="@click" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vfadeout" value="$(this.$el).fadeOut(100, () =&gt;{&#10;    flash('deleted');&#10;});" description="Vue FadeOut" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vreload" value="window.location.reload();" description="vue reload" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vcom" value="components: { $COMEPONENT$ }," description="vue computed" toReformat="true" toShortenFQNames="true">
+    <variable name="COMEPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vcon" value="console.log('$END$');" description="console log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vcre" value="created() {&#10;   this.$MEHTOD$();&#10;}," description="vue created" toReformat="false" toShortenFQNames="true">
+    <variable name="MEHTOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vmixin" value="&lt;script&gt;&#10;    export default {&#10;       &#10;        data() {&#10;            return {&#10;                $END$&#10;            }&#10;        },&#10;        &#10;        methods: {&#10;           $METHOD$ &#10;        },&#10;    }&#10;&lt;/script&gt;" description="VUE mixins" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="mixin" value="mixins: [ $trait$ ]," description="mixins" toReformat="false" toShortenFQNames="true">
+    <variable name="trait" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="res" value="response" description="response" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vif" value="&lt;div v-if=&quot;$END$&quot;&gt;&lt;/div&gt;" description="v-if" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="focus" value="&lt;script&gt;&#10;    window.onload = function() {&#10;        document.getElementById(&quot;$ID$&quot;).focus();&#10;    };&#10;&lt;/script&gt;" description="input focus" toReformat="true" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="msq" value="minimum_stock_quantity" description="minimu_stock_quantity" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

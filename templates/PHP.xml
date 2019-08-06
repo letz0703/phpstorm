@@ -1,0 +1,201 @@
+<templateSet group="PHP">
+  <template name="_c" value="public function __construct($ARGS$)&#10;{&#10;    $END$&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="met" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}&#10;" description="public function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="smet" value="public static function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="public static function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="pmet" value="protected function $NAME$($PARAMETERS$){&#10;    $END$&#10;}&#10;" description="protected function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="psmet" value="protected static function $NAME$($PARAMETERS$){&#10;    $END$&#10;}&#10;" description="protected static function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="scope" value="public function scope$NAME$($query)&#10;{&#10;    return $query-&gt;where('$NAME$$END$');&#10;}" description="scope filter" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="'Done'" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bstextarea" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$NAME$&quot;&gt;$NAME2$:$END$&lt;/label&gt;&#10;    &lt;textarea name=&quot;$NAME$&quot; id=&quot;$NAME$&quot; class=&quot;form-control&quot;&gt;&lt;/textarea&gt;&#10;&lt;/div&gt;" description="textarea" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME2" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bsbutton" value="&lt;button type=&quot;submit&quot; class=&quot;btn btn-link btn-sm&quot;&gt;$END$&lt;/button&gt;" description="button submit" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rga" value="Route::get('/$URL$','$ControllerName$Controller@$END$');" description="Route get" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ControllerName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="rpa" value="Route::post('/$URL$','$ControllerName$Controller@$END$');" description="Route post" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ControllerName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="testc" value="&lt;?php&#10;&#10;namespace Tests\Feature;&#10;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;use Tests\TestCase;&#10;&#10;class $CLASS$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;    &#10;    /** @test */&#10;    public function $MEHOTD$()&#10;    {&#10;        $END$&#10;    }&#10;}&#10;" description="test template" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="MEHOTD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bstext" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$NAME$&quot;&gt;$NAME2$:$END$&lt;/label&gt;&#10;    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;$NAME$&quot; name=&quot;$NAME$&quot; placeholder=&quot;$NAME$&quot;&gt;&#10;&lt;/div&gt;" description="boot strap text filed" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME2" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="test" value="/** @test */&#10;public function $NAME$()&#10;{&#10;    $END$&#10;}&#10;" description="phpunit test" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fac" value="factory('App\$NAME$')-&gt;create($END$);" description="factory" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bsselect" value="&lt;div class=&quot;form-group&quot;&gt;&#10;&lt;label for=&quot;$KEYNAME$&quot;&gt;Choose $END$:&lt;/label&gt;&#10;    &lt;select name=&quot;$KEYNAME$&quot; id=&quot;$KEYNAME$&quot; class=&quot;form-control&quot;&gt; &#10;    &lt;option value=&quot;&quot;&gt;Choose One&lt;/option&gt; &#10;        @foreach(App\$CLASS$::all() as $NAME$) &#10;            &lt;option value=&quot;{{ $NAME$-&gt;$STOP$ }}&quot;&gt;{{ $NAME$-&gt;$STOP2$ }}&lt;/option&gt;  &#10;        @endforeach &#10;    &lt;/select&gt; &#10;&lt;/div&gt;" description="bootstrap select" toReformat="false" toShortenFQNames="true">
+    <variable name="KEYNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STOP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STOP2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rg" value="Route::get('$START$','$END$');" description="Routeget" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="rp" value="Route::post('$START$','$END$');" description="Route::post" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="mass" value="protected $guarded = [];" description="fix mass assignment error" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="foreign" value="$table-&gt;foreign('$KEY$_id')&#10;      -&gt;references('id')&#10;      -&gt;on('$KEY$s')&#10;      -&gt;onDelete('cascade');" description="migration foreign key" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="thread" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="cthread" value="$thread = create('App\Thread'$END$);" description="create thread" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="testu" value="&lt;?php&#10;&#10;namespace Tests\Unit;&#10;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;use Tests\TestCase;&#10;&#10;class $CLASS$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;    &#10;    /** @test */&#10;    public function $MEHOTD$()&#10;    {&#10;        $END$&#10;    }&#10;}&#10;" description="unit test template" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="MEHOTD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="creply" value="$reply = create('App\Reply');" description="create reply" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="nfac" value="&lt;?php&#10;&#10;use Faker\Generator as Faker;&#10;&#10;$factory-&gt;define($MODEL$::class, function (Faker $faker) {&#10;    return [&#10;        $END$&#10;    ];&#10;});" description="new factory" toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try {&#10;    $END$           &#10;} catch ( \Exception $e ) {&#10;    return false;&#10;}" description="try and catch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="utest" value="&lt;?php&#10;&#10;namespace Tests\Unit;&#10;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;use Tests\TestCase;&#10;&#10;class $CLASS$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;    &#10;    /** @test */&#10;    public function $MEHOTD$()&#10;    {&#10;        $END$&#10;    }&#10;}&#10;" description="UnitTest Class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MEHOTD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bsinput" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$NAME$&quot;&gt;$END$$NAME2$:&lt;/label&gt;&#10;    &lt;input type=&quot;text&quot; id=&quot;$NAME$&quot; name=&quot;$NAME$&quot; placeholder=&quot;$NAME2$&quot;&gt;&#10;&lt;/div&gt;&#10;                            " description="bootstrap input" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME2" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="sig" value="$this-&gt;signIn();&#10;$END$" description="$this-&gt;signIn();" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="nclass" value="&lt;?php&#10;&#10;namespace App;&#10;&#10;class $CLASSNAME$&#10;{&#10;    $END$&#10;}" description="new class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="lfilter" value="$this-&gt;$subscriptions$ //collection&#10;     -&gt;filter(function ($sub$) use ($reply$){&#10;         return $sub$-&gt;$condition$ // true condition&#10;     })&#10;     -&gt;each(function ($sub$) use ($reply$){&#10;          $sub$-&gt;$END$&#10;     });" description="foreach to filter" toReformat="true" toShortenFQNames="true">
+    <variable name="subscriptions" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="sub" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="reply" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="$t" value="$this-&gt;$END$" description="$this-&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ae" value="$this-&gt;assertEquals($VALUE1$, $VALUE2$);" description="assertEquals" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

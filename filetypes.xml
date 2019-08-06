@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="temp" type="HTML" />
+      <mapping pattern="demo" type="PHP" />
+      <mapping pattern="laracast" type="PHP" />
+      <mapping pattern="tasks2" type="PHP" />
+      <mapping pattern="RegistrationTest" type="PHP" />
+      <mapping pattern="tasks" type="PHP" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping pattern="SpeakCommand.php" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
