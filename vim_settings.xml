@@ -234,13 +234,13 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" timestamp="1565119322348">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" timestamp="1565121214500">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="36" column="9" />
-        <mark key="]" line="41" column="30" />
+        <mark key="]" line="38" column="30" />
         <mark key="m" line="18" column="72" />
-        <mark key="^" line="41" column="30" />
-        <mark key="." line="41" column="30" />
+        <mark key="^" line="38" column="30" />
+        <mark key="." line="38" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Policies/UserPolicy.php" timestamp="1564093937528">
         <mark key="[" line="14" column="5" />
@@ -360,12 +360,12 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1565118276978">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1565121090106">
         <mark key="'" line="74" column="23" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="75" column="30" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="23" />
+        <mark key="^" line="76" column="23" />
+        <mark key="." line="76" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Filters/ThreadFilters.php" timestamp="1561937778392">
         <mark key="[" line="45" column="0" />
@@ -633,6 +633,12 @@
         <mark key="]" line="24" column="69" />
         <mark key="." line="24" column="69" />
         <mark key="^" line="24" column="69" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/RecordVisit.php" timestamp="1565121349583">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/app.js" timestamp="1564328678055">
         <mark key="[" line="27" column="51" />
