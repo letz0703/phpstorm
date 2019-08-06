@@ -9,12 +9,7 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
   <component name="XmlEditorOptions">
-    <option name="showCssColorPreviewInGutter" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
