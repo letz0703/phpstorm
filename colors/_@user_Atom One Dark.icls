@@ -4,7 +4,7 @@
     <property name="created">2019-08-07T03:00:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-08T07:54:48</property>
+    <property name="modified">2019-08-08T08:27:19</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -72,7 +72,7 @@
     <option name="RECENT_LOCATIONS_SELECTION" value="21252b" />
     <option name="RIGHT_MARGIN_COLOR" value="3c4049" />
     <option name="SELECTED_INDENT_GUIDE" value="57b6c2" />
-    <option name="SELECTED_TEARLINE_COLOR" value="57b6c2" />
+    <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="3e4451" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3c4049" />
@@ -84,10 +84,10 @@
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="79ff80" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="282c34" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="2979ff" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="2979ff" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="434447" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="282c34" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="79ffc0" />
-    <option name="ScrollBar.Mac.thumbColor" value="79ffc0" />
+    <option name="ScrollBar.Mac.thumbColor" value="2f333d" />
     <option name="ScrollBar.Mac.trackColor" value="282c34" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="79ffc0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="79ffc0" />
