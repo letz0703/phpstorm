@@ -16,5 +16,6 @@
     </parsing>
     <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
+    <errorStripeModel>normal</errorStripeModel>
   </component>
 </application>
