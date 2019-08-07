@@ -33,16 +33,6 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" timestamp="1564692382905">
-        <mark key="d" line="25" column="8" />
-        <mark key="'" line="35" column="33" />
-        <mark key="k" line="6" column="0" />
-        <mark key="[" line="3" column="53" />
-        <mark key="m" line="8" column="14" />
-        <mark key="]" line="3" column="64" />
-        <mark key="." line="3" column="64" />
-        <mark key="^" line="3" column="64" />
-      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/UserNotificaitons.vue" timestamp="1562674026644">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="26" />
@@ -177,6 +167,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="15" column="11" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Visits.php" timestamp="1565196866051">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="33" column="3" />
+        <mark key="^" line="33" column="3" />
+        <mark key="." line="33" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/ViewedBoxes.php" timestamp="1565009688757">
         <mark key="'" line="9" column="0" />
@@ -360,12 +356,11 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1565194870539">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1565196857435">
         <mark key="'" line="74" column="23" />
-        <mark key="[" line="74" column="50" />
-        <mark key="]" line="77" column="23" />
-        <mark key="^" line="77" column="23" />
-        <mark key="." line="77" column="23" />
+        <mark key="[" line="76" column="46" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Filters/ThreadFilters.php" timestamp="1561937778392">
         <mark key="[" line="45" column="0" />
@@ -634,11 +629,11 @@
         <mark key="." line="24" column="69" />
         <mark key="^" line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/RecordVisit.php" timestamp="1565121349583">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="29" column="3" />
-        <mark key="^" line="29" column="3" />
-        <mark key="." line="29" column="3" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/RecordVisit.php" timestamp="1565196414455">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/app.js" timestamp="1564328678055">
         <mark key="[" line="27" column="51" />
@@ -757,11 +752,11 @@
       <jump line="65" column="19" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhyZWFkLT52aXNpdHMoKS0+cmVzZXQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>visits</text>
@@ -769,8 +764,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgUmVkaXM6OnpyZXZyYW5nZSgndHJlbmRpbmdfdGhyZWFkJywgMCwgLTEpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dGhyZWFkcy57JHRoaXMtPmlkfS52aXNpdHMKdGhyZWFkcy57JHRoaXMtPmlkfS52aXNpdHM=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhyZWFkLT52aXNpdHMoKS0+cmVzZXQoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -779,29 +774,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZWRpczo6ZGVsKCJ0aHJlYWRzLnskdGhyZWFkLT5pZH0udmlzaXRzIik7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">dGhyZWFkcy57JHRoaXMtPmlkfS52aXNpdHMKdGhyZWFkcy57JHRoaXMtPmlkfS52aXNpdHM=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RkKCR0aHJlYWQtPnZpc2l0cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBSZWRpczo6ZGVsKCJ0aHJlYWRzLnskdGhyZWFkLT5pZH0udmlzaXRzIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2RkKCR0aHJlYWQtPnZpc2l0cygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVkaXM6OnJldnJhbmdlKCd0aHJlYWRfdmlzaXRzJywgMCwgLTEpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVkaXM6OnJldnJhbmdlKCd0aHJlYWRfdmlzaXRzJywgMCwgLTEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB2aXNpdHMoKQo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLUBlbmRjYW4tLT4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB2aXNpdHMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
