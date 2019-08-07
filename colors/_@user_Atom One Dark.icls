@@ -4,7 +4,7 @@
     <property name="created">2019-08-07T03:00:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-07T03:35:59</property>
+    <property name="modified">2019-08-08T01:41:17</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -77,29 +77,29 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3c4049" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3c4049" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="2979ffc0" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="2979ffc0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="79ffc0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="79ffc0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="282c34" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="2979ff80" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="2979ff80" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="79ff80" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="79ff80" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="282c34" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="2979ff" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="2979ff" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="282c34" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="2979ffc0" />
-    <option name="ScrollBar.Mac.thumbColor" value="2979ffc0" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="79ffc0" />
+    <option name="ScrollBar.Mac.thumbColor" value="79ffc0" />
     <option name="ScrollBar.Mac.trackColor" value="282c34" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="2979ffc0" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="2979ffc0" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="79ffc0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="79ffc0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="282c34" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="2979ff80" />
-    <option name="ScrollBar.Transparent.thumbColor" value="2979ff80" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="79ff80" />
+    <option name="ScrollBar.Transparent.thumbColor" value="79ff80" />
     <option name="ScrollBar.Transparent.trackColor" value="282c34" />
     <option name="ScrollBar.hoverThumbBorderColor" value="2979ff" />
     <option name="ScrollBar.hoverThumbColor" value="2979ff" />
     <option name="ScrollBar.hoverTrackColor" value="282c34" />
-    <option name="ScrollBar.thumbBorderColor" value="2979ffc0" />
-    <option name="ScrollBar.thumbColor" value="2979ffc0" />
+    <option name="ScrollBar.thumbBorderColor" value="79ffc0" />
+    <option name="ScrollBar.thumbColor" value="79ffc0" />
     <option name="ScrollBar.trackColor" value="282c34" />
     <option name="TEARLINE_COLOR" value="3c4049" />
     <option name="TOOLTIP" value="3a3f4b" />
@@ -118,8 +118,6 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -169,12 +167,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -407,7 +399,6 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
@@ -486,12 +477,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="61aeef" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -528,8 +519,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="636465" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -711,6 +701,11 @@
         <option name="EFFECT_COLOR" value="f49810" />
         <option name="ERROR_STRIPE_COLOR" value="f49810" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GOTO_LABEL">
+      <value>
+        <option name="FOREGROUND" value="c3d3de" />
       </value>
     </option>
     <option name="GO_FUNCTION_PARAMETER">
@@ -996,8 +991,6 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -1019,15 +1012,11 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1038,7 +1027,6 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1059,7 +1047,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="c679dd" />
@@ -2193,12 +2180,41 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
+    <option name="PHP_COMMA">
+      <value>
+        <option name="FOREGROUND" value="a6b2c0" />
+      </value>
+    </option>
     <option name="PHP_CONCATENATION">
       <value />
     </option>
     <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="636465" />
+      </value>
+    </option>
+    <option name="PHP_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
@@ -2207,19 +2223,14 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="61aeef" />
@@ -2637,7 +2648,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="59626f" />
@@ -2650,11 +2660,6 @@
         <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="" />
-    <option name="Scala Type parameter" baseAttributes="" />
-    <option name="Static method access" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="57b6c2" />
@@ -2693,7 +2698,6 @@
         <option name="FOREGROUND" value="c7c8f5" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="ffeb95" />
@@ -2765,7 +2769,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
