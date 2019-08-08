@@ -4,7 +4,7 @@
     <property name="created">2019-08-07T03:00:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-08T07:46:32</property>
+    <property name="modified">2019-08-08T21:30:46</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -2200,6 +2200,11 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="c3d3de" />
+      </value>
+    </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -2219,6 +2224,11 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="PHP_STRING">
+      <value>
+        <option name="FOREGROUND" value="c3d3de" />
       </value>
     </option>
     <option name="PHP_VAR">
