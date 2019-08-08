@@ -25,6 +25,7 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" timestamp="1565270186620" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/UserNotificaitons.vue" timestamp="1562674026644">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="26" />
@@ -46,6 +47,13 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_list.blade.php" timestamp="1565198919159">
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="38" />
+        <mark key="^" line="30" column="38" />
+        <mark key="." line="30" column="38" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Providers/AppServiceProvider.php" timestamp="1563283996335">
         <mark key="[" line="37" column="65" />
         <mark key="]" line="37" column="65" />
@@ -63,13 +71,6 @@
         <mark key="]" line="36" column="37" />
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
-      </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_list.blade.php" timestamp="1565198919159">
-        <mark key="'" line="1" column="25" />
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="38" />
-        <mark key="^" line="30" column="38" />
-        <mark key="." line="30" column="38" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/UserTest.php" timestamp="1563373754540">
         <mark key="[" line="18" column="45" />
@@ -280,7 +281,6 @@
         <mark key="^" line="19" column="41" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/forum/resources/assets/js/components/Favorite.vue" timestamp="1565177802198" />
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/boxes/create.blade.php" timestamp="1562326938189">
         <mark key="[" line="49" column="85" />
         <mark key="]" line="49" column="85" />
@@ -652,6 +652,12 @@
         <mark key="." line="27" column="60" />
         <mark key="^" line="27" column="60" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Flash.vue" timestamp="1565271109548">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+        <mark key="^" line="32" column="19" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1564598280377">
         <mark key="'" line="41" column="4" />
         <mark key="[" line="57" column="15" />
@@ -764,10 +770,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>confirmed</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>confirmed</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>ThreadController@show</text>
