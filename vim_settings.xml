@@ -7,14 +7,6 @@
       <mark key="V" line="30" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_list.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/TrendingThreadTest.php" timestamp="1564944370176">
-        <mark key="'" line="27" column="23" />
-        <mark key="[" line="25" column="0" />
-        <mark key="m" line="20" column="23" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="40" />
-      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/items/index.blade.php" timestamp="1564684991253">
         <mark key="[" line="21" column="56" />
         <mark key="]" line="21" column="56" />
@@ -168,6 +160,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Kernel.php" timestamp="1565269772190">
+        <mark key="[" line="63" column="15" />
+        <mark key="]" line="63" column="26" />
+        <mark key="." line="63" column="26" />
+        <mark key="^" line="63" column="26" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Visits.php" timestamp="1565197983063">
         <mark key="[" line="34" column="5" />
         <mark key="]" line="29" column="3" />
@@ -230,7 +228,7 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" timestamp="1565268271102">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" timestamp="1565269503041">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -553,11 +551,12 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" timestamp="1564094305818">
-        <mark key="[" line="45" column="20" />
-        <mark key="]" line="45" column="20" />
-        <mark key="^" line="45" column="20" />
-        <mark key="." line="45" column="20" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" timestamp="1565269784857">
+        <mark key="'" line="43" column="25" />
+        <mark key="[" line="24" column="66" />
+        <mark key="]" line="22" column="80" />
+        <mark key="^" line="22" column="80" />
+        <mark key="." line="22" column="80" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Exceptions/Handler.php" timestamp="1563471784570">
         <mark key="[" line="54" column="55" />
@@ -605,6 +604,12 @@
         <mark key="]" line="30" column="42" />
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Middleware/RedirectIfEmailNotConfirmed.php" timestamp="1565269522140">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/migrations/2019_04_16_003558_create_items_table.php" timestamp="1564084979689">
         <mark key="[" line="29" column="28" />
@@ -656,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="43" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/ItemTest.php" />
       <jump line="41" column="8" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/InventoryTest.php" />
       <jump line="51" column="18" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/InventoryTest.php" />
       <jump line="246" column="24" filename="$USER_HOME$/Desktop/letz/letz/icanmart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
@@ -756,16 +760,17 @@
       <jump line="138" column="32" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
       <jump line="81" column="43" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadReadTest.php" />
       <jump line="100" column="5" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
+      <jump line="43" column="25" filename="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChhdXRoKCktPnVzZXIoKS0+Y29uZmlybWVkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>confirmed</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>confirmed</text>
       </register>
       <register name="/" type="4">
-        <text>record</text>
+        <text>ThreadController@show</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgUmVkaXM6OnpyZXZyYW5nZSgndHJlbmRpbmdfdGhyZWFkJywgMCwgLTEpKTsK</text>
@@ -809,9 +814,9 @@
       </register>
     </registers>
     <search>
-      <last-search>record</last-search>
+      <last-search>ThreadController@show</last-search>
       <last-offset />
-      <last-pattern>record</last-pattern>
+      <last-pattern>ThreadController@show</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -819,7 +824,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updated</entry>
         <entry>updateIn</entry>
         <entry>201</entry>
         <entry>429</entry>
@@ -839,6 +843,7 @@
         <entry>Tren</entry>
         <entry>visits</entry>
         <entry>record</entry>
+        <entry>ThreadController@show</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
