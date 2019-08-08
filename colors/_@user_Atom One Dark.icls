@@ -4,7 +4,7 @@
     <property name="created">2019-08-07T03:00:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-08T22:29:00</property>
+    <property name="modified">2019-08-08T23:36:52</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -858,12 +858,12 @@
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="636465" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="646566" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="HTTP_REQUEST_PARAMETER_NAME">
@@ -1004,9 +1004,24 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="JS.LABEL">
+      <value>
+        <option name="FOREGROUND" value="c3d3de" />
       </value>
     </option>
     <option name="JS.MODULE_KEYWORD">
@@ -1017,6 +1032,16 @@
     <option name="JS.NULL_UNDEFINED">
       <value>
         <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="4f9faa" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
     <option name="JS.THIS_SUPER">
