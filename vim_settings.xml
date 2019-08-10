@@ -132,7 +132,8 @@
         <mark key="." line="27" column="65" />
         <mark key="^" line="27" column="58" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Listeners/SendEmailConfirmationRequest.php" timestamp="1565443157958">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Listeners/SendEmailConfirmationRequest.php" timestamp="1565464315458">
+        <mark key="'" line="24" column="5" />
         <mark key="[" line="30" column="63" />
         <mark key="]" line="30" column="64" />
         <mark key="." line="30" column="64" />
@@ -216,6 +217,9 @@
         <mark key="]" line="41" column="0" />
         <mark key="^" line="33" column="7" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.env" timestamp="1565465031455">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" timestamp="1565198271251">
         <mark key="'" line="136" column="32" />
@@ -398,6 +402,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="50" column="35" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/emails/confirm-email.blade.php" timestamp="1565465171540">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/index.blade.php" timestamp="1564937414920">
         <mark key="'" line="28" column="9" />
@@ -675,8 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="8" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/InventoryTest.php" />
-      <jump line="51" column="18" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/InventoryTest.php" />
       <jump line="246" column="24" filename="$USER_HOME$/Desktop/letz/letz/icanmart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="597" column="4" filename="$USER_HOME$/Desktop/letz/letz/icanmart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="723" column="35" filename="$USER_HOME$/Desktop/letz/letz/icanmart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
@@ -775,22 +783,24 @@
       <jump line="81" column="43" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadReadTest.php" />
       <jump line="100" column="5" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
       <jump line="43" column="25" filename="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" />
+      <jump line="24" column="5" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Listeners/SendEmailConfirmationRequest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>ThreadController@show</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgUmVkaXM6OnpyZXZyYW5nZSgndHJlbmRpbmdfdGhyZWFkJywgMCwgLTEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnNob3cgPSB0cnVlOyAK</text>
+        <text encoding="base64">VGhlIGJvZHkgb2YgeW91ciBtZXNzYWdlLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -800,37 +810,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZChhdXRoKCktPnVzZXIoKS0+Y29uZmlybWVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnNob3cgPSB0cnVlOyAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZChhdXRoKCktPnVzZXIoKS0+Y29uZmlybWVkKTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlY29yZFZpc2l0KCkKICAgIHsKICAgICAgICBSZWRpczo6aW5jcigkdGhpcy0+dmlzaXRzQ2FjaGVLZXkoKSk7CiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvL3JldHVybiBSZWRpczo6Z2V0KCR0aGlzLT52aXNpdHNDYWNoZUtleSgpKT8/IDA7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyR0aHJlYWQtPnJlY29yZFZpc2l0KCk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdGhyZWFkLT52aXNpdHMoKS0+cmVzZXQoKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">dGhyZWFkcy57JHRoaXMtPmlkfS52aXNpdHMKdGhyZWFkcy57JHRoaXMtPmlkfS52aXNpdHM=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZWRpczo6ZGVsKCJ0aHJlYWRzLnskdGhyZWFkLT5pZH0udmlzaXRzIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>ThreadController@show</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>ThreadController@show</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -838,9 +848,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateIn</entry>
-        <entry>201</entry>
-        <entry>429</entry>
         <entry>failed</entry>
         <entry>user</entry>
         <entry>v-text</entry>
@@ -858,6 +865,9 @@
         <entry>visits</entry>
         <entry>record</entry>
         <entry>ThreadController@show</entry>
+        <entry>pleas</entry>
+        <entry>Please</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
