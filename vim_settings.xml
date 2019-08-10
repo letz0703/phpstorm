@@ -334,11 +334,11 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/RegistrationsTest.php" timestamp="1565441322430">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="53" />
-        <mark key="^" line="19" column="53" />
-        <mark key="." line="19" column="53" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/RegistrationsTest.php" timestamp="1565466370650">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="30" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="33" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/factories/NotificationFactory.php" timestamp="1562843506121">
         <mark key="[" line="10" column="48" />
@@ -676,12 +676,12 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1564598280377">
-        <mark key="'" line="41" column="4" />
-        <mark key="[" line="57" column="15" />
-        <mark key="]" line="56" column="4" />
-        <mark key="^" line="56" column="4" />
-        <mark key="." line="56" column="4" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1565466472984">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="30" />
+        <mark key="^" line="31" column="30" />
+        <mark key="." line="31" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -788,10 +788,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>mail</text>
