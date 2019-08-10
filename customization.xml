@@ -5,25 +5,5 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="com.sonnk.iterm.OpenCmd" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
   </component>
 </application>
