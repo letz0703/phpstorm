@@ -334,8 +334,8 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/RegistrationsTest.php" timestamp="1565481605862">
-        <mark key="[" line="32" column="11" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/RegistrationsTest.php" timestamp="1565546549738">
+        <mark key="[" line="38" column="56" />
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
@@ -571,12 +571,12 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" timestamp="1565269784857">
-        <mark key="'" line="43" column="25" />
-        <mark key="[" line="24" column="66" />
-        <mark key="]" line="22" column="80" />
-        <mark key="^" line="22" column="80" />
-        <mark key="." line="22" column="80" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" timestamp="1565547142366">
+        <mark key="'" line="45" column="25" />
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Exceptions/Handler.php" timestamp="1563471784570">
         <mark key="[" line="54" column="55" />
@@ -790,11 +790,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Auth/RegisterController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0K</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
