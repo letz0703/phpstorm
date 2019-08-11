@@ -626,12 +626,12 @@
       <file name="/Dummy.txt" timestamp="1565441327108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" timestamp="1565554361515">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" timestamp="1565555440046">
         <mark key="'" line="108" column="5" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="26" column="19" />
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="60" column="23" />
+        <mark key="." line="60" column="23" />
+        <mark key="^" line="60" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Middleware/RedirectIfEmailNotConfirmed.php" timestamp="1565269522140">
         <mark key="[" line="17" column="14" />
