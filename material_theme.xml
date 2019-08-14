@@ -1,7 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="accentScrollbars" value="false" />
+    <option name="darkTitleBar" value="false" />
+    <option name="fileIcons" value="false" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isPsiIcons" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="upperCaseButtons" value="false" />
