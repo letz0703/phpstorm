@@ -53,12 +53,12 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Auth/RegisterController.php" timestamp="1565810936058">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Auth/RegisterController.php" timestamp="1565813385674">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="36" />
-        <mark key="]" line="70" column="21" />
-        <mark key="^" line="70" column="21" />
-        <mark key="." line="70" column="21" />
+        <mark key="[" line="69" column="69" />
+        <mark key="]" line="69" column="69" />
+        <mark key="^" line="69" column="69" />
+        <mark key="." line="69" column="69" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Providers/AppServiceProvider.php" timestamp="1563283996335">
         <mark key="[" line="37" column="65" />
@@ -685,12 +685,12 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1565639209655">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1565813287449">
         <mark key="'" line="62" column="28" />
-        <mark key="[" line="64" column="30" />
-        <mark key="]" line="65" column="21" />
-        <mark key="^" line="65" column="21" />
-        <mark key="." line="65" column="21" />
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="65" column="40" />
+        <mark key="^" line="65" column="40" />
+        <mark key="." line="65" column="40" />
       </file>
     </filemarks>
     <jumps>
