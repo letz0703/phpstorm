@@ -264,11 +264,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="77" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Mail/PleaseConfirmYourEmail.php" timestamp="1565553391038">
-        <mark key="[" line="35" column="53" />
-        <mark key="]" line="15" column="9" />
-        <mark key="^" line="15" column="9" />
-        <mark key="." line="15" column="9" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Mail/PleaseConfirmYourEmail.php" timestamp="1565782108519">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="67" />
+        <mark key="^" line="9" column="67" />
+        <mark key="." line="9" column="67" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/BoxController.php" timestamp="1565008109649">
         <mark key="'" line="40" column="10" />
@@ -343,11 +343,11 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/RegistrationsTest.php" timestamp="1565642064985">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="32" column="38" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/RegistrationsTest.php" timestamp="1565782470843">
+        <mark key="[" line="41" column="82" />
+        <mark key="]" line="41" column="82" />
+        <mark key="^" line="41" column="79" />
+        <mark key="." line="41" column="82" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/factories/NotificationFactory.php" timestamp="1562843506121">
         <mark key="[" line="10" column="48" />
@@ -580,12 +580,12 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" timestamp="1565637160209">
-        <mark key="'" line="45" column="25" />
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="20" column="41" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" timestamp="1565782665518">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="20" column="79" />
+        <mark key="]" line="20" column="102" />
+        <mark key="^" line="20" column="102" />
+        <mark key="." line="20" column="102" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Exceptions/Handler.php" timestamp="1565640900538">
         <mark key="[" line="54" column="0" />
@@ -622,12 +622,12 @@
       <file name="/Dummy.txt" timestamp="1565441327108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" timestamp="1565555440046">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" timestamp="1565782747834">
         <mark key="'" line="108" column="5" />
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="60" column="23" />
-        <mark key="." line="60" column="23" />
-        <mark key="^" line="60" column="23" />
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Middleware/RedirectIfEmailNotConfirmed.php" timestamp="1565269522140">
         <mark key="[" line="17" column="14" />
@@ -692,7 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="24" filename="$USER_HOME$/Desktop/letz/letz/icanmart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="814" column="15" filename="$USER_HOME$/Desktop/letz/letz/icanmart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="820" column="31" filename="$USER_HOME$/Desktop/letz/letz/icanmart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="143" column="24" filename="$USER_HOME$/Desktop/letz/letz/icanmart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
@@ -792,16 +791,17 @@
       <jump line="84" column="38" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Auth/RegisterController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Auth/RegisterController.php" />
       <jump line="62" column="28" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>use</text>
+        <text>threads</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKGNyZWF0ZSgnQXBwXFVzZXInLCBbJ25hbWUnID0+ICdKb2huJ10pKTsK</text>
@@ -845,9 +845,9 @@
       </register>
     </registers>
     <search>
-      <last-search>use</last-search>
+      <last-search>threads</last-search>
       <last-offset />
-      <last-pattern>use</last-pattern>
+      <last-pattern>threads</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -855,7 +855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>422</entry>
         <entry>up</entry>
         <entry>upl</entry>
         <entry>image</entry>
@@ -875,6 +874,7 @@
         <entry>create</entry>
         <entry>usesr</entry>
         <entry>use</entry>
+        <entry>threads</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
