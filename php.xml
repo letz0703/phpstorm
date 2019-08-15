@@ -2,6 +2,7 @@
   <component name="MessDetector">
     <phpmd_settings_migrated />
   </component>
+  <component name="PhpAutoImport" global_class_behavior="PREFER_IMPORT" />
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
     <phpcs_settings>
