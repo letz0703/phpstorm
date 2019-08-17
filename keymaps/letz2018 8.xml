@@ -20,8 +20,7 @@
   <action id="Arrangement.Rule.Edit" />
   <action id="BaseOnThisFunction" />
   <action id="ChangesView.Diff" />
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CloseProject">

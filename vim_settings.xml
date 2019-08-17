@@ -385,12 +385,12 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1565197304850">
-        <mark key="'" line="74" column="23" />
-        <mark key="[" line="80" column="48" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="79" column="3" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1566083122904">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="82" column="50" />
+        <mark key="." line="82" column="50" />
+        <mark key="^" line="82" column="50" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Filters/ThreadFilters.php" timestamp="1561937778392">
         <mark key="[" line="45" column="0" />
@@ -713,8 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="4" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventoriable.php" />
-      <jump line="47" column="8" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventoriable.php" />
       <jump line="41" column="17" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventoriable.php" />
       <jump line="74" column="22" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventoriable.php" />
       <jump line="25" column="15" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Notifications/OutOfStock.php" />
@@ -813,6 +811,8 @@
       <jump line="43" column="21" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
       <jump line="32" column="46" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/MentionUsersTest.php" />
       <jump line="38" column="3" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ParticipateinForumTest.php" />
+      <jump line="59" column="57" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
