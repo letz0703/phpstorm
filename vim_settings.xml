@@ -31,6 +31,7 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" timestamp="1565999779848" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/UserNotificaitons.vue" timestamp="1562674026644">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="26" />
@@ -372,7 +373,6 @@
         <mark key="^" line="42" column="27" />
         <mark key="." line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/_ide_helper.php" timestamp="1565912369864" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/database/migrations/2019_07_02_022525_create_subscriptions_table.php" timestamp="1562026822669">
         <mark key="[" line="20" column="52" />
         <mark key="]" line="20" column="51" />
@@ -455,7 +455,8 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ParticipateinForumTest.php" timestamp="1565879356538">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ParticipateinForumTest.php" timestamp="1566000381376">
+        <mark key="'" line="38" column="3" />
         <mark key="[" line="33" column="7" />
         <mark key="]" line="33" column="7" />
         <mark key="." line="33" column="7" />
@@ -522,7 +523,8 @@
         <mark key="^" line="49" column="76" />
         <mark key="." line="49" column="76" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/MentionUsersTest.php" timestamp="1565999212439">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/MentionUsersTest.php" timestamp="1566000053335">
+        <mark key="'" line="32" column="46" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -575,7 +577,7 @@
         <mark key="." line="7" column="54" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Api/UserController.php" timestamp="1563896052174">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Api/UserController.php" timestamp="1566037847549">
         <mark key="[" line="16" column="28" />
         <mark key="]" line="18" column="4" />
         <mark key="^" line="18" column="4" />
@@ -623,6 +625,9 @@
         <mark key="]" line="20" column="24" />
         <mark key="." line="20" column="24" />
         <mark key="^" line="19" column="46" />
+      </file>
+      <file name="/PHP Console" timestamp="1566038216888">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1565999702578">
         <mark key="[" line="0" column="0" />
@@ -708,8 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="734" column="68" filename="$USER_HOME$/Desktop/letz/letz/icanmart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
-      <jump line="736" column="22" filename="$USER_HOME$/Desktop/letz/letz/icanmart/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
       <jump line="16" column="4" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventoriable.php" />
       <jump line="47" column="8" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventoriable.php" />
       <jump line="41" column="17" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventoriable.php" />
@@ -808,6 +811,8 @@
       <jump line="29" column="98" filename="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" />
       <jump line="104" column="5" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
       <jump line="43" column="21" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
+      <jump line="32" column="46" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/MentionUsersTest.php" />
+      <jump line="38" column="3" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ParticipateinForumTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

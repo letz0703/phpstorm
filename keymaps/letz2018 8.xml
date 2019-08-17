@@ -180,7 +180,6 @@
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="SurroundWithEmmet">
