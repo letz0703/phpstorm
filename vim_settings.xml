@@ -250,11 +250,11 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" timestamp="1565880261853">
-        <mark key="[" line="90" column="54" />
-        <mark key="]" line="70" column="35" />
-        <mark key="." line="70" column="35" />
-        <mark key="^" line="70" column="35" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" timestamp="1566084916665">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="89" column="50" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/bootstrap.js" timestamp="1564329744550">
         <mark key="[" line="39" column="26" />
@@ -385,12 +385,12 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1566083122904">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1566085004801">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="84" column="8" />
-        <mark key="]" line="82" column="50" />
-        <mark key="." line="82" column="50" />
-        <mark key="^" line="82" column="50" />
+        <mark key="[" line="88" column="33" />
+        <mark key="]" line="88" column="34" />
+        <mark key="^" line="88" column="34" />
+        <mark key="." line="88" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Filters/ThreadFilters.php" timestamp="1561937778392">
         <mark key="[" line="45" column="0" />
@@ -816,19 +816,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmhlYWRlcnMtPmdldCgnTG9jYXRpb24nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShUaHJlYWQ6OndoZXJlU2x1ZygnZm9vLXRpdGxlLTMnKS0+ZXhpc3RzKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>make</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>register</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKGNyZWF0ZSgnQXBwXFVzZXInLCBbJ25hbWUnID0+ICdKb2huJ10pKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShUaHJlYWQ6OndoZXJlU2x1ZygnZm9vLXRpdGxlLTInKS0+ZXhpc3RzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmhlYWRlcnMtPmdldCgnTG9jYXRpb24nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShUaHJlYWQ6OndoZXJlU2x1ZygnZm9vLXRpdGxlLTMnKS0+ZXhpc3RzKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -838,28 +838,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdChyb3V0ZSgndGhyZWFkcycpLCAkdGhyZWFkLT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NsdWcnID0+IHN0cl9zbHVnKHJlcXVlc3QoJ3RpdGxlJykpLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2x1Zyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+cG9zdCgkdGhyZWFkLT5wYXRoKCkgLiAnL3JlcGxpZXMnLCAkcmVwbHktPnRvQXJyYXkoKSk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNsdWcgPSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGNvbmRpdGlvbi0+ZXhpc3RzKCkpewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmhlYWRlcnMtPmdldCgnTG9jYXRpb24nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29uZGl0aW9uLT5jb3VudCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29uZGl0aW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TWFpbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
