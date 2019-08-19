@@ -156,7 +156,7 @@
         <mark key="." line="30" column="75" />
         <mark key="^" line="30" column="75" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" timestamp="1566235865994">
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" timestamp="1566237261157">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="5" />
         <mark key="]" line="75" column="7" />
@@ -743,11 +743,12 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Box.php" timestamp="1566236086040">
-        <mark key="[" line="101" column="9" />
-        <mark key="]" line="102" column="42" />
-        <mark key="." line="102" column="42" />
-        <mark key="^" line="102" column="42" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Box.php" timestamp="1566237498650">
+        <mark key="'" line="105" column="50" />
+        <mark key="[" line="105" column="56" />
+        <mark key="]" line="105" column="76" />
+        <mark key="." line="105" column="76" />
+        <mark key="^" line="105" column="76" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1565813287449">
         <mark key="'" line="62" column="28" />
@@ -758,7 +759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Spam.php" />
       <jump line="19" column="35" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Inspections/InvalidKeywords.php" />
       <jump line="23" column="7" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventory.php" />
       <jump line="52" column="31" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ParticipateinForumTest.php" />
@@ -858,13 +858,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" />
       <jump line="74" column="7" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/BoxController.php" />
       <jump line="117" column="34" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Feature/BoxManageTest.php" />
+      <jump line="105" column="50" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Box.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYm94KTsK</text>
+      <register name="&quot;" type="4">
+        <text>arrived_at</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENhcmJvbjo6bm93KCktPmZvcm1hdCgnWS1tLWQnKQ==</text>
+        <text>arrived_at</text>
       </register>
       <register name="/" type="4">
         <text>boxes</text>
