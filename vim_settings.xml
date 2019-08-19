@@ -85,6 +85,12 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/factories/BoxFactory.php" timestamp="1566228565446">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/UserTest.php" timestamp="1563373754540">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="45" />
@@ -151,6 +157,13 @@
         <mark key="]" line="30" column="79" />
         <mark key="." line="30" column="75" />
         <mark key="^" line="30" column="75" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" timestamp="1566228210083">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="64" />
+        <mark key="]" line="67" column="67" />
+        <mark key="^" line="67" column="67" />
+        <mark key="." line="67" column="67" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/NotificationController.php" timestamp="1562846281422">
         <mark key="[" line="14" column="50" />
@@ -689,6 +702,12 @@
         <mark key="." line="24" column="69" />
         <mark key="^" line="24" column="69" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/migrations/2019_04_21_124559_create_boxes_table.php" timestamp="1566228183770">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="34" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/RecordVisit.php" timestamp="1565197597540">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="26" column="5" />
@@ -716,8 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="17" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventoriable.php" />
-      <jump line="74" column="22" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventoriable.php" />
       <jump line="25" column="15" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Notifications/OutOfStock.php" />
       <jump line="14" column="17" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Spam.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Spam.php" />
@@ -816,13 +833,15 @@
       <jump line="38" column="3" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ParticipateinForumTest.php" />
       <jump line="59" column="57" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>actual</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>actual</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>register</text>
