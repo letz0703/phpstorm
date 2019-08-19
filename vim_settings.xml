@@ -156,12 +156,12 @@
         <mark key="." line="30" column="75" />
         <mark key="^" line="30" column="75" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" timestamp="1566238812019">
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" timestamp="1566241316737">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="5" />
-        <mark key="]" line="75" column="7" />
-        <mark key="^" line="75" column="7" />
-        <mark key="." line="75" column="7" />
+        <mark key="[" line="83" column="53" />
+        <mark key="]" line="83" column="54" />
+        <mark key="." line="83" column="54" />
+        <mark key="^" line="83" column="67" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/NotificationController.php" timestamp="1562846281422">
         <mark key="[" line="14" column="50" />
@@ -719,8 +719,8 @@
         <mark key="." line="24" column="69" />
         <mark key="^" line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/migrations/2019_04_21_124559_create_boxes_table.php" timestamp="1566231324769">
-        <mark key="[" line="17" column="50" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/migrations/2019_04_21_124559_create_boxes_table.php" timestamp="1566239549933">
+        <mark key="[" line="19" column="33" />
         <mark key="]" line="17" column="50" />
         <mark key="^" line="19" column="34" />
         <mark key="." line="17" column="50" />
@@ -743,12 +743,11 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Box.php" timestamp="1566238790964">
-        <mark key="'" line="105" column="50" />
-        <mark key="[" line="98" column="20" />
-        <mark key="]" line="98" column="47" />
-        <mark key="." line="98" column="47" />
-        <mark key="^" line="98" column="47" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Box.php" timestamp="1566241882645">
+        <mark key="[" line="106" column="17" />
+        <mark key="]" line="106" column="20" />
+        <mark key="." line="106" column="20" />
+        <mark key="^" line="106" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1565813287449">
         <mark key="'" line="62" column="28" />
@@ -862,10 +861,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>arrived_at</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>arrived_at</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>boxes</text>
@@ -874,7 +873,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShUaHJlYWQ6OndoZXJlU2x1ZygnZm9vLXRpdGxlLTInKS0+ZXhpc3RzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYm94KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2x1Zyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -884,28 +883,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYm94KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWF4LT5zbHVnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJ7JHNsdWd9LTIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGF0dHItPmFycml2ZWRfYXQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShUaHJlYWQ6OndoZXJlU2x1ZygnZm9vLXRpdGxlLTQnKS0+ZXhpc3RzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICggJG1heCBhcyAkYXR0cil7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdChyb3V0ZSgndGhyZWFkcycpLCAkdGhyZWFkLT50b0FycmF5KCkpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICR0aGlzLT5wYWlkOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SXNQYWlkQXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmlzUGFpZCgpOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gdXNlcigpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG8oVXNlcjo6Y2xhc3MpOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Um91dGVLZXlOYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gJ3NsdWcnOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0U2x1Z0F0dHJpYnV0ZSgkdmFsdWUpCiAgICB7CiAgICAgICAgaWYgKHN0YXRpYzo6d2hlcmVTbHVnKCRzbHVnID0gJHZhbHVlKS0+ZXhpc3RzKCkpewogICAgICAgICAgICAkc2x1ZyA9ICR0aGlzLT5pbmNyZW1lbnRTbHVnKCRzbHVnKTsKICAgICAgICB9CiAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ3NsdWcnXSA9ICR2YWx1ZTsKICAgIH0KICAgIAogICAgcHVibGljIGZ1bmN0aW9uIGluY3JlbWVudFNsdWcoJHNsdWcpCiAgICB7CiAgICAgICAgCiAgICAgICAgJG1heCA9IHN0YXRpYzo6d2hlcmUoJ3NsdWcnLCAkc2x1ZyktPmxhdGVzdCgnaWQnKS0+Zmlyc3QoKTsKICAgICAgICBkZCgkbWF4KTsKICAgICAgICBpZiAoaXNfbnVtZXJpYygkbWF4WyAtMSBdKSl7CiAgICAgICAgICAgIHJldHVybiBwcmVnX3JlcGxhY2VfY2FsbGJhY2soJy8oXGQrKSQvJywgZnVuY3Rpb24gKCRtYXRjaGVzKXsKICAgICAgICAgICAgICAgIHJldHVybiAkbWF0Y2hlc1sxXSArIDE7CiAgICAgICAgICAgIH0sICRtYXgpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gInskc2x1Z30tMiI7CiAgICB9CiAgICAKICAgIC8vcHVibGljIGZ1bmN0aW9uIHN1bVVwSXRlbXMoKQogICAgLy97CiAgICAvLyAgICR0aGlzLT51cGRhdGUoWydhbW91bnQnID0+ICR0aGlzLT5pdGVtcygpLT5hbW91bnRdKTsKICAgIC8vfQogICAgCiAgICAKfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1hdGNoZXNbMV0rMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2x1Zyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1hdGNoZXNbMV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWF4WydzbHVnJ10pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWF4WyAtIDEgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWF4WyAtMSBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
