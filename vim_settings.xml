@@ -31,6 +31,7 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" timestamp="1566242120657" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/UserNotificaitons.vue" timestamp="1562674026644">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="26" />
@@ -65,6 +66,7 @@
         <mark key="^" line="69" column="71" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_list.blade.php" timestamp="1566242120657" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Providers/AppServiceProvider.php" timestamp="1566154398692">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="22" column="8" />
@@ -83,11 +85,11 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/factories/BoxFactory.php" timestamp="1566231232515">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="38" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="17" column="38" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/factories/BoxFactory.php" timestamp="1566245093207">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/UserTest.php" timestamp="1563373754540">
         <mark key="[" line="18" column="45" />
@@ -156,12 +158,12 @@
         <mark key="." line="30" column="75" />
         <mark key="^" line="30" column="75" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" timestamp="1566241316737">
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" timestamp="1566244529799">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="83" column="53" />
-        <mark key="]" line="83" column="54" />
-        <mark key="." line="83" column="54" />
-        <mark key="^" line="83" column="67" />
+        <mark key="[" line="84" column="42" />
+        <mark key="]" line="84" column="52" />
+        <mark key="." line="84" column="52" />
+        <mark key="^" line="84" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/NotificationController.php" timestamp="1562846281422">
         <mark key="[" line="14" column="50" />
@@ -303,13 +305,13 @@
         <mark key="^" line="9" column="67" />
         <mark key="." line="9" column="67" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/BoxController.php" timestamp="1566235871195">
-        <mark key="'" line="74" column="7" />
-        <mark key="[" line="70" column="28" />
-        <mark key="]" line="55" column="4" />
-        <mark key="m" line="132" column="21" />
-        <mark key="." line="55" column="4" />
-        <mark key="^" line="55" column="4" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/BoxController.php" timestamp="1566244422122">
+        <mark key="'" line="72" column="7" />
+        <mark key="[" line="70" column="44" />
+        <mark key="m" line="130" column="21" />
+        <mark key="]" line="70" column="41" />
+        <mark key="." line="70" column="41" />
+        <mark key="^" line="70" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/StockTest.php" timestamp="1562023252202">
         <mark key="[" line="18" column="34" />
@@ -376,12 +378,6 @@
         <mark key="]" line="33" column="37" />
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
-      </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/RegistrationsTest.php" timestamp="1565825069368">
-        <mark key="'" line="25" column="7" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/factories/NotificationFactory.php" timestamp="1562843506121">
         <mark key="[" line="10" column="48" />
@@ -549,12 +545,6 @@
         <mark key="^" line="49" column="76" />
         <mark key="." line="49" column="76" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/MentionUsersTest.php" timestamp="1566000053335">
-        <mark key="'" line="32" column="46" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/pages/Thread.vue" timestamp="1562091470091">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="2" column="60" />
@@ -671,12 +661,6 @@
       <file name="/Dummy.txt" timestamp="1565912277958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" timestamp="1565880257670">
-        <mark key="'" line="107" column="5" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Middleware/RedirectIfEmailNotConfirmed.php" timestamp="1565269522140">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="20" />
@@ -743,11 +727,11 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Box.php" timestamp="1566241882645">
-        <mark key="[" line="106" column="17" />
-        <mark key="]" line="106" column="20" />
-        <mark key="." line="106" column="20" />
-        <mark key="^" line="106" column="20" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Box.php" timestamp="1566244446032">
+        <mark key="[" line="105" column="41" />
+        <mark key="]" line="105" column="45" />
+        <mark key="." line="105" column="45" />
+        <mark key="^" line="105" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1565813287449">
         <mark key="'" line="62" column="28" />
@@ -860,11 +844,11 @@
       <jump line="105" column="50" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Box.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRhcnJpdmVkX2F0ID0gJGZha2VyLT5kYXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>arrived_at</text>
       </register>
       <register name="/" type="4">
         <text>boxes</text>
@@ -873,7 +857,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShUaHJlYWQ6OndoZXJlU2x1ZygnZm9vLXRpdGxlLTInKS0+ZXhpc3RzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2x1Zyk7Cg==</text>
+        <text encoding="base64">ICAgICRhcnJpdmVkX2F0ID0gJGZha2VyLT5kYXRlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -883,28 +867,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWF4LT5zbHVnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChpc19udW1lcmljKCRtYXhbIC0xIF0pKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHNsdWcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGF0dHItPmFycml2ZWRfYXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRtYXRjaGVzWzFdKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICggJG1heCBhcyAkYXR0cil7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXJyaXZlZF9hdCA9IHJlcXVlc3QoJ2Fycml2ZWRfYXQnKSA/IDogcmVxdWVzdCgnY3JlYXRlZF9hdCcpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICR0aGlzLT5wYWlkOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SXNQYWlkQXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmlzUGFpZCgpOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gdXNlcigpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG8oVXNlcjo6Y2xhc3MpOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Um91dGVLZXlOYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gJ3NsdWcnOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0U2x1Z0F0dHJpYnV0ZSgkdmFsdWUpCiAgICB7CiAgICAgICAgaWYgKHN0YXRpYzo6d2hlcmVTbHVnKCRzbHVnID0gJHZhbHVlKS0+ZXhpc3RzKCkpewogICAgICAgICAgICAkc2x1ZyA9ICR0aGlzLT5pbmNyZW1lbnRTbHVnKCRzbHVnKTsKICAgICAgICB9CiAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ3NsdWcnXSA9ICR2YWx1ZTsKICAgIH0KICAgIAogICAgcHVibGljIGZ1bmN0aW9uIGluY3JlbWVudFNsdWcoJHNsdWcpCiAgICB7CiAgICAgICAgCiAgICAgICAgJG1heCA9IHN0YXRpYzo6d2hlcmUoJ3NsdWcnLCAkc2x1ZyktPmxhdGVzdCgnaWQnKS0+Zmlyc3QoKTsKICAgICAgICBkZCgkbWF4KTsKICAgICAgICBpZiAoaXNfbnVtZXJpYygkbWF4WyAtMSBdKSl7CiAgICAgICAgICAgIHJldHVybiBwcmVnX3JlcGxhY2VfY2FsbGJhY2soJy8oXGQrKSQvJywgZnVuY3Rpb24gKCRtYXRjaGVzKXsKICAgICAgICAgICAgICAgIHJldHVybiAkbWF0Y2hlc1sxXSArIDE7CiAgICAgICAgICAgIH0sICRtYXgpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gInskc2x1Z30tMiI7CiAgICB9CiAgICAKICAgIC8vcHVibGljIGZ1bmN0aW9uIHN1bVVwSXRlbXMoKQogICAgLy97CiAgICAvLyAgICR0aGlzLT51cGRhdGUoWydhbW91bnQnID0+ICR0aGlzLT5pdGVtcygpLT5hbW91bnRdKTsKICAgIC8vfQogICAgCiAgICAKfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRtYXRjaGVzKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkc2x1Zyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWF4WydzbHVnJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWF4WzBdKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWF4WyAtMSBdKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICR0aGlzLT5wYWlkOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SXNQYWlkQXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmlzUGFpZCgpOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gdXNlcigpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG8oVXNlcjo6Y2xhc3MpOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Um91dGVLZXlOYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gJ3NsdWcnOwogICAgfQogICAgCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0U2x1Z0F0dHJpYnV0ZSgkdmFsdWUpCiAgICB7CiAgICAgICAgaWYgKHN0YXRpYzo6d2hlcmVTbHVnKCRzbHVnID0gc3RyX3NsdWcoJHZhbHVlKSktPmV4aXN0cygpKXsKICAgICAgICAgICAgJHNsdWcgPSAkdGhpcy0+aW5jcmVtZW50U2x1Zygkc2x1Zyk7CiAgICAgICAgfQogICAgICAgICR0aGlzLT5hdHRyaWJ1dGVzWydzbHVnJ10gPSAkc2x1ZzsKICAgIH0KICAgIAogICAgcHVibGljIGZ1bmN0aW9uIGluY3JlbWVudFNsdWcoJHNsdWcpCiAgICB7CiAgICAgICAgJG1heCA9IHN0YXRpYzo6d2hlcmUoJ2Fycml2ZWRfYXQnLCAkdGhpcy0+YXJyaXZlZF9hdCktPmxhdGVzdCgnaWQnKS0+Zmlyc3QoKTsKICAgICAgICBkZCgkbWF4LT5hcnJpdmVkX2F0KTsKICAgICAgICAKICAgICAgICBpZiAoaXNfbnVtZXJpYygkbWF4WyAtMSBdKSl7CiAgICAgICAgICAgIHJldHVybiBwcmVnX3JlcGxhY2VfY2FsbGJhY2soJy8oXGQrKSQvJywgZnVuY3Rpb24gKCRtYXRjaGVzKXsKICAgICAgICAgICAgICAgIHJldHVybiAkbWF0Y2hlc1sxXSArIDE7CiAgICAgICAgICAgIH0sICRtYXgpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gInskc2x1Z30tMiI7CiAgICB9CiAgICAKICAgIC8vcHVibGljIGZ1bmN0aW9uIHN1bVVwSXRlbXMoKQogICAgLy97CiAgICAvLyAgICR0aGlzLT51cGRhdGUoWydhbW91bnQnID0+ICR0aGlzLT5pdGVtcygpLT5hbW91bnRdKTsKICAgIC8vfQogICAgCiAgICAKfQ==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
