@@ -31,7 +31,6 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" timestamp="1566242120657" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/UserNotificaitons.vue" timestamp="1562674026644">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="26" />
@@ -356,10 +355,10 @@
         <mark key="." line="45" column="52" />
         <mark key="^" line="45" column="52" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/Readme.md" timestamp="1566774742627">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/Readme.md" timestamp="1566775304684">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php" timestamp="1565642242670">
@@ -559,6 +558,9 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/README.md" timestamp="1566775739674">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/pages/BoxList.vue" timestamp="1561835924953">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="16" />
@@ -668,7 +670,6 @@
         <mark key="." line="38" column="30" />
         <mark key="^" line="38" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/.gitignore" timestamp="1566680399859" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/SubscriptionTest.php" timestamp="1562004086513">
         <mark key="[" line="17" column="64" />
         <mark key="]" line="17" column="70" />
@@ -884,10 +885,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>mark</text>
