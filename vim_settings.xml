@@ -356,6 +356,12 @@
         <mark key="." line="45" column="52" />
         <mark key="^" line="45" column="52" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/Readme.md" timestamp="1566774742627">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php" timestamp="1565642242670">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="19" />
@@ -878,10 +884,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>border</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>border</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>mark</text>
