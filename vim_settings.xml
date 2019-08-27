@@ -319,6 +319,12 @@
         <mark key="^" line="9" column="67" />
         <mark key="." line="9" column="67" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/composer.json" timestamp="1566947731687">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="60" column="4" />
+        <mark key="^" line="60" column="4" />
+        <mark key="." line="60" column="4" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/StockTest.php" timestamp="1562023252202">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="36" />
@@ -523,6 +529,12 @@
         <mark key="]" line="28" column="40" />
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/package.json" timestamp="1566947780081">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ParticipateinForumTest.php" timestamp="1566000381376">
         <mark key="'" line="38" column="3" />
@@ -905,7 +917,7 @@
         <text>secret</text>
       </register>
       <register name="/" type="4">
-        <text>recapt</text>
+        <text>axio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy1hc3NlcnRGYWxzZSgkcmVwbGllc1sxXS0+ZnIoKS0+aXNCZXN0KCkpOwo=</text>
@@ -949,9 +961,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recapt</last-search>
+      <last-search>axio</last-search>
       <last-offset />
-      <last-pattern>recapt</last-pattern>
+      <last-pattern>axio</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -959,7 +971,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pleas</entry>
         <entry>Please</entry>
         <entry>mail</entry>
         <entry>casts</entry>
@@ -979,6 +990,7 @@
         <entry>data</entry>
         <entry>can</entry>
         <entry>recapt</entry>
+        <entry>axio</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
