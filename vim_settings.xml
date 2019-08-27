@@ -564,8 +564,11 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/README.md" timestamp="1566775739674">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/README.md" timestamp="1566945116881">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/pages/BoxList.vue" timestamp="1561835924953">
         <mark key="[" line="0" column="0" />
@@ -890,11 +893,11 @@
       <jump line="48" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>Intal</text>
       </register>
       <register name="-" type="4">
-        <text>authorize('updateReply', reply)</text>
+        <text>Intal</text>
       </register>
       <register name="/" type="4">
         <text>can</text>
