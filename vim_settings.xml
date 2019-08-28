@@ -895,7 +895,7 @@
         <text>window</text>
       </register>
       <register name="/" type="4">
-        <text>axio</text>
+        <text>must</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy1hc3NlcnRGYWxzZSgkcmVwbGllc1sxXS0+ZnIoKS0+aXNCZXN0KCkpOwo=</text>
@@ -939,9 +939,9 @@
       </register>
     </registers>
     <search>
-      <last-search>axio</last-search>
+      <last-search>must</last-search>
       <last-offset />
-      <last-pattern>axio</last-pattern>
+      <last-pattern>must</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -949,7 +949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Please</entry>
         <entry>mail</entry>
         <entry>casts</entry>
         <entry>create</entry>
@@ -969,6 +968,7 @@
         <entry>can</entry>
         <entry>recapt</entry>
         <entry>axio</entry>
+        <entry>must</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
