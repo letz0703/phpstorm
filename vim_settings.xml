@@ -413,11 +413,12 @@
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" timestamp="1566506887359">
-        <mark key="[" line="65" column="5" />
-        <mark key="]" line="34" column="19" />
-        <mark key="^" line="34" column="19" />
-        <mark key="." line="34" column="19" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" timestamp="1567014805955">
+        <mark key="'" line="14" column="41" />
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="74" column="30" />
+        <mark key="^" line="74" column="30" />
+        <mark key="." line="74" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Providers/AuthServiceProvider.php" timestamp="1564076194154">
         <mark key="[" line="18" column="13" />
@@ -457,14 +458,16 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" timestamp="1567013755736">
-        <mark key="t" line="31" column="31" />
-        <mark key="d" line="54" column="32" />
-        <mark key="'" line="56" column="13" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="68" column="10" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" timestamp="1567014958038">
+        <mark key="b" line="102" column="15" />
+        <mark key="t" line="33" column="36" />
+        <mark key="d" line="55" column="32" />
+        <mark key="'" line="55" column="16" />
+        <mark key="[" line="101" column="0" />
+        <mark key="m" line="102" column="15" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="54" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/components/BoxItems.vue" timestamp="1561837222273">
         <mark key="[" line="5" column="43" />
@@ -783,11 +786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="44" filename="$USER_HOME$/Desktop/letz/letz/icanmart/routes/web.php" />
-      <jump line="39" column="56" filename="$USER_HOME$/Desktop/letz/letz/icanmart/routes/web.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/database/factories/ItemFactory.php" />
-      <jump line="19" column="47" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Inventory.php" />
-      <jump line="13" column="40" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Item.php" />
       <jump line="42" column="10" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Feature/UploadImageTest.php" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" />
       <jump line="26" column="25" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" />
@@ -883,13 +881,18 @@
       <jump line="48" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
       <jump line="5" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/create.blade.php" />
       <jump line="57" column="13" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
+      <jump line="96" column="15" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
+      <jump line="33" column="36" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
+      <jump line="55" column="16" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
+      <jump line="35" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" />
+      <jump line="14" column="41" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxkaXYgdi1pZj0iYXV0aG9yaXplKCd1cGRhdGVSZXBseScsIHJlcGx5KSI+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNCZXN0ID0gdHJ1ZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>secret</text>
+        <text>se</text>
       </register>
       <register name="/" type="4">
         <text>axio</text>
@@ -898,7 +901,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy1hc3NlcnRGYWxzZSgkcmVwbGllc1sxXS0+ZnIoKS0+aXNCZXN0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxkaXYgdi1pZj0iYXV0aG9yaXplKCd1cGRhdGVSZXBseScsIHJlcGx5KSI+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaXNCZXN0ID0gdHJ1ZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -908,28 +911,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxkaXYgdi1pZj0iYXV0aG9yaXplKCd1cGRhdGVSZXBseScsIHJlcGx5KSI+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuIHdpbmRvdy5BcHAuc2lnbmVkSW47Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzaWduZWRJbigpewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuIHdpbmRvdy5BcHAuc2lnbmVkSW47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmRhdGEudXNlcl9pZCA9PSB3aW5kb3cuQXBwLnVzZXIuaWQK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzaWduZWRJbigpewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuYXV0aG9yaXplKHVzZXIgPT4gdGhpcy5kYXRhLnVzZXJfaWQgPT0gdXNlci5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmRhdGEudXNlcl9pZCA9PSB3aW5kb3cuQXBwLnVzZXIuaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuYXV0aG9yaXplKHVzZXIgPT4gdGhpcy5kYXRhLnVzZXJfaWQgPT0gdXNlci5pZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBjYW5VcGRhdGUoKXsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiB2LWlmPSJjYW5VcGRhdGUiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBjYW5VcGRhdGUoKXsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
