@@ -667,12 +667,12 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" timestamp="1566986233744">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" timestamp="1567033118001">
         <mark key="'" line="29" column="98" />
-        <mark key="[" line="40" column="65" />
-        <mark key="]" line="41" column="33" />
-        <mark key="^" line="41" column="33" />
-        <mark key="." line="41" column="33" />
+        <mark key="[" line="23" column="56" />
+        <mark key="]" line="23" column="90" />
+        <mark key="^" line="23" column="90" />
+        <mark key="." line="23" column="90" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/components/Paginator.vue" timestamp="1561677722945">
         <mark key="[" line="45" column="13" />
@@ -895,7 +895,7 @@
         <text>window</text>
       </register>
       <register name="/" type="4">
-        <text>must</text>
+        <text>middle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy1hc3NlcnRGYWxzZSgkcmVwbGllc1sxXS0+ZnIoKS0+aXNCZXN0KCkpOwo=</text>
@@ -939,9 +939,9 @@
       </register>
     </registers>
     <search>
-      <last-search>must</last-search>
+      <last-search>middle</last-search>
       <last-offset />
-      <last-pattern>must</last-pattern>
+      <last-pattern>middle</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -949,7 +949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
         <entry>casts</entry>
         <entry>create</entry>
         <entry>usesr</entry>
@@ -969,6 +968,7 @@
         <entry>recapt</entry>
         <entry>axio</entry>
         <entry>must</entry>
+        <entry>middle</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
