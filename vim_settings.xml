@@ -460,22 +460,28 @@
         <mark key="^" line="30" column="55" />
         <mark key="." line="30" column="55" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Replies.vue" timestamp="1567185828558">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/components/Items.vue" timestamp="1562109495359">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="12" column="20" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" timestamp="1567184807102">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" timestamp="1567186422972">
         <mark key="b" line="108" column="15" />
         <mark key="t" line="33" column="36" />
         <mark key="d" line="55" column="32" />
-        <mark key="'" line="55" column="16" />
-        <mark key="[" line="25" column="38" />
+        <mark key="'" line="33" column="36" />
+        <mark key="[" line="25" column="68" />
         <mark key="m" line="108" column="15" />
-        <mark key="]" line="25" column="82" />
-        <mark key="." line="25" column="82" />
-        <mark key="^" line="25" column="82" />
+        <mark key="]" line="25" column="68" />
+        <mark key="." line="25" column="68" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/components/BoxItems.vue" timestamp="1561837222273">
         <mark key="[" line="5" column="43" />
@@ -547,12 +553,12 @@
         <mark key="^" line="25" column="34" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/authorizations.js" timestamp="1567185121879">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/authorizations.js" timestamp="1567186199189">
         <mark key="'" line="5" column="4" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="41" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/database/factories/UserFactory.php" timestamp="1565802673063">
         <mark key="[" line="31" column="29" />
@@ -881,7 +887,6 @@
       <jump line="5" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/create.blade.php" />
       <jump line="57" column="13" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
       <jump line="96" column="15" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
-      <jump line="33" column="36" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
       <jump line="55" column="16" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
       <jump line="35" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" />
       <jump line="14" column="41" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" />
@@ -894,16 +899,17 @@
       <jump line="32" column="7" filename="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" />
       <jump line="39" column="7" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/BestReplyTest.php" />
       <jump line="51" column="20" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ReplyController.php" />
+      <jump line="33" column="36" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>.thread</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>.thread</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>prop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy1hc3NlcnRGYWxzZSgkcmVwbGllc1sxXS0+ZnIoKS0+aXNCZXN0KCkpOwo=</text>
@@ -947,9 +953,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>prop</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>prop</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -957,7 +963,6 @@
     </search>
     <history>
       <history-search>
-        <entry>threads</entry>
         <entry>register</entry>
         <entry>boxes</entry>
         <entry>static</entry>
@@ -977,6 +982,7 @@
         <entry>destroy</entry>
         <entry>del</entry>
         <entry>delete</entry>
+        <entry>prop</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
