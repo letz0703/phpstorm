@@ -466,16 +466,16 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" timestamp="1567017394812">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" timestamp="1567184807102">
         <mark key="b" line="108" column="15" />
         <mark key="t" line="33" column="36" />
         <mark key="d" line="55" column="32" />
         <mark key="'" line="55" column="16" />
-        <mark key="[" line="72" column="50" />
+        <mark key="[" line="25" column="38" />
         <mark key="m" line="108" column="15" />
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="27" />
-        <mark key="^" line="55" column="27" />
+        <mark key="]" line="25" column="82" />
+        <mark key="." line="25" column="82" />
+        <mark key="^" line="25" column="82" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/components/BoxItems.vue" timestamp="1561837222273">
         <mark key="[" line="5" column="43" />
@@ -547,12 +547,12 @@
         <mark key="^" line="25" column="34" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/authorizations.js" timestamp="1566904316375">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/authorizations.js" timestamp="1567185121879">
         <mark key="'" line="5" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/database/factories/UserFactory.php" timestamp="1565802673063">
         <mark key="[" line="31" column="29" />
