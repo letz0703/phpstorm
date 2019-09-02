@@ -4,7 +4,7 @@
     <property name="created">2019-08-07T03:00:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-12T03:16:15</property>
+    <property name="modified">2019-09-02T07:56:05</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.65" />
@@ -157,6 +157,16 @@
       <value>
         <option name="FOREGROUND" value="4babb8" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BLADE_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="BLADE_TEXT_BLOCK_BOUNDARY">
+      <value>
+        <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
     <option name="BNF_KEYWORD">

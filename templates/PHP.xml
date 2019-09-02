@@ -171,7 +171,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="nclass" value="&lt;?php&#10;&#10;namespace App;&#10;&#10;class $CLASSNAME$&#10;{&#10;    $END$&#10;}" description="new class" toReformat="false" toShortenFQNames="true">
+  <template name="class" value="&lt;?php&#10;&#10;namespace App;&#10;&#10;class $CLASSNAME$&#10;{&#10;    $END$&#10;}" description="new class" toReformat="false" toShortenFQNames="true">
     <variable name="CLASSNAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="OTHER" value="true" />
