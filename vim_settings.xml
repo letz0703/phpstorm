@@ -2,8 +2,8 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="T" line="10" column="12" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" protocol="file" />
-      <mark key="D" line="25" column="8" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" protocol="file" />
+      <mark key="T" line="11" column="12" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" protocol="file" />
+      <mark key="D" line="26" column="8" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" protocol="file" />
       <mark key="V" line="30" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_list.blade.php" protocol="file" />
     </globalmarks>
     <filemarks>
@@ -30,6 +30,12 @@
         <mark key="]" line="9" column="67" />
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" timestamp="1567550604087">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/UserNotificaitons.vue" timestamp="1562674026644">
         <mark key="[" line="2" column="23" />
@@ -316,12 +322,12 @@
         <mark key="." line="40" column="21" />
         <mark key="^" line="40" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" timestamp="1567016548355">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" timestamp="1567550372354">
         <mark key="'" line="18" column="47" />
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="3" column="12" />
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="63" />
+        <mark key="^" line="20" column="63" />
+        <mark key="." line="20" column="63" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/ViewdBoxes.php" timestamp="1565004892374">
         <mark key="[" line="10" column="76" />
@@ -735,11 +741,11 @@
         <mark key="." line="119" column="4" />
         <mark key="^" line="119" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ReputationTest.php" timestamp="1567259281259">
-        <mark key="[" line="39" column="25" />
-        <mark key="]" line="39" column="21" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="39" column="21" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ReputationTest.php" timestamp="1567551005617">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="^" line="41" column="82" />
+        <mark key="." line="42" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ReplyTest.php" timestamp="1563577728918">
         <mark key="[" line="42" column="32" />
@@ -942,11 +948,11 @@
       <jump line="172" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhyZWFkLT5sb2NrZWQpO2RkCg==</text>
+      <register name="&quot;" type="4">
+        <text>52</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>52</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
