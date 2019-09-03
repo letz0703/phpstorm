@@ -290,8 +290,8 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" timestamp="1567454692962">
-        <mark key="'" line="172" column="4" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" timestamp="1567551678214">
+        <mark key="'" line="51" column="25" />
         <mark key="[" line="49" column="5" />
         <mark key="]" line="53" column="41" />
         <mark key="." line="53" column="41" />
@@ -846,7 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="12" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" />
       <jump line="10" column="11" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" />
       <jump line="38" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" />
       <jump line="8" column="14" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" />
@@ -946,6 +945,7 @@
       <jump line="178" column="6" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
       <jump line="13" column="43" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
       <jump line="172" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
+      <jump line="51" column="25" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
