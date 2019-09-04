@@ -228,11 +228,11 @@
         <mark key="." line="29" column="3" />
         <mark key="^" line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reputation.php" timestamp="1567379131883">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="19" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reputation.php" timestamp="1567594426722">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/ViewedBoxes.php" timestamp="1565009688757">
         <mark key="'" line="9" column="0" />
@@ -290,12 +290,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" timestamp="1567551678214">
-        <mark key="'" line="51" column="25" />
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="53" column="41" />
-        <mark key="." line="53" column="41" />
-        <mark key="^" line="53" column="41" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" timestamp="1567594344106">
+        <mark key="'" line="52" column="25" />
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="54" column="41" />
+        <mark key="." line="54" column="41" />
+        <mark key="^" line="54" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Providers/EventServiceProvider.php" timestamp="1563128852188">
         <mark key="[" line="18" column="12" />
@@ -741,11 +741,11 @@
         <mark key="." line="119" column="4" />
         <mark key="^" line="119" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ReputationTest.php" timestamp="1567551005617">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="^" line="41" column="82" />
-        <mark key="." line="42" column="28" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ReputationTest.php" timestamp="1567594319618">
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="27" column="57" />
+        <mark key="^" line="27" column="57" />
+        <mark key="." line="27" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ReplyTest.php" timestamp="1563577728918">
         <mark key="[" line="42" column="32" />
@@ -949,10 +949,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>52</text>
+        <text>increment</text>
       </register>
       <register name="-" type="4">
-        <text>52</text>
+        <text>increment</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
