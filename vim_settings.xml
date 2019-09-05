@@ -124,11 +124,11 @@
         <mark key="^" line="27" column="17" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/LockThreadTest.php" timestamp="1567681788405">
-        <mark key="[" line="27" column="58" />
-        <mark key="]" line="27" column="58" />
-        <mark key="^" line="27" column="58" />
-        <mark key="." line="27" column="58" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/LockThreadTest.php" timestamp="1567682614762">
+        <mark key="[" line="31" column="55" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/MentionUserTest.php" timestamp="1563534698026">
         <mark key="[" line="18" column="54" />
@@ -247,11 +247,11 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/LockedThreadController.php" timestamp="1567681735189">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="14" column="23" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/LockedThreadController.php" timestamp="1567682680516">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/database/factories/NotificationFactory.php" timestamp="1562843086057">
         <mark key="[" line="9" column="40" />
@@ -958,19 +958,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdChyb3V0ZSgnbG9ja2VkLXRocmVhZC5zdG9yZScsICR0aHJlYWQpKS0+YXNzZXJ0U3RhdHVzKDQwMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCcnLCA0MDMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ThreadController</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>favor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdChyb3V0ZSgnbG9ja2VkLXRocmVhZC5zdG9yZScsICR0aHJlYWQpKS0+YXNzZXJ0U3RhdHVzKDQwMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCcnLCA0MDMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC0+YXNzZXJ0U3RhdHVzKDQyMik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -980,28 +980,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdCgpLT5oYXMoJ2xvY2tlZCcpKXsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdCgiL3RocmVhZHMveyR0aHJlYWQtPmNoYW5uZWx9L3skdGhyZWFkLT5pZH0vcmVwbGllcyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBdKS0+YXNzZXJ0U3RhdHVzKDQyMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVwbHkgPSBjcmVhdGUoJ0FwcFxSZXBseScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfaWQnID0+IGF1dGgoKS0+aWQoKSwK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkdGhyZWFkLT5sb2NrZWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JvZHknICAgID0+ICdzb21lIHRleHQnLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdCgkdGhyZWFkLT5wYXRoKCkgLiAnL3JlcGxpZXMnLCBbCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdCgkdGhyZWFkLT5wYXRoKCkuJy9yZXBsaWVzJywgWwogICAgICAgICAgICAnYm9keScgPT4gJ3NvbWUgdGV4dCcsCiAgICAgICAgICAgICd1c2VyX2lkJyA9PiBhdXRoKCktPmlkKCkKICAgICAgICBdKS0+YXNzZXJ0U3RhdHVzKDQyMik7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdGhyZWFkLT5sb2NrKCk7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhyZWFkID0gY3JlYXRlKCdBcHBcVGhyZWFkJyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKGZhY3RvcnkoJ0FwcFxVc2VyJyktPnN0YXRlKCdhZG1pbmlzdHJhdG9yJyktPmNyZWF0ZSgpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVwbHkgPSBjcmVhdGUoJ0FwcFxSZXBseScsWyd1c2VyX2lkJyA9PiBhdXRoKCktPmlkKCldKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCk7CiAgICAgICAgJHRocmVhZCA9IGNyZWF0ZSgnQXBwXFRocmVhZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
