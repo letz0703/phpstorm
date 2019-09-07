@@ -325,12 +325,12 @@
         <mark key="." line="40" column="21" />
         <mark key="^" line="40" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" timestamp="1567550372354">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" timestamp="1567897100093">
         <mark key="'" line="18" column="47" />
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="20" column="63" />
-        <mark key="^" line="20" column="63" />
-        <mark key="." line="20" column="63" />
+        <mark key="[" line="90" column="101" />
+        <mark key="]" line="90" column="100" />
+        <mark key="^" line="90" column="100" />
+        <mark key="." line="90" column="100" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/ViewdBoxes.php" timestamp="1565004892374">
         <mark key="[" line="10" column="76" />
@@ -422,12 +422,6 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/RegistrationsTest.php" timestamp="1565825069368">
-        <mark key="'" line="25" column="7" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/factories/NotificationFactory.php" timestamp="1562843506121">
         <mark key="[" line="10" column="48" />
         <mark key="]" line="10" column="58" />
@@ -458,12 +452,6 @@
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="40" />
-      </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1567455141965">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="121" column="44" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/BestReplyTest.php" timestamp="1567102909567">
         <mark key="'" line="39" column="7" />
@@ -573,12 +561,12 @@
         <mark key="^" line="25" column="34" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/authorizations.js" timestamp="1567186199189">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/authorizations.js" timestamp="1567897325451">
         <mark key="'" line="5" column="4" />
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="13" column="58" />
+        <mark key="^" line="13" column="58" />
+        <mark key="." line="13" column="58" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/database/factories/UserFactory.php" timestamp="1567604894086">
         <mark key="[" line="38" column="18" />
@@ -634,12 +622,6 @@
         <mark key="]" line="49" column="76" />
         <mark key="^" line="49" column="76" />
         <mark key="." line="49" column="76" />
-      </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/MentionUsersTest.php" timestamp="1566000053335">
-        <mark key="'" line="32" column="46" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/pages/Thread.vue" timestamp="1562091470091">
         <mark key="[" line="6" column="23" />
@@ -759,12 +741,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1567681838410">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" timestamp="1565880257670">
-        <mark key="'" line="107" column="5" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Middleware/RedirectIfEmailNotConfirmed.php" timestamp="1565269522140">
         <mark key="[" line="17" column="14" />
@@ -950,10 +926,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGlzQWRtaW4oKQogICAgewogICAgICAgIHJldHVybiBpbl9hcnJheSgkdGhpcy0+Y3JlYXRvci0+bmFtZSwgWydyYWluc2tpc3MnLCAnbGV0ejA3MDMnXSk7CiAgICB9</text>
+        <text>flex</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>flex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">cm91dGUg</text>
