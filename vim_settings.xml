@@ -291,6 +291,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.env" timestamp="1567986343017" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" timestamp="1567710222191">
         <mark key="'" line="52" column="25" />
       </file>
@@ -386,6 +387,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.env.travis" timestamp="1567986350352" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php" timestamp="1565642242670">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="19" />
@@ -692,6 +694,7 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.travis.yml" timestamp="1567986287331" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" timestamp="1567709807734">
         <mark key="'" line="38" column="71" />
         <mark key="[" line="26" column="34" />
