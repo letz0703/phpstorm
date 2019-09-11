@@ -338,11 +338,12 @@
         <mark key="^" line="9" column="67" />
         <mark key="." line="9" column="67" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/composer.json" timestamp="1566947731687">
-        <mark key="[" line="60" column="5" />
-        <mark key="]" line="60" column="4" />
-        <mark key="^" line="60" column="4" />
-        <mark key="." line="60" column="4" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/composer.json" timestamp="1568241405211">
+        <mark key="'" line="60" column="4" />
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/StockTest.php" timestamp="1562023252202">
         <mark key="[" line="18" column="34" />
@@ -502,6 +503,11 @@
         <mark key="]" line="93" column="42" />
         <mark key="." line="93" column="42" />
         <mark key="^" line="91" column="47" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/composer.json" timestamp="1568241514972">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/components/BoxItems.vue" timestamp="1561837222273">
         <mark key="[" line="5" column="43" />
@@ -839,7 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="7" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" />
       <jump line="26" column="23" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/TrendingThreadTest.php" />
       <jump line="18" column="72" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" />
       <jump line="41" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" />
@@ -939,22 +944,23 @@
       <jump line="30" column="33" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" />
       <jump line="58" column="18" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
+      <jump line="60" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMy4yIiwK</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCcnLCA0MDMpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGlzQWRtaW4oKQogICAgewogICAgICAgIHJldHVybiBpbl9hcnJheSgkdGhpcy0+Y3JlYXRvci0+bmFtZSwgWydyYWluc2tpc3MnLCAnbGV0ejA3MDMnXSk7CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMy4yIiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -964,37 +970,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJG5leHQoJHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMy4yIiwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC0+YXNzZXJ0U3RhdHVzKDQyMik7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGlzQWRtaW4oKQogICAgewogICAgICAgIHJldHVybiBpbl9hcnJheSgkdGhpcy0+Y3JlYXRvci0+bmFtZSwgWydyYWluc2tpc3MnLCAnbGV0ejA3MDMnXSk7CiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdCgiL3RocmVhZHMveyR0aHJlYWQtPmNoYW5uZWx9L3skdGhyZWFkLT5pZH0vcmVwbGllcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJG5leHQoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVwbHkgPSBjcmVhdGUoJ0FwcFxSZXBseScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC0+YXNzZXJ0U3RhdHVzKDQyMik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkdGhyZWFkLT5sb2NrZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdCgiL3RocmVhZHMveyR0aHJlYWQtPmNoYW5uZWx9L3skdGhyZWFkLT5pZH0vcmVwbGllcyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhyZWFkLT5sb2NrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVwbHkgPSBjcmVhdGUoJ0FwcFxSZXBseScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhyZWFkID0gY3JlYXRlKCdBcHBcVGhyZWFkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkdGhyZWFkLT5sb2NrZWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKGZhY3RvcnkoJ0FwcFxVc2VyJyktPnN0YXRlKCdhZG1pbmlzdHJhdG9yJyktPmNyZWF0ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhyZWFkLT5sb2NrKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -1002,7 +1008,6 @@
     </search>
     <history>
       <history-search>
-        <entry>can</entry>
         <entry>recapt</entry>
         <entry>axio</entry>
         <entry>must</entry>
@@ -1022,6 +1027,7 @@
         <entry>route</entry>
         <entry encoding="base64">cm91dGUg</entry>
         <entry>data</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
