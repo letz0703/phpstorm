@@ -62,7 +62,6 @@
         <mark key="^" line="69" column="71" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_list.blade.php" timestamp="1567679431166" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Providers/AppServiceProvider.php" timestamp="1566154398692">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="22" column="8" />
@@ -320,12 +319,12 @@
         <mark key="." line="41" column="21" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" timestamp="1568200574975">
-        <mark key="'" line="18" column="47" />
-        <mark key="[" line="89" column="99" />
-        <mark key="]" line="90" column="100" />
-        <mark key="^" line="90" column="100" />
-        <mark key="." line="90" column="100" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" timestamp="1568201319648">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="90" column="103" />
+        <mark key="]" line="89" column="113" />
+        <mark key="^" line="89" column="113" />
+        <mark key="." line="89" column="113" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/ViewdBoxes.php" timestamp="1565004892374">
         <mark key="[" line="10" column="76" />
@@ -481,17 +480,28 @@
         <mark key="^" line="30" column="55" />
         <mark key="." line="30" column="55" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Replies.vue" timestamp="1567185828558">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="24" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Replies.vue" timestamp="1568202287030">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/components/Items.vue" timestamp="1562109495359">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="12" column="20" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" timestamp="1568201928333">
+        <mark key="b" line="110" column="15" />
+        <mark key="t" line="33" column="36" />
+        <mark key="d" line="54" column="32" />
+        <mark key="'" line="58" column="18" />
+        <mark key="[" line="99" column="24" />
+        <mark key="m" line="110" column="15" />
+        <mark key="]" line="93" column="42" />
+        <mark key="." line="93" column="42" />
+        <mark key="^" line="91" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/components/BoxItems.vue" timestamp="1561837222273">
         <mark key="[" line="5" column="43" />
@@ -628,8 +638,8 @@
         <mark key="^" line="49" column="76" />
         <mark key="." line="49" column="76" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/pages/Thread.vue" timestamp="1562091470091">
-        <mark key="[" line="6" column="23" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/pages/Thread.vue" timestamp="1568201270179">
+        <mark key="[" line="10" column="55" />
         <mark key="]" line="2" column="60" />
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
@@ -829,9 +839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="74" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Feature/UploadImageTest.php" />
-      <jump line="35" column="33" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" />
-      <jump line="22" column="9" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/index.blade.php" />
       <jump line="31" column="7" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" />
       <jump line="26" column="23" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/TrendingThreadTest.php" />
       <jump line="18" column="72" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" />
@@ -929,16 +936,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Kernel.php" />
       <jump line="72" column="6" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Kernel.php" />
       <jump line="28" column="6" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Kernel.php" />
+      <jump line="30" column="33" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" />
+      <jump line="58" column="18" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">cm91dGUg</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCcnLCA0MDMpOwo=</text>
@@ -982,9 +992,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">cm91dGUg</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern encoding="base64">cm91dGUg</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -992,7 +1002,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>can</entry>
         <entry>recapt</entry>
         <entry>axio</entry>
@@ -1012,6 +1021,7 @@
         <entry>favor</entry>
         <entry>route</entry>
         <entry encoding="base64">cm91dGUg</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
