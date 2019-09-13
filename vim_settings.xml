@@ -31,7 +31,6 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" timestamp="1568300516181" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/UserNotificaitons.vue" timestamp="1562674026644">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="26" />
@@ -63,7 +62,6 @@
         <mark key="^" line="69" column="71" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_list.blade.php" timestamp="1568300516181" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Providers/AppServiceProvider.php" timestamp="1566154398692">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="22" column="8" />
@@ -309,11 +307,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.env" timestamp="1568415449797">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="19" column="20" />
-        <mark key="^" line="19" column="20" />
-        <mark key="." line="19" column="20" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.env" timestamp="1568417037248">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Providers/EventServiceProvider.php" timestamp="1563128852188">
         <mark key="[" line="18" column="12" />
@@ -568,6 +566,7 @@
         <mark key="^" line="19" column="62" />
         <mark key="." line="19" column="62" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/config/queue.php" timestamp="1568417008876" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/letz.txt" timestamp="1562975739694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="27" column="29" />
@@ -684,6 +683,9 @@
         <mark key="]" line="12" column="9" />
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/config/scout.php" timestamp="1568416870477">
+        <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/SubscriptionController.php" timestamp="1562024276472">
         <mark key="[" line="12" column="8" />
@@ -882,7 +884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/ViewedBoxes.php" />
       <jump line="32" column="10" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/BoxController.php" />
       <jump line="40" column="10" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/BoxController.php" />
@@ -982,22 +983,23 @@
       <jump line="60" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/composer.json" />
       <jump line="98" column="30" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" />
       <jump line="16" column="8" filename="$USER_HOME$/Desktop/letz/letz/forum2019/package.json" />
+      <jump line="28" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/config/scout.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>forum2019</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UVVFVUVfRFJJVkVSPWRhdGFiYXNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>forum2019</text>
       </register>
       <register name="/" type="4">
-        <text>conti</text>
+        <text>que</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCcnLCA0MDMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VE9ETwo=</text>
+        <text encoding="base64">UVVFVUVfRFJJVkVSPWRhdGFiYXNlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1007,40 +1009,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VE9ETwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIDcuMwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RkKCRib3hGcm9tU2VsbGVyLT5zZWxsZXItPnNsdWcpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RkKCRyZXNwb25zZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAtIDcuMwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL2RkKCRib3hGcm9tU2VsbGVyLT5zZWxsZXItPnNsdWcpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvL2RkKCRyZXNwb25zZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>/**
  * Class BoxFilters
  * @package App\Filters
  */</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRib3hlcyA9ICRib3hlcy0+Z2V0KCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2VsbGVyLT5zbHVnKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyRib3hlcyA9ICRib3hlcy0+Z2V0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>conti</last-search>
+      <last-search>que</last-search>
       <last-offset />
-      <last-pattern>conti</last-pattern>
+      <last-pattern>que</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -1048,7 +1050,6 @@
     </search>
     <history>
       <history-search>
-        <entry>destroy</entry>
         <entry>del</entry>
         <entry>delete</entry>
         <entry>prop</entry>
@@ -1068,6 +1069,7 @@
         <entry>scout</entry>
         <entry>con</entry>
         <entry>conti</entry>
+        <entry>que</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
