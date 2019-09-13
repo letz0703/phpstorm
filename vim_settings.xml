@@ -500,8 +500,8 @@
         <mark key="." line="12" column="53" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/UserProfileTest.php" timestamp="1568383640867" />
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/README.md" timestamp="1568384001203">
-        <mark key="[" line="0" column="13" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/README.md" timestamp="1568414742349">
+        <mark key="[" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/pages/BoxList.vue" timestamp="1561835924953">
         <mark key="[" line="0" column="0" />
@@ -635,11 +635,11 @@
         <mark key="." line="20" column="24" />
         <mark key="^" line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.gitignore" timestamp="1568344808420">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.gitignore" timestamp="1568414337976">
         <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Middleware/RedirectIfEmailNotConfirmed.php" timestamp="1565269522140">
         <mark key="[" line="17" column="14" />
