@@ -159,11 +159,11 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/app.js" timestamp="1564681523121">
-        <mark key="[" line="27" column="65" />
-        <mark key="]" line="27" column="65" />
-        <mark key="." line="27" column="65" />
-        <mark key="^" line="27" column="58" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/app.js" timestamp="1568462771494">
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="64" />
+        <mark key="." line="31" column="64" />
+        <mark key="^" line="31" column="64" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Listeners/SendEmailConfirmationRequest.php" timestamp="1565638560250">
         <mark key="'" line="24" column="5" />
@@ -338,7 +338,7 @@
         <mark key="." line="41" column="21" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" timestamp="1568283791661">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" timestamp="1568462501376">
         <mark key="'" line="98" column="30" />
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="64" />
@@ -573,11 +573,10 @@
         <mark key="." line="27" column="29" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/welcome.blade.php" timestamp="1568461758886">
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/welcome.blade.php" timestamp="1568463172554">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="83" column="27" />
-        <mark key="." line="83" column="27" />
-        <mark key="^" line="83" column="27" />
+        <mark key="[" line="83" column="16" />
+        <mark key="]" line="83" column="43" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Item.php" timestamp="1564683066547">
         <mark key="'" line="13" column="40" />
@@ -992,11 +991,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/welcome.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Laravel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aXRlbS1zZWFyY2g+PC9pdGVtLXNlYXJjaD4K</text>
       </register>
       <register name="-" type="4">
-        <text>Laravel</text>
+        <text>Box</text>
       </register>
       <register name="/" type="4">
         <text>que</text>
@@ -1005,7 +1004,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCcnLCA0MDMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0NPVVRfRFJJVkVSPW51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aXRlbS1zZWFyY2g+PC9pdGVtLXNlYXJjaD4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1015,31 +1014,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UVVFVUVfRFJJVkVSPWRhdGFiYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpdGVtLXNlYXJjaD48L2l0ZW0tc2VhcmNoPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VE9ETwo=</text>
+        <text encoding="base64">U0NPVVRfRFJJVkVSPW51bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UVVFVUVfRFJJVkVSPWRhdGFiYXNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIDcuMwo=</text>
+        <text encoding="base64">VE9ETwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RkKCRib3hGcm9tU2VsbGVyLT5zZWxsZXItPnNsdWcpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RkKCRyZXNwb25zZSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
- * Class BoxFilters
- * @package App\Filters
- */</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAtIDcuMwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL2RkKCRib3hGcm9tU2VsbGVyLT5zZWxsZXItPnNsdWcpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL2RkKCRyZXNwb25zZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
