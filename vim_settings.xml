@@ -573,6 +573,12 @@
         <mark key="." line="27" column="29" />
         <mark key="^" line="27" column="29" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/welcome.blade.php" timestamp="1568461758886">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="83" column="27" />
+        <mark key="." line="83" column="27" />
+        <mark key="^" line="83" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Item.php" timestamp="1564683066547">
         <mark key="'" line="13" column="40" />
         <mark key="[" line="31" column="21" />
@@ -884,7 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/ViewedBoxes.php" />
       <jump line="32" column="10" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/BoxController.php" />
       <jump line="40" column="10" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/BoxController.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
@@ -984,13 +989,14 @@
       <jump line="98" column="30" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/show.blade.php" />
       <jump line="16" column="8" filename="$USER_HOME$/Desktop/letz/letz/forum2019/package.json" />
       <jump line="28" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/config/scout.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/welcome.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0NPVVRfRFJJVkVSPW51bGwK</text>
+      <register name="&quot;" type="4">
+        <text>Laravel</text>
       </register>
       <register name="-" type="4">
-        <text>forum2019</text>
+        <text>Laravel</text>
       </register>
       <register name="/" type="4">
         <text>que</text>
