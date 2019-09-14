@@ -94,8 +94,8 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Jobs/PerformLongRunningThing.php" timestamp="1568500444775">
-        <mark key="[" line="31" column="8" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Jobs/PerformLongRunningThing.php" timestamp="1568503810297">
+        <mark key="[" line="31" column="17" />
         <mark key="]" line="31" column="37" />
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
@@ -893,10 +893,10 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="104" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/storage/logs/laravel-2019-09-15.log" timestamp="1568501929371">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="18" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/storage/logs/laravel-2019-09-15.log" timestamp="1568503846798">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1567710068492">
         <mark key="'" line="62" column="28" />
@@ -907,7 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
       <jump line="89" column="11" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
       <jump line="77" column="48" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
@@ -1007,13 +1006,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/welcome.blade.php" />
       <jump line="90" column="27" filename="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/welcome.blade.php" />
       <jump line="19" column="25" filename="$USER_HOME$/Desktop/letz/letz/forum2019/.env" />
+      <jump line="14" column="17" filename="$USER_HOME$/Desktop/letz/letz/forum2019/storage/logs/laravel-2019-09-15.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Welcome</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>Welcome</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>SCOUT</text>
