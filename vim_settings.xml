@@ -37,6 +37,7 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" timestamp="1568500546319" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/UserNotificaitons.vue" timestamp="1562674026644">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="26" />
@@ -68,6 +69,7 @@
         <mark key="^" line="69" column="71" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_list.blade.php" timestamp="1568500546319" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Providers/AppServiceProvider.php" timestamp="1566154398692">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="22" column="8" />
@@ -319,12 +321,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.env" timestamp="1568500188811">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.env" timestamp="1568502600698">
         <mark key="'" line="19" column="25" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="24" />
-        <mark key="^" line="45" column="24" />
-        <mark key="." line="45" column="24" />
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="46" column="24" />
+        <mark key="^" line="46" column="24" />
+        <mark key="." line="46" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Providers/EventServiceProvider.php" timestamp="1563128852188">
         <mark key="[" line="18" column="12" />
@@ -425,7 +427,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.env.travis" timestamp="1568383254664" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php" timestamp="1565642242670">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="19" />
@@ -579,7 +580,6 @@
         <mark key="^" line="19" column="62" />
         <mark key="." line="19" column="62" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/config/queue.php" timestamp="1568417008876" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/letz.txt" timestamp="1562975739694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="27" column="29" />
@@ -651,7 +651,6 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/UserProfileTest.php" timestamp="1568383640867" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/README.md" timestamp="1568414742349">
         <mark key="[" line="12" column="32" />
       </file>
@@ -893,6 +892,11 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
         <mark key="^" line="104" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/storage/logs/laravel-2019-09-15.log" timestamp="1568501929371">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1567710068492">
         <mark key="'" line="62" column="28" />
