@@ -321,7 +321,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.env" timestamp="1568502600698">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.env" timestamp="1568504995215">
         <mark key="'" line="19" column="25" />
         <mark key="[" line="44" column="16" />
         <mark key="]" line="46" column="24" />
@@ -579,6 +579,9 @@
         <mark key="]" line="19" column="62" />
         <mark key="^" line="19" column="62" />
         <mark key="." line="19" column="62" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/config/queue.php" timestamp="1568505920219">
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/letz.txt" timestamp="1562975739694">
         <mark key="[" line="0" column="0" />
@@ -1009,11 +1012,11 @@
       <jump line="14" column="17" filename="$USER_HOME$/Desktop/letz/letz/forum2019/storage/logs/laravel-2019-09-15.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdkZWZhdWx0JyA9PiBlbnYoJ1FVRVVFX0NPTk5FQ1RJT04nLCAnc3luYycpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>SCOUT</text>
@@ -1022,7 +1025,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCcnLCA0MDMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgSXRlbVNlYXJjaCBmcm9tICcuLi9jb21wb25lbnRzL0l0ZW1TZWFyY2gnOwo=</text>
+        <text encoding="base64">ICAgICdkZWZhdWx0JyA9PiBlbnYoJ1FVRVVFX0NPTk5FQ1RJT04nLCAnc3luYycpLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1032,28 +1035,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgSXRlbVNlYXJjaCBmcm9tICcuLi9jb21wb25lbnRzL0l0ZW1TZWFyY2gnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC90ZW1wbGF0ZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">PC90ZW1wbGF0ZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHRlbXBsYXRlPgo=</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aXRlbS1zZWFyY2g+PC9pdGVtLXNlYXJjaD4K</text>
+        <text encoding="base64">PHRlbXBsYXRlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpdGVtLXNlYXJjaD48L2l0ZW0tc2VhcmNoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aXRlbS1zZWFyY2g+PC9pdGVtLXNlYXJjaD4K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
