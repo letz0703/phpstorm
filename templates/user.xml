@@ -202,4 +202,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="pro" value="protected $END$$guarded = [];" description="protected" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
