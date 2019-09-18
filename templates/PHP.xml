@@ -205,9 +205,21 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="@forel" value="@forelse ($ITERABLE$s as $VAR_VALUE$) &#10;    $END$&#10;@endforelse&#10;" description="@forelse" toReformat="false" toShortenFQNames="true">
+  <template name="@forel" value="@forelse ($ITERABLE$s as $VAR_VALUE$) &#10;    $END$&#10;@empty&#10;    &#10;@endforelse&#10;" description="@forelse" toReformat="false" toShortenFQNames="true">
     <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR_VALUE" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="@sec" value="@section('$NAME$')&#10;    $END$&#10;@endsection" description="@section" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="@if" value="@if ($CONDITION$)&#10;    $END$&#10;@endif" description="@if" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
