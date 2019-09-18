@@ -198,4 +198,24 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="@fore" value="@foreach ($ITERABLE$s as $VAR_VALUE$) &#10;    $END$&#10;@endforeach" description="@foreach" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="@forel" value="@forelse ($ITERABLE$s as $VAR_VALUE$) &#10;    $END$&#10;@empty&#10;    &#10;@endforelse&#10;" description="@forelse" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="@sec" value="@section('$NAME$')&#10;    $END$&#10;@endsection" description="@section" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
