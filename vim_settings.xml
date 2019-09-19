@@ -37,6 +37,10 @@
         <mark key="." line="9" column="67" />
         <mark key="^" line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/database/seeds/DatabaseSeeder.php" timestamp="1568916791695">
+        <mark key="[" line="13" column="48" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/AvatarForm.vue" timestamp="1568916400444" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/UserNotificaitons.vue" timestamp="1562674026644">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="26" />
@@ -67,6 +71,7 @@
         <mark key="^" line="69" column="71" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_list.blade.php" timestamp="1568916400444" />
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Providers/AppServiceProvider.php" timestamp="1566154398692">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="22" column="8" />
@@ -126,12 +131,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="27" column="17" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/LockThreadTest.php" timestamp="1568551489291">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="50" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/MentionUserTest.php" timestamp="1563534698026">
         <mark key="[" line="18" column="54" />
@@ -268,12 +267,6 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/LockedThreadController.php" timestamp="1568551271115">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="41" />
-      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/database/factories/NotificationFactory.php" timestamp="1562843086057">
         <mark key="[" line="9" column="40" />
         <mark key="]" line="9" column="40" />
@@ -346,13 +339,6 @@
         <mark key="]" line="15" column="1" />
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
-      </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" timestamp="1568636643239">
-        <mark key="'" line="84" column="7" />
-        <mark key="[" line="118" column="50" />
-        <mark key="]" line="118" column="45" />
-        <mark key="." line="118" column="45" />
-        <mark key="^" line="118" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/bootstrap.js" timestamp="1567899430329">
         <mark key="[" line="36" column="55" />
@@ -508,10 +494,10 @@
         <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1568551432171">
-        <mark key="[" line="119" column="17" />
-        <mark key="]" line="119" column="43" />
-        <mark key="^" line="119" column="43" />
-        <mark key="." line="119" column="43" />
+        <mark key="[" line="121" column="17" />
+        <mark key="]" line="121" column="43" />
+        <mark key="^" line="121" column="43" />
+        <mark key="." line="121" column="43" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/BestReplyTest.php" timestamp="1567102909567">
         <mark key="'" line="39" column="7" />
@@ -955,11 +941,9 @@
         <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/User.php" timestamp="1568727244248">
-        <mark key="'" line="62" column="28" />
-        <mark key="[" line="83" column="5" />
-        <mark key="]" line="87" column="63" />
-        <mark key="^" line="87" column="63" />
-        <mark key="." line="87" column="63" />
+        <mark key="]" line="104" column="63" />
+        <mark key="^" line="104" column="63" />
+        <mark key="." line="104" column="63" />
       </file>
     </filemarks>
     <jumps>
