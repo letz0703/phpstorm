@@ -245,10 +245,10 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Kernel.php" timestamp="1567709775240">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Kernel.php" timestamp="1568934591647">
         <mark key="'" line="29" column="6" />
-        <mark key="[" line="64" column="66" />
-        <mark key="]" line="65" column="38" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="40" />
         <mark key="." line="65" column="38" />
         <mark key="^" line="65" column="38" />
       </file>
@@ -290,11 +290,11 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Feature/AdminTest.php" timestamp="1568933684050">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="15" column="13" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="15" column="13" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Feature/AdminTest.php" timestamp="1568934262149">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/database/factories/NotificationFactory.php" timestamp="1562843086057">
         <mark key="[" line="9" column="40" />
@@ -352,11 +352,11 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/factories/UserFactory.php" timestamp="1568933642001">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/factories/UserFactory.php" timestamp="1568934846928">
+        <mark key="[" line="27" column="47" />
+        <mark key="]" line="43" column="0" />
         <mark key="^" line="21" column="3" />
-        <mark key="." line="42" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Providers/EventServiceProvider.php" timestamp="1563128852188">
         <mark key="[" line="18" column="12" />
@@ -554,12 +554,18 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/routes/web.php" timestamp="1568932978820">
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/routes/web.php" timestamp="1568934808011">
         <mark key="'" line="32" column="37" />
-        <mark key="[" line="49" column="96" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="50" column="84" />
+        <mark key="]" line="51" column="25" />
+        <mark key="^" line="51" column="25" />
+        <mark key="." line="51" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Kernel.php" timestamp="1568934607546">
+        <mark key="'" line="47" column="25" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Replies.vue" timestamp="1568283994077">
         <mark key="[" line="7" column="38" />
@@ -704,6 +710,12 @@
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/README.md" timestamp="1568414742349">
         <mark key="[" line="12" column="32" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Middleware/Administrator.php" timestamp="1568934687596">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="21" column="52" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/config/forum.php" timestamp="1568933790460">
         <mark key="[" line="4" column="8" />
       </file>
@@ -795,11 +807,11 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/User.php" timestamp="1568732185745">
-        <mark key="[" line="49" column="28" />
-        <mark key="]" line="49" column="28" />
-        <mark key="." line="49" column="28" />
-        <mark key="^" line="51" column="28" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/User.php" timestamp="1568934773917">
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+        <mark key="^" line="36" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Notifications/ThreadReceivedNewReply.php" timestamp="1563561630120">
         <mark key="[" line="16" column="4" />
@@ -845,7 +857,7 @@
         <mark key="." line="119" column="4" />
         <mark key="^" line="119" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Middleware/Administrator.php" timestamp="1567710418638">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Middleware/Administrator.php" timestamp="1568934676835">
         <mark key="[" line="21" column="44" />
         <mark key="]" line="21" column="41" />
         <mark key="^" line="21" column="41" />
@@ -913,6 +925,11 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/Admin/DashboardController.php" timestamp="1568934506007">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Controllers/Api/ImageUploadController.php" timestamp="1564685032875">
         <mark key="[" line="20" column="11" />
@@ -988,9 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="21" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
-      <jump line="32" column="46" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/MentionUsersTest.php" />
-      <jump line="38" column="3" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ParticipateinForumTest.php" />
       <jump line="59" column="57" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/tests/Unit/BoxTest.php" />
@@ -1088,22 +1102,25 @@
       <jump line="5" column="1" filename="$USER_HOME$/Desktop/letz/letz/forum2019/database/seeds/UsersTableSeeder.php" />
       <jump line="30" column="7" filename="$USER_HOME$/Desktop/letz/letz/forum2019/database/seeds/SampleDataSeeder.php" />
       <jump line="23" column="72" filename="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Kernel.php" />
+      <jump line="24" column="25" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Kernel.php" />
+      <jump line="46" column="25" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Kernel.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJG5leHQoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>route</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5ib29sZWFuKCdpc0FkbWluJyktPmRlZmF1bHQoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnYWRtaW4nID0+IEFkbWluaXN0cmF0b3I6OmNsYXNzLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJG5leHQoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1113,37 +1130,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGZhY3RvcnktPnN0YXRlKCdBcHBcVXNlcicsICdhZG1pbmlzdHJhdG9yJywgZnVuY3Rpb24gKCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXV0aCgpLT51c2VyKCktPmlzQWRtaW4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8nY29uZmlybWVkJyA9PiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8nZW1haWwnICAgICA9PiAncmFpbnNraXNzQG5hdGUuY29tJywK</text>
+        <text encoding="base64">ICAgICAgIGRkKCR1c2VyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnNpZ25JbigkdXNlcik7Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IGZhY3RvcnkoJ0FwcFxVc2VyJyktPnN0YXRlKCdhZG1pbmlzdHJhdG9yJyktPmNyZWF0ZSgpOwo=</text>
+        <text encoding="base64">JGZhY3RvcnktPnN0YXRlKCdBcHBcVXNlcicsICdhZG1pbmlzdHJhdG9yJywgZnVuY3Rpb24gKCl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Um91dGU6Omdyb3VwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8nY29uZmlybWVkJyA9PiB0cnVlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8nZW1haWwnICAgICA9PiAncmFpbnNraXNzQG5hdGUuY29tJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWRTdWIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnNpZ25JbigkdXNlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>route</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>route</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -1151,11 +1168,9 @@
     </search>
     <history>
       <history-search>
-        <entry>best</entry>
         <entry>mark</entry>
         <entry>new</entry>
         <entry>favor</entry>
-        <entry>route</entry>
         <entry encoding="base64">cm91dGUg</entry>
         <entry>data</entry>
         <entry>debug</entry>
@@ -1171,6 +1186,8 @@
         <entry>322</entry>
         <entry>302</entry>
         <entry>store</entry>
+        <entry>admin</entry>
+        <entry>route</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
