@@ -245,9 +245,6 @@
         <mark key="." line="29" column="38" />
         <mark key="^" line="29" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Admin/ChannelController.php" timestamp="1568978615680">
-        <mark key="[" line="13" column="43" />
-      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Api/UserAvatarController.php" timestamp="1564683234991">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="22" column="21" />
@@ -594,6 +591,12 @@
         <mark key="." line="58" column="89" />
         <mark key="^" line="58" column="89" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Kernel.php" timestamp="1568934607546">
+        <mark key="'" line="47" column="25" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Replies.vue" timestamp="1568283994077">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="11" />
@@ -868,6 +871,12 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/yarn.lock" timestamp="1568986450018">
+        <mark key="'" line="1241" column="2" />
+        <mark key="[" line="1235" column="20" />
+        <mark key="]" line="1235" column="21" />
+        <mark key="." line="1235" column="21" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/components/Paginator.vue" timestamp="1561677722945">
         <mark key="[" line="45" column="13" />
         <mark key="]" line="38" column="30" />
@@ -1047,8 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
       <jump line="9" column="28" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/BestReplyController.php" />
       <jump line="84" column="7" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/vendor/symfony/http-foundation/Response.php" />
@@ -1147,6 +1154,8 @@
       <jump line="85" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/layouts/nav.blade.php" />
       <jump line="38" column="18" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/layouts/app.blade.php" />
       <jump line="41" column="27" filename="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/layouts/app.blade.php" />
+      <jump line="1235" column="20" filename="$USER_HOME$/Desktop/letz/letz/forum2019/yarn.lock" />
+      <jump line="1241" column="2" filename="$USER_HOME$/Desktop/letz/letz/forum2019/yarn.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1156,7 +1165,7 @@
         <text>sellers</text>
       </register>
       <register name="/" type="4">
-        <text>notification</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3NsdWcnLCA1MCk7Cg==</text>
@@ -1201,9 +1210,9 @@ data-toggle=&quot;pill&quot;</text>
       </register>
     </registers>
     <search>
-      <last-search>notification</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>notification</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjbGFzc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -1211,7 +1220,6 @@ data-toggle=&quot;pill&quot;</text>
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>debug</entry>
         <entry>rep</entry>
         <entry>con</entry>
@@ -1231,6 +1239,7 @@ data-toggle=&quot;pill&quot;</text>
         <entry>layout</entry>
         <entry>sup</entry>
         <entry>notification</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
