@@ -245,6 +245,9 @@
         <mark key="." line="29" column="38" />
         <mark key="^" line="29" column="38" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Admin/ChannelController.php" timestamp="1568978615680">
+        <mark key="[" line="13" column="43" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/Api/UserAvatarController.php" timestamp="1564683234991">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="22" column="21" />
@@ -770,7 +773,7 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/.env" timestamp="1568921597823">
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/.env" timestamp="1568989181427">
         <mark key="[" line="47" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/InventoryTest.php" timestamp="1562409882450">
