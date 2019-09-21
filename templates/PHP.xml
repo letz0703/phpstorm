@@ -224,4 +224,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="@inc" value="@include('$END$')&#10;" description="@include" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
