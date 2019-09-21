@@ -198,7 +198,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="@fore" value="@foreach ($items as $item) &#10;&#10;@endforeach&#10;" description="@foreach" toReformat="false" toShortenFQNames="true">
+  <template name="@fore" value="@foreach ($$$VAR$s as $$$VAR_ITEM$)  &#10;@endforeach&#10;" shortcut="TAB" description="@foreach" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_ITEM" expression="" defaultValue="VAR" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>

@@ -165,6 +165,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="SaveAsTemplate">
+    <keyboard-shortcut first-keystroke="ctrl meta alt j" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>

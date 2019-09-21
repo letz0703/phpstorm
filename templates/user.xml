@@ -207,4 +207,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="@forea" value="@foreach ($items as $item)&#10;&#10;@endforeach" description="@foreach" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
 </templateSet>
