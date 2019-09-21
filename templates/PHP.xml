@@ -200,7 +200,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="@fore" value="@foreach ($$$VAR$s as $$$VAR_ITEM$)  &#10;@endforeach&#10;" shortcut="TAB" description="@foreach" toReformat="true" toShortenFQNames="true">
+  <template name="@fore" value="@foreach ($$$VAR$s as $$$VAR_ITEM$)  &#10;    $END$&#10;@endforeach&#10;" shortcut="TAB" description="@foreach" toReformat="true" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR_ITEM" expression="" defaultValue="VAR" alwaysStopAt="true" />
     <context>
