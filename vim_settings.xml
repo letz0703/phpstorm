@@ -1050,11 +1050,11 @@
         <mark key="^" line="29" column="14" />
         <mark key="." line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Box.php" timestamp="1568728702657">
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="64" column="39" />
-        <mark key="." line="64" column="39" />
-        <mark key="^" line="64" column="39" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/app/Box.php" timestamp="1569076024326">
+        <mark key="[" line="95" column="16" />
+        <mark key="]" line="95" column="32" />
+        <mark key="." line="95" column="32" />
+        <mark key="^" line="95" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -1160,11 +1160,11 @@
       <jump line="1241" column="2" filename="$USER_HOME$/Desktop/letz/letz/forum2019/yarn.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>str_slug</text>
       </register>
       <register name="-" type="4">
-        <text>ITERABLE</text>
+        <text>str_slug</text>
       </register>
       <register name="/" type="4">
         <text>version</text>

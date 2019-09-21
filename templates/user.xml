@@ -203,4 +203,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="make_slug" value="function make_slug($string)&#10;    {&#10;        return preg_replace('/\s+/u','-',trim($string));&#10;    }" description="replace str_slug" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
