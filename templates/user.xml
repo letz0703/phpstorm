@@ -212,4 +212,9 @@
       <option name="HTML_TEXT" value="true" />
     </context>
   </template>
+  <template name="@ifcounterrors" value="@if (count($errors))&#10;    &lt;ul class=&quot;alert alert-danger&quot;&gt;&#10;        @foreach( $errors-&gt;all() as $error)&#10;            &lt;li&gt;{{ $error }}&lt;/li&gt;&#10;        @endforeach&#10;    &lt;/ul&gt;&#10;@endif" description="@if(count($errors))" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
