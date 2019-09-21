@@ -938,12 +938,11 @@
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/admin/dashboard/index.blade.php" timestamp="1568937563941">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/admin/sellers/index.blade.php" timestamp="1568979775090">
-        <mark key="'" line="20" column="42" />
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="42" />
-        <mark key="." line="19" column="42" />
-        <mark key="^" line="19" column="42" />
+      <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/admin/sellers/index.blade.php" timestamp="1569070708996">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1568982401174">
         <mark key="[" line="0" column="0" />
@@ -1161,11 +1160,11 @@
       <jump line="1241" column="2" filename="$USER_HOME$/Desktop/letz/letz/forum2019/yarn.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sellers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>sellers</text>
+        <text>ITERABLE</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -1173,9 +1172,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3NsdWcnLCA1MCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>data-toggle=&quot;pill&quot;
-data-toggle=&quot;pill&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1185,28 +1183,28 @@ data-toggle=&quot;pill&quot;</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBdKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICggYXMgKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYoJ0FETUlOX0VNQUlMJywpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBlbmRmb3JlYWNoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly99KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAtPm5hbWUoJ2FkbWluLmNoYW5uZWxzLmNyZWF0ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBmb3JlYWNoICgkZXJyb3JzIGFzICRlcnJvcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgUm91dGU6OmdldCgnL2NoYW5uZWxzL2NyZWF0ZScsICdDaGFubmVsQ29udHJvbGxlckBjcmVhdGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBlbmRmb3JlYWNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAtPm5hbWUoJ2FkbWluLmNoYW5uZWxzLmluZGV4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgUm91dGU6OmdldCgnL2NoYW5uZWxzJywgJ0NoYW5uZWxDb250cm9sbGVyQGluZGV4JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBmb3JlYWNoICgkaXRlbXMgYXMgJGl0ZW0pIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
