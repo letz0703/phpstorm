@@ -198,9 +198,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="@fore" value="@foreach ($ITERABLE$s as $VAR_VALUE$) &#10;    $END$&#10;@endforeach&#10;" description="@foreach" toReformat="false" toShortenFQNames="true">
-    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VAR_VALUE" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+  <template name="@fore" value="@foreach ($ITERABLE$ as $VAR_VALUE$) &#10;    $END$&#10;@endforeach&#10;" description="@foreach" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="phpSuggestVariableName()" defaultValue="&quot;items&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="phpSuggestFunctionParameter()" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
