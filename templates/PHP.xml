@@ -231,4 +231,13 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="gscope" value="protected static function boot()&#10;{&#10;    parent::boot();&#10;      &#10;    static::addGlobalScope('$NAME$', function ($builder){&#10;        $builder-&gt;where('$columnName$', $CONDITION$)&#10;                -&gt;orderBy('$columnName2$', 'asc');&#10;    });&#10;}&#10;$END$" description="addGlobalScope" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;active&quot;" alwaysStopAt="true" />
+    <variable name="columnName" expression="" defaultValue="&quot;columnName&quot;" alwaysStopAt="true" />
+    <variable name="CONDITION" expression="" defaultValue="&quot;Condition&quot;" alwaysStopAt="true" />
+    <variable name="columnName2" expression="" defaultValue="&quot;columnName&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
