@@ -229,6 +229,9 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="14" column="50" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/config/services.php" timestamp="1569410924934">
+        <mark key="[" line="44" column="6" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/database/migrations/2019_04_21_130611_create_sellers_table.php" timestamp="1568979467889">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="38" />
@@ -409,11 +412,11 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" timestamp="1569280656262">
-        <mark key="[" line="105" column="35" />
-        <mark key="]" line="105" column="39" />
-        <mark key="^" line="105" column="39" />
-        <mark key="." line="105" column="39" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" timestamp="1569410813236">
+        <mark key="[" line="90" column="61" />
+        <mark key="]" line="90" column="61" />
+        <mark key="^" line="90" column="61" />
+        <mark key="." line="90" column="61" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/bootstrap.js" timestamp="1567899430329">
         <mark key="[" line="36" column="55" />
@@ -661,12 +664,12 @@
         <mark key="." line="5" column="40" />
         <mark key="^" line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/create.blade.php" timestamp="1567104641748">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="12" column="56" />
-        <mark key="]" line="33" column="106" />
-        <mark key="^" line="33" column="106" />
-        <mark key="." line="33" column="106" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/create.blade.php" timestamp="1569411379214">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="39" column="77" />
+        <mark key="]" line="39" column="84" />
+        <mark key="^" line="39" column="84" />
+        <mark key="." line="39" column="84" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/index.blade.php" timestamp="1564937414920">
         <mark key="'" line="28" column="9" />
@@ -707,12 +710,12 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/package.json" timestamp="1568416243219">
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/package.json" timestamp="1569411689788">
         <mark key="'" line="16" column="8" />
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="24" />
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="31" column="28" />
+        <mark key="^" line="31" column="28" />
+        <mark key="." line="31" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ParticipateinForumTest.php" timestamp="1566000381376">
         <mark key="'" line="38" column="3" />
@@ -1178,11 +1181,11 @@
       <jump line="45" column="29" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Channel.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>forum2019</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>forum2019</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
