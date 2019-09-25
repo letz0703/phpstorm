@@ -1,0 +1,12 @@
+<templateSet group="tools">
+  <template name="recaptcha_store" value="$response = Zttp::asFormParams()-&gt;post('https://www.google.com/recaptcha/api/siteverify', [&#10;    'secret'   =&gt; config('services.recaptcha.secret'),&#10;    'response' =&gt; $request-&gt;input('g-recaptcha-response'),&#10;    'remoteip' =&gt; request()-&gt;ip()&#10;]);&#10;&#10;if ( ! $response-&gt;json()['success']) {&#10;    throw new \Exception('Recaptcha failed');&#10;}" description="recaptcha response" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="recaptcha_script" value="&lt;script src='https://www.google.com/recaptcha/api.js'&gt;&lt;/script&gt;" description="to header section" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
