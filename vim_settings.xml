@@ -590,8 +590,12 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1569445781330">
-        <mark key="[" line="80" column="0" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" timestamp="1569452090264">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="102" column="56" />
+        <mark key="]" line="93" column="89" />
+        <mark key="^" line="93" column="89" />
+        <mark key="." line="93" column="89" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/BestReplyTest.php" timestamp="1567102909567">
         <mark key="'" line="39" column="7" />
@@ -957,11 +961,11 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" timestamp="1569445156836">
-        <mark key="[" line="145" column="5" />
-        <mark key="]" line="147" column="7" />
-        <mark key="." line="147" column="7" />
-        <mark key="^" line="147" column="7" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" timestamp="1569452044214">
+        <mark key="[" line="57" column="63" />
+        <mark key="]" line="57" column="7" />
+        <mark key="." line="57" column="7" />
+        <mark key="^" line="57" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Middleware/RedirectIfEmailNotConfirmed.php" timestamp="1565269522140">
         <mark key="[" line="17" column="14" />
@@ -1080,22 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="47" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
-      <jump line="5" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/authorizations.js" />
-      <jump line="80" column="52" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
-      <jump line="63" column="13" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
-      <jump line="28" column="23" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
-      <jump line="48" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/create.blade.php" />
-      <jump line="57" column="13" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
-      <jump line="96" column="15" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
-      <jump line="55" column="16" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
-      <jump line="35" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" />
-      <jump line="14" column="41" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" />
-      <jump line="69" column="30" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" />
-      <jump line="24" column="80" filename="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" />
-      <jump line="27" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" />
       <jump line="32" column="7" filename="$USER_HOME$/Desktop/letz/letz/forum2019/routes/web.php" />
       <jump line="39" column="7" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/BestReplyTest.php" />
       <jump line="51" column="20" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ReplyController.php" />
@@ -1180,10 +1168,26 @@
       <jump line="110" column="12" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" />
       <jump line="141" column="3" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Controllers/ThreadController.php" />
+      <jump line="94" column="69" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="125" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="80" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="112" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="115" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="105" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="96" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
+      <jump line="90" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEdpdCBzdGFzaAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -1195,7 +1199,7 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpOiB2b2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEdpdCBzdGFzaAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1205,28 +1209,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpzZXRVcFRyYWl0cygpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpzZXRVcFRyYWl0cygpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcFRyYWl0cygpCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwKCktPnNpZ25sZXRvbihSZWNhcHRjaGE6OmNsYXNzLCAkbSk7IAo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcFRyYWl0cygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwKCktPnNpZ25sZXRvbihSZWNhcHRjaGE6OmNsYXNzLCAkbSk7IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ1JlY2FwdGNoYSBmYWlsZWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISAkcmVzcG9uc2UtPmpzb24oKVsnc3VjY2VzcyddKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ1JlY2FwdGNoYSBmYWlsZWQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
