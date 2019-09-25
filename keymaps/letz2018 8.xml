@@ -191,6 +191,10 @@
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
