@@ -222,4 +222,10 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="log" value="\DB::listen(function($e){&#10;     info($e-&gt;sql);&#10;});" description="log to laravel.log (AppServiceProvider)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
