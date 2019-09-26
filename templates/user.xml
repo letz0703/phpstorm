@@ -225,4 +225,9 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="log" value="\DB::listen(function($e){&#10;     info($e-&gt;sql);&#10;});" description="log to larvel.log(+AppServiceProvider)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
