@@ -217,4 +217,12 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="mock" value="$this-&gt;mock($CLASS$::class, function($mock){&#10;    $mock-&gt;shouldReceive('$MET_NAME$')-&gt;andReturn(true);&#10;});" description="Mockery mock" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MET_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
