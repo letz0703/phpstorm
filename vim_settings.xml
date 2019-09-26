@@ -960,11 +960,12 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" timestamp="1569503335431">
-        <mark key="'" line="132" column="15" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" timestamp="1569506253272">
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/app/Http/Middleware/RedirectIfEmailNotConfirmed.php" timestamp="1565269522140">
         <mark key="[" line="17" column="14" />
@@ -1082,12 +1083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="36" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" />
-      <jump line="126" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
-      <jump line="29" column="3" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" />
-      <jump line="68" column="22" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" />
-      <jump line="21" column="53" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Reply.php" />
       <jump line="178" column="6" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
       <jump line="13" column="43" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
       <jump line="172" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/app/Thread.php" />
@@ -1180,8 +1175,14 @@
       <jump line="96" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
       <jump line="90" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Unit/ThreadTest.php" />
       <jump line="56" column="27" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
-      <jump line="143" column="15" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
+      <jump line="147" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
+      <jump line="139" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
+      <jump line="143" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/tests/Feature/ThreadCreateTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
