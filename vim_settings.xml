@@ -635,10 +635,11 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="8" column="85" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/admin/channels/index.blade.php" timestamp="1569328236743">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/admin/channels/index.blade.php" timestamp="1569594316524">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Replies.vue" timestamp="1568283994077">
         <mark key="[" line="7" column="38" />
