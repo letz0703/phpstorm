@@ -635,11 +635,10 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="8" column="85" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/admin/channels/index.blade.php" timestamp="1569594316524">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="33" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="33" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/admin/channels/index.blade.php" timestamp="1569596043699">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Replies.vue" timestamp="1568283994077">
         <mark key="[" line="7" column="38" />
@@ -1199,7 +1198,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCRjaGFubmVsLT50aHJlYWRzLT5wYXRoKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7LS1AZW5kcGhwLS19fQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bC0+c2x1Zw==</text>
@@ -1211,7 +1210,7 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpOiB2b2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCRjaGFubmVsLT50aHJlYWRzLT5wYXRoKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7LS1AZW5kcGhwLS19fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1221,28 +1220,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7LS1AcGhwIGRkKCRjaGFubmVsKS0tfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBkZCgkY2hhbm5lbCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCRjaGFubmVsLT50aHJlYWRzLT5wYXRoKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCdjaGFuZ2VkJywgJHRocmVhZC0+ZnJlc2goKS0+dGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
