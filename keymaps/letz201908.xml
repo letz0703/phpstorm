@@ -20,6 +20,9 @@
   <action id="Arrangement.Rule.Edit" />
   <action id="BaseOnThisFunction" />
   <action id="ChangesView.Diff" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta k" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
