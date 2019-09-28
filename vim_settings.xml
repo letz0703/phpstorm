@@ -652,6 +652,12 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/components/Reply.vue" timestamp="1569674617320">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+      </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/js/components/BoxItems.vue" timestamp="1561837222273">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="6" column="16" />
@@ -1201,10 +1207,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPnZhbGlkYXRlKHJlcXVlc3QoKSwg</text>
+        <text>action=&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnZhbGlkYXRlKHJlcXVlc3QoKSwg</text>
+        <text>action=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
