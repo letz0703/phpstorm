@@ -971,11 +971,12 @@
         <mark key="." line="20" column="24" />
         <mark key="^" line="19" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.gitignore" timestamp="1568414337976">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
+      <file name="$USER_HOME$/Desktop/letz/letz/forum2019/.gitignore" timestamp="1569766034904">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="36" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/admin/sellers/index.blade.php" timestamp="1569070708996">
         <mark key="[" line="12" column="17" />
@@ -1112,7 +1113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="25" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Kernel.php" />
       <jump line="46" column="25" filename="$USER_HOME$/Desktop/letz/letz/icanmart/app/Http/Kernel.php" />
       <jump line="20" column="42" filename="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/admin/sellers/index.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/letz/letz/icanmart/resources/views/layouts/app.blade.php" />
@@ -1212,10 +1212,11 @@
       <jump line="52" column="5" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_question.blade.php" />
       <jump line="56" column="4" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/views/threads/_question.blade.php" />
       <jump line="52" column="28" filename="$USER_HOME$/Desktop/letz/letz/forum2019/resources/js/pages/Thread.vue" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/letz/letz/forum2019/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRpbmc6IGZhbHNlLAo=</text>
+        <text encoding="base64">IS9wdWJsaWMvc3RvcmFnZS9hdmF0YXJzL2RlZmF1bHQuanBnCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1227,7 +1228,7 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpOiB2b2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRpbmc6IGZhbHNlLAo=</text>
+        <text encoding="base64">IS9wdWJsaWMvc3RvcmFnZS9hdmF0YXJzL2RlZmF1bHQuanBnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1236,33 +1237,33 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">L3B1YmxpYy9ob3QK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRpbmc6IGZhbHNlLAo=</text>
+      </register>
+      <register name="4" type="4">
         <text>title: this.thread.title,
                     body: this.thread.body</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Ly8gICAgICAgICAgICByZXNldCgpIHsKLy8gICAgICAgICAgICAgICAgdGhpcy5mb3JtID0gewovLyAgICAgICAgICAgICAgICAgICAgJ3RpdGxlJzogdGhpcy5mb3JtLnRpdGxlLAovLyAgICAgICAgICAgICAgICAgICAgJ2JvZHknIDogdGhpcy5mb3JtLmJvZHkKLy8gICAgICAgICAgICAgICAgfTsKLy8KLy8gICAgICAgICAgICAgICAgdGhpcy5lZGl0aW5nID0gZmFsc2U7Ci8vICAgICAgICAgICAgfQoK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
                     title: this.form.title,
                     body: this.form.body
                 })</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB7ey0te3sgJHRocmVhZC0+IGJvZHkgfX0tLX19Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ICR0aHJlYWQtPnRpdGxlIH19Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHYtdGV4dD0idGhyZWFkLnRpdGxlIj48L3NwYW4+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvZHk6IHt9LAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpdGxlOiB7fSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHYtdGV4dD0idGhyZWFkLnRpdGxlIj48L3NwYW4+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
