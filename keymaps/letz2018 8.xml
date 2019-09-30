@@ -20,8 +20,7 @@
   <action id="Arrangement.Rule.Edit" />
   <action id="BaseOnThisFunction" />
   <action id="ChangesView.Diff" />
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CloseProject">
@@ -65,7 +64,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="EditorDeleteToLineStart">
-    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -168,11 +167,18 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="SaveAsTemplate">
+    <keyboard-shortcut first-keystroke="ctrl meta alt j" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="meta f3" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
@@ -180,14 +186,14 @@
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
-  <action id="Tool_External Tools_PHP CS Fixer">
-    <keyboard-shortcut first-keystroke="meta b" />
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />

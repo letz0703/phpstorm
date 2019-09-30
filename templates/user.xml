@@ -44,7 +44,8 @@
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="capitalize(NAME):" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="OTHER" value="true" />
+      <option name="HTML_TEXT" value="true" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="passwordfield" value="&lt;!-- $VALUE$ Input --&gt;&#10;&lt;div class=&quot;form-group&quot;&gt;&#10;    {{ Form::label('$NAME$','$VALUE$:') }}&#10;    {{ Form::password('$NAME$', ['class' =&gt; 'form-control']}}&#10;&lt;/div&gt;" description="Form password field" toReformat="false" toShortenFQNames="true">
@@ -202,30 +203,31 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="pro" value="protected $END$$guarded = [];" description="protected" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-  <template name="@forea" value="@foreach ($items as $item)&#10;&#10;@endforeach" description="@foreach" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="HTML_TEXT" value="true" />
-    </context>
-  </template>
-  <template name="@errors" value="@if (count($errors))&#10;    &lt;ul class=&quot;alert alert-danger&quot;&gt;&#10;        @foreach( $errors-&gt;all() as $error)&#10;            &lt;li&gt;{{ $error }}&lt;/li&gt;&#10;        @endforeach&#10;    &lt;/ul&gt;&#10;@endif" description="@if(count($errors))" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
   <template name="make_slug" value="function make_slug($string)&#10;    {&#10;        $slug = preg_replace('/\s+/u','-',trim($string));&#10;        return $slug = str_slug($slug);&#10;    }" description="replace str_slug" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="log" value="\DB::listen(function($e){&#10;     info($e-&gt;sql);&#10;});" description="log to laravel.log (AppServiceProvider)" toReformat="true" toShortenFQNames="true">
+  <template name="gscope" value="protected static function boot()&#10;{&#10;    parent::boot();&#10;      &#10;    static::addGlobalScope('$NAME$', function ($builder){&#10;        $builder-&gt;where('$columnName$', $CONDITION$)&#10;                -&gt;orderBy('$columnName2$', 'asc');&#10;    });&#10;}&#10;$END$" description="addGlobalScope" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;active&quot;" alwaysStopAt="true" />
+    <variable name="columnName" expression="" defaultValue="&quot;archived&quot;" alwaysStopAt="true" />
+    <variable name="CONDITION" expression="" defaultValue="&quot;condition&quot;" alwaysStopAt="true" />
+    <variable name="columnName2" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="mock" value="$this-&gt;mock($CLASS$::class, function($mock){&#10;    $mock-&gt;shouldReceive('$MET_NAME$')-&gt;andReturn(true);&#10;});" description="Mockery mock" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MET_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="log" value="\DB::listen(function($e){&#10;     info($e-&gt;sql);&#10;});" description="log to larvel.log(+AppServiceProvider)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>

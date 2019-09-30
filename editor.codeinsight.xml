@@ -2,14 +2,7 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
-  <component name="CodeInsightSettings">
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
-  </component>
-  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" SUGGEST_ALIAS_NAMES="false">
-    <option name="suggestAliasNames" value="false" />
-    <option name="useAliasInJoinCompletion" value="false" />
   </component>
 </application>

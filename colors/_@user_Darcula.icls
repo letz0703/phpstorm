@@ -3,28 +3,19 @@
     <property name="created">2019-08-01T20:49:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-11T08:47:51</property>
+    <property name="modified">2019-08-07T03:25:44</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="faffdb" />
-    <option name="FILESTATUS_COPIED" value="659d9a" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="c7af3f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="faffdb" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="4ea1df" />
-    <option name="FILESTATUS_MERGED" value="65738e" />
-    <option name="FILESTATUS_MODIFIED" value="faffdb" />
-    <option name="FILESTATUS_NOT_CHANGED" value="626669" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="faffdb" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="faffdb" />
+    <option name="FILESTATUS_COPIED" value="a7700" />
+    <option name="FILESTATUS_HIJACKED" value="b28c00" />
+    <option name="FILESTATUS_MERGED" value="db784d" />
+    <option name="FILESTATUS_MODIFIED" value="f8bb39" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f8bb39" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f8bb39" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
-    <option name="FILESTATUS_SUPPRESSED" value="616161" />
+    <option name="FILESTATUS_RENAMED" value="7c7c" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_modifiedOutside" value="faffdb" />
+    <option name="FILESTATUS_modifiedOutside" value="f8bb39" />
   </colors>
 </scheme>
