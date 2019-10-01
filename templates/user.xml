@@ -230,4 +230,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="bssearch" value="&lt;div class=&quot;card&quot;&gt;&#10;    &lt;div class=&quot;card-header&quot;&gt;Search&lt;/div&gt;&#10;    &lt;div class=&quot;card-body&quot;&gt;&#10;        &lt;form method=&quot;GET&quot; action=&quot;/threads/search&quot;&gt;&#10;            &lt;div class=&quot;form-group&quot;&gt;&#10;                &lt;input type=&quot;text&quot; &#10;                       class=&quot;form-control&quot; &#10;                       name=&quot;q&quot; &#10;                       placeholder=&quot;Search for something&quot;&#10;                &gt;&#10;            &lt;/div&gt; &#10;            &lt;div class=&quot;form-group&quot;&gt;&#10;                &lt;button type=&quot;submit&quot; class=&quot;btn btn-sm&quot;&gt;Search &lt;/button&gt;&#10;            &lt;/div&gt;&#10;        &lt;/form&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;" description="search form" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
