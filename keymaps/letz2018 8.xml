@@ -124,6 +124,9 @@
     <keyboard-shortcut first-keystroke="shift meta back_space" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
   <action id="Macro.endSemiColon">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
@@ -134,6 +137,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="NewScratchFile" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt j" />
