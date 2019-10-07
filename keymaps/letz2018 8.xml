@@ -124,6 +124,10 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
     <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="Macro.endSemiColon">
     <keyboard-shortcut first-keystroke="meta semicolon" />
@@ -196,7 +200,7 @@
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="ctrl meta b" />
-    <keyboard-shortcut first-keystroke="alt quote" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
