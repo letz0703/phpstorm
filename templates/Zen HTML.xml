@@ -1,17 +1,4 @@
 <templateSet group="Zen HTML">
-  <template name="a" value="&lt;a href=&quot;$VAR0$&quot;&gt;$END$&lt;/a&gt;" description="&lt;a href=&quot;...&quot;&gt;...&lt;/a&gt;" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="link" value="&lt;link rel=&quot;stylesheet&quot; href=&quot;$END$&quot;&gt;" description="&lt;link rel=&quot;stylesheet&quot; href=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JSX_EXPRESSION" value="true" />
-      <option name="JSX_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="style" value="&lt;style&gt;$END$&lt;/style&gt;" description="&lt;style&gt;...&lt;/style&gt;" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
   <template name="input" value="&lt;input type=&quot;$VAR0$&quot;&gt;" description="&lt;input type=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
     <context />
