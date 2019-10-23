@@ -235,4 +235,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="newv" value="new Vue({&#10;    el: &quot;#$VALUE$&quot;,&#10;    data: {&#10;        $END$                &#10;    }&#10;});" description="new Vue" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
