@@ -4,7 +4,7 @@
     <property name="created">2019-08-07T03:00:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-11-15T01:24:31</property>
+    <property name="modified">2019-11-15T02:19:40</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -56,6 +56,7 @@
     <option name="FILESTATUS_modifiedOutside" value="4ea1df" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="282a36" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="5cb6df" />
     <option name="INDENT_GUIDE" value="3c4049" />
     <option name="INFORMATION_HINT" value="282c34" />
     <option name="LINE_NUMBERS_COLOR" value="636d83" />
@@ -177,7 +178,7 @@
     </option>
     <option name="BLADE_TEXT_BLOCK_BOUNDARY">
       <value>
-        <option name="FOREGROUND" value="a6b2c0" />
+        <option name="FOREGROUND" value="e2c175" />
       </value>
     </option>
     <option name="BNF_KEYWORD">
@@ -865,11 +866,15 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
+        <option name="FOREGROUND" value="d7b870" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="8eba5f" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value />
     </option>
