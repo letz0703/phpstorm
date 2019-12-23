@@ -1,4 +1,4 @@
-<keymap version="1" name="letz2018 8" parent="Mac OS X 10.5+">
+<keymap version="1" name="letz201912" parent="Mac OS X 10.5+">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
