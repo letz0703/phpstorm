@@ -26,6 +26,9 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta f4" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute" />
   <action id="Console.Execute.Multiline" />
