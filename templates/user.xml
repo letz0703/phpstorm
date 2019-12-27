@@ -269,4 +269,10 @@
       <option name="HTML_TEXT" value="true" />
     </context>
   </template>
+  <template name="pt" value="&lt;portal-target name=&quot;$END$&quot;&gt;&lt;/portal-target&gt;" description="portal-target vue-fortal" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
