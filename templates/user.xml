@@ -283,7 +283,7 @@
       <option name="VUE_INSIDE_TAG" value="true" />
     </context>
   </template>
-  <template name="&lt;abbreviation&gt;" value="style=&quot;background:aliceblue" toReformat="true" toShortenFQNames="true">
+  <template name="letzstyle" value="style=&quot;background:aliceblue$END$&quot;" description="letzstyle" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="HTML_TEXT" value="false" />
