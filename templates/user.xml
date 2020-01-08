@@ -275,4 +275,19 @@
       <option name="VUE_TOP_LEVEL" value="true" />
     </context>
   </template>
+  <template name="bgblue" value="style=&quot;background:aliceblue;$STYLE$&quot; class=&quot;$END$&quot;" description="test background color" toReformat="true" toShortenFQNames="true">
+    <variable name="STYLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="&lt;abbreviation&gt;" value="style=&quot;background:aliceblue" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="false" />
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
 </templateSet>
