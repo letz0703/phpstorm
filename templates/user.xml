@@ -304,4 +304,10 @@
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
     </context>
   </template>
+  <template name="scriptvue" value="&lt;script src=&quot;https://cdn.jsdelivr.net/npm/vue/dist/vue.js&quot;&gt;&lt;/script&gt;" description="Vue cdn" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
+    </context>
+  </template>
 </templateSet>
