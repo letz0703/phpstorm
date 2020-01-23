@@ -290,4 +290,18 @@
       <option name="VUE_INSIDE_TAG" value="true" />
     </context>
   </template>
+  <template name="docqs" value="document.querySelector($END$)" description="document.querySelector" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_EXPRESSION" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+  <template name="docqsa" value="document.querySelectorAll($END$)" description="document.querySelectorAll" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_EXPRESSION" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
 </templateSet>
