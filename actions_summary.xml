@@ -5,8 +5,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581635127213" />
-              <option name="times" value="2" />
+              <option name="last" value="1581894985234" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -37,8 +37,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581635198995" />
-              <option name="times" value="2" />
+              <option name="last" value="1581894803450" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -82,11 +82,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581894801555" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581635199728" />
-              <option name="times" value="3" />
+              <option name="last" value="1581895334935" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
