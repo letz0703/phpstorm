@@ -2,7 +2,7 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
-    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
@@ -48,7 +48,7 @@
   <action id="Diff.ShowSettingsPopup" />
   <action id="Diff.UpdatedFiles" />
   <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta u" />
@@ -165,6 +165,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta back_quote" />
   </action>
   <action id="QuickActionPopup" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
