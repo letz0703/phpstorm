@@ -65,7 +65,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="testc" value="&lt;?php&#10;&#10;namespace Tests\Feature;&#10;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;use Tests\TestCase;&#10;&#10;class $CLASS$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;    &#10;    /** @test */&#10;    public function $MEHOTD$()&#10;    {&#10;        $END$&#10;    }&#10;}&#10;" description="test template" toReformat="true" toShortenFQNames="true">
+  <template name="testc" value="&lt;?php&#10;&#10;namespace Tests\Feature;&#10;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;use Illuminate\Foundation\Testing\WithFaker;&#10;use Tests\TestCase;&#10;&#10;class $CLASS$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;    &#10;    /** @test */&#10;    public function $MEHOTD$()&#10;    {&#10;        $END$&#10;    }&#10;}&#10;" description="test template" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="MEHOTD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -129,7 +129,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="testu" value="&lt;?php&#10;&#10;namespace Tests\Unit;&#10;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;use Tests\TestCase;&#10;&#10;class $CLASS$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;    &#10;    /** @test */&#10;    public function $MEHOTD$()&#10;    {&#10;        $END$&#10;    }&#10;}&#10;" description="unit test template" toReformat="false" toShortenFQNames="true">
+  <template name="testu" value="&lt;?php&#10;&#10;namespace Tests\Unit;&#10;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;use Illuminate\Foundation\Testing\WithFaker;&#10;use Tests\TestCase;&#10;&#10;class $CLASS$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;    &#10;    /** @test */&#10;    public function $MEHOTD$()&#10;    {&#10;        $END$&#10;    }&#10;}&#10;" description="unit test template" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="MEHOTD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
