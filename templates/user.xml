@@ -329,4 +329,10 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="cproject" value="$project = app(ProjectFactory::class)&#10;            -&gt;ownedBy($this-&gt;signIn())&#10;            -&gt;withTasks(1)&#10;            -&gt;create();" description="create project" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
