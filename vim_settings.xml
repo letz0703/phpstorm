@@ -1,6 +1,51 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>TestC</entry>
+        <entry>tests</entry>
+        <entry>test</entry>
+        <entry>testcase</entry>
+        <entry>bg-white</entry>
+        <entry>header</entry>
+        <entry>nav</entry>
+        <entry>project</entry>
+        <entry>projects</entry>
+        <entry>testcas</entry>
+        <entry>only</entry>
+        <entry>redirect</entry>
+        <entry>task</entry>
+        <entry>comp</entry>
+        <entry>input</entry>
+        <entry>card</entry>
+        <entry>upate</entry>
+        <entry>create</entry>
+        <entry>other</entry>
+        <entry>Test</entry>
+      </history-search>
+      <history-cmd>
+        <entry>vp</entry>
+        <entry>d</entry>
+        <entry>vd</entry>
+        <entry>vs</entry>
+        <entry>dvs</entry>
+        <entry>q</entry>
+        <entry>ls</entry>
+        <entry>bn</entry>
+        <entry>bp</entry>
+        <entry>vsp</entry>
+        <entry>t</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
@@ -75,9 +120,306 @@
         <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586471961065">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1586437335785">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/tests/TestCase.php" timestamp="1586456521958">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="26" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/app/Policies/ProjectPolicy.php" timestamp="1586433980141">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="41" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1586427351237">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/resources/sass/app.scss" timestamp="1586430378634">
+        <mark key="[" line="31" column="75" />
+        <mark key="]" line="31" column="66" />
+        <mark key="." line="31" column="66" />
+        <mark key="^" line="31" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1586434857309">
+        <mark key="'" line="12" column="10" />
+        <mark key="[" line="45" column="70" />
+        <mark key="]" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1586473636765">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="114" column="70" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Policies/ProjectPolicy.php" timestamp="1586437079448">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/create.blade.php" timestamp="1586430570016">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/app/Providers/AuthServiceProvider.php" timestamp="1586434799936">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="52" />
+        <mark key="." line="17" column="52" />
+        <mark key="^" line="17" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectTaskController.php" timestamp="1586437289358">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1586436979419">
+        <mark key="'" line="12" column="41" />
+        <mark key="[" line="87" column="5" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="84" column="41" />
+        <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectTaskController.php" timestamp="1586435818521">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="50" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/tests/Setup/ProjectFactory.php" timestamp="1586456092826">
+        <mark key="t" line="13" column="4" />
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="m" line="22" column="4" />
+        <mark key="^" line="32" column="60" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/tests/Setup/ProjectFactory.php" timestamp="1586473630091">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/tests/TestCase.php" timestamp="1586451571764">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Providers/AuthServiceProvider.php" timestamp="1586436717618">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/ProjectTaskTest.php" timestamp="1586474893695">
+        <mark key="'" line="35" column="46" />
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1586435668361">
+        <mark key="'" line="25" column="7" />
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="27" column="10" />
+        <mark key="^" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="12" column="16" filename="$USER_HOME$/code/birdboard/database/factories/ProjectFactory.php" />
+      <jump line="65" column="43" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectsTest.php" />
+      <jump line="16" column="15" filename="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/birdboard/resources/views/projects/create.blade.php" />
+      <jump line="74" column="34" filename="$USER_HOME$/code/birdboard/resources/views/layouts/app.blade.php" />
+      <jump line="14" column="22" filename="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" />
+      <jump line="21" column="24" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
+      <jump line="9" column="37" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
+      <jump line="14" column="45" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/tests/TestCase.php" />
+      <jump line="13" column="57" filename="$USER_HOME$/code/birdboard/tests/TestCase.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/composer.json" />
+      <jump line="29" column="5" filename="$USER_HOME$/code/birdboard/composer.json" />
+      <jump line="15" column="16" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
+      <jump line="2" column="10" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
+      <jump line="4" column="26" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
+      <jump line="5" column="26" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
+      <jump line="6" column="10" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
+      <jump line="8" column="18" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/birdboard/tests/Feature/ExampleTest.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/birdboard/tests/Feature/ExampleTest.php" />
+      <jump line="14" column="29" filename="$USER_HOME$/code/birdboard/tests/Feature/ExampleTest.php" />
+      <jump line="2" column="10" filename="$USER_HOME$/code/birdboard/tests/Feature/ExampleTest.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="4" column="26" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="5" column="26" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="6" column="10" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="10" column="33" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="12" column="39" filename="$USER_HOME$/code/birdboard/tests/utilities/functions.php" />
+      <jump line="36" column="49" filename="$USER_HOME$/code/icanmart/routes/web.php" />
+      <jump line="48" column="44" filename="$USER_HOME$/code/icanmart/routes/web.php" />
+      <jump line="57" column="43" filename="$USER_HOME$/code/icanmart/routes/web.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/code/birdboard/app/User.php" />
+      <jump line="40" column="2" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
+      <jump line="41" column="29" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
+      <jump line="29" column="12" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
+      <jump line="16" column="11" filename="$USER_HOME$/code/icanmart/resources/sass/_card.scss" />
+      <jump line="84" column="2" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
+      <jump line="16" column="13" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
+      <jump line="42" column="0" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/public/css/ic.css" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectTaskController.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="74" column="26" filename="$USER_HOME$/code/icanmart/public/css/ic.css" />
+      <jump line="31" column="0" filename="$USER_HOME$/code/icanmart/routes/web.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/icanmart/routes/web.php" />
+      <jump line="18" column="24" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
+      <jump line="12" column="10" filename="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="96" column="0" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="2" column="10" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="6" column="26" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="7" column="26" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="8" column="10" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="10" column="19" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="89" column="11" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="72" column="4" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="95" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="92" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="82" column="14" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="83" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="55" column="8" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="76" column="8" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="28" column="23" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="77" column="33" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="94" column="63" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="98" column="57" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="104" column="35" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="88" column="54" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="92" column="66" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="73" column="20" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="106" column="20" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="54" column="75" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/code/birdboard/app/User.php" />
+      <jump line="21" column="22" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/package.json" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/icanmart/package.json" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="0" column="5" filename="$USER_HOME$/code/icanmart/resources/views/projects/_card.blade.php" />
+      <jump line="38" column="10" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="75" column="4" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="69" column="13" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="112" column="4" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="19" column="7" filename="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" />
+      <jump line="49" column="0" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
+      <jump line="37" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="12" column="41" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
+      <jump line="20" column="3" filename="$USER_HOME$/code/birdboard/tests/Setup/ProjectFactory.php" />
+      <jump line="16" column="20" filename="$USER_HOME$/code/birdboard/tests/Setup/ProjectFactory.php" />
+      <jump line="22" column="4" filename="$USER_HOME$/code/birdboard/tests/Setup/ProjectFactory.php" />
+      <jump line="112" column="30" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="149" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="35" column="46" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTaskTest.php" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>app(</text>
+      </register>
+      <register name="-" type="4">
+        <text>app(</text>
+      </register>
+      <register name="/" type="4">
+        <text>Test</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aG9yaXplKCd1cGRhdGUnKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoVGFza3MoMSkK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5vd25lZEJ5KCR0aGlzLT5zaWduSW4oKSkK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">JHRoaXMtPnNpZ25JbigpOwoKICAgICAgICAkcHJvamVjdCA9IGF1dGgoKS0+dXNlcigpLT5wcm9qZWN0cygpLT5jcmVhdGUocmF3KFByb2plY3Q6OmNsYXNzKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+dGFza3MoKS0+Zmlyc3QoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyR0aGlzLT5zaWduSW4oKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyR0aGlzLT53aXRob3V0RXhjZXB0aW9uSGFuZGxpbmcoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyR0YXNrID0gJHByb2plY3QtPmFkZFRhc2soJ3Rlc3QgdGFzaycpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyRwcm9qZWN0ID0gYXV0aCgpLT51c2VyKCktPnByb2plY3RzKCktPmNyZWF0ZShyYXcoUHJvamVjdDo6Y2xhc3MpKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5vd25lZEJ5KCR0aGlzLT5zaWduSW4oKSkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>vsp</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>Test</last-search>
+      <last-offset />
+      <last-pattern>Test</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>'</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
