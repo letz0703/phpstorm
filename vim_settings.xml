@@ -183,6 +183,12 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="7" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/database/factories/UserFactory.php" timestamp="1586526235416">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="41" column="8" />
+        <mark key="^" line="41" column="8" />
+        <mark key="." line="41" column="7" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/tests/Feature/ProjectTaskTest.php" timestamp="1586514775465">
         <mark key="'" line="35" column="16" />
         <mark key="[" line="54" column="34" />
@@ -203,8 +209,8 @@
         <mark key="'" line="30" column="0" />
         <mark key="[" line="76" column="64" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/TestCase.php" timestamp="1586456521958">
-        <mark key="[" line="23" column="26" />
+      <file name="$USER_HOME$/code/icanmart/tests/TestCase.php" timestamp="1586526271042">
+        <mark key="[" line="32" column="8" />
         <mark key="]" line="23" column="26" />
         <mark key="." line="23" column="26" />
         <mark key="^" line="26" column="19" />
@@ -216,23 +222,12 @@
         <mark key="^" line="96" column="62" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/ItemManageTest.php" timestamp="1586514395868" />
-      <file name="$USER_HOME$/code/icanmart/tests/Setup/ProjectFactory.php" timestamp="1586512774070">
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/icanmart/tests/Setup/ProjectFactory.php" timestamp="1586525669093" />
       <file name="$USER_HOME$/code/birdboard/tests/TestCase.php" timestamp="1586451571764">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="19" />
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/Providers/AuthServiceProvider.php" timestamp="1586436717618">
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-        <mark key="^" line="15" column="20" />
       </file>
     </filemarks>
     <jumps>
