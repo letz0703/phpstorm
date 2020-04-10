@@ -168,13 +168,14 @@
       <file name="$USER_HOME$/code/icanmart/app/Policies/BoxPolicy.php" timestamp="1586514090433">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Setup/ProjectFactory.php" timestamp="1586524305135">
+      <file name="$USER_HOME$/code/birdboard/tests/Setup/ProjectFactory.php" timestamp="1586525246831">
         <mark key="t" line="13" column="4" />
         <mark key="'" line="22" column="4" />
-        <mark key="[" line="30" column="0" />
+        <mark key="[" line="30" column="56" />
         <mark key="m" line="22" column="4" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="]" line="30" column="56" />
+        <mark key="." line="30" column="56" />
+        <mark key="^" line="30" column="24" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/PaymentController.php" timestamp="1586513856471">
         <mark key="[" line="12" column="41" />
@@ -339,11 +340,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FactoryName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHByb2plY3QtPnBhdGgoKSAuICcvdGFza3Mn</text>
+        <text>FactoryName</text>
       </register>
       <register name="/" type="4">
         <text>payme</text>
