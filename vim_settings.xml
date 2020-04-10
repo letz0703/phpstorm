@@ -333,10 +333,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>attributes</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>attributes</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>payme</text>
@@ -355,28 +355,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBcRmFjYWRlc1xQcm9qZWN0RmFjdG9yeTo6Y2xlYXJSZXNvbHZlZEluc3RhbmNlKCdTZWFzb25GYWN0b3J5Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyR0aGlzLT5zaWduSW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyR0aGlzLT5hY3RpbmdBcyhmYWN0b3J5KCdBcHBcVXNlcicpLT5jcmVhdGUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRwcm9qZWN0ID0gY3JlYXRlKFByb2plY3Q6OmNsYXNzLCBbJ293bmVyX2lkJyA9PiBhdXRoKCktPmlkKCldKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyRwcm9qZWN0ID0gUHJvamVjdEZhY3Rvcnk6OmNyZWF0ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcRmFjYWRlc1xQcm9qZWN0RmFjdG9yeTo6Y2xlYXJSZXNvbHZlZEluc3RhbmNlKCdTZWFzb25GYWN0b3J5Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyR0aGlzLT5zaWduSW4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCktPndpdGhFeGNlcHRpb25IYW5kbGluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyRwcm9qZWN0ID0gY3JlYXRlKFByb2plY3Q6OmNsYXNzLCBbJ293bmVyX2lkJyA9PiBhdXRoKCktPmlkKCldKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
