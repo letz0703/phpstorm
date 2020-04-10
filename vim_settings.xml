@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>tests</entry>
-        <entry>test</entry>
         <entry>testcase</entry>
         <entry>bg-white</entry>
         <entry>header</entry>
@@ -27,6 +25,8 @@
         <entry>other</entry>
         <entry>Test</entry>
         <entry>payme</entry>
+        <entry>gen</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -133,6 +133,9 @@
       <file name="$USER_HOME$/code/icanmart/nova/tests/Fixtures/UserPolicy.php" timestamp="1586513906049">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" timestamp="1586554114567">
+        <mark key="'" line="31" column="6" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1586527406739">
         <mark key="[" line="103" column="4" />
         <mark key="]" line="103" column="4" />
@@ -163,6 +166,7 @@
         <mark key="^" line="41" column="8" />
         <mark key="." line="41" column="7" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/node_modules/flickity/gulpfile.js" timestamp="1586554188879" />
       <file name="$USER_HOME$/code/birdboard/tests/Feature/ProjectTaskTest.php" timestamp="1586514775465">
         <mark key="'" line="35" column="16" />
         <mark key="[" line="54" column="34" />
@@ -175,16 +179,6 @@
         <mark key="]" line="24" column="55" />
         <mark key="^" line="24" column="55" />
         <mark key="." line="24" column="54" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Unit/BoxTest.php" timestamp="1586513671259">
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="7" />
-        <mark key="^" line="35" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1586513823812">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="76" column="64" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/TestCase.php" timestamp="1586526271042">
         <mark key="[" line="32" column="8" />
@@ -211,10 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="45" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/tests/TestCase.php" />
-      <jump line="13" column="57" filename="$USER_HOME$/code/birdboard/tests/TestCase.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/composer.json" />
       <jump line="29" column="5" filename="$USER_HOME$/code/birdboard/composer.json" />
       <jump line="15" column="16" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
       <jump line="2" column="10" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
@@ -311,6 +301,10 @@
       <jump line="2" column="0" filename="$USER_HOME$/code/icanmart/nova/tests/Fixtures/UserPolicy.php" />
       <jump line="19" column="0" filename="$USER_HOME$/code/icanmart/app/Policies/BoxPolicy.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/app/Policies/BoxPolicy.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" />
+      <jump line="3" column="75" filename="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" />
+      <jump line="28" column="61" filename="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" />
+      <jump line="31" column="6" filename="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +316,7 @@
         <text>red</text>
       </register>
       <register name="/" type="4">
-        <text>payme</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcHJvamVjdCA9IFByb2plY3RGYWN0b3J5Ojp3aXRoVGFza3MoMSktPmNyZWF0ZSgpOwo=</text>
@@ -368,9 +362,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>payme</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>payme</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
