@@ -124,97 +124,99 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/ProjectTasksTest.php" timestamp="1586514548638">
-        <mark key="'" line="38" column="19" />
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="15" />
-        <mark key="." line="41" column="15" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/base/_utilities.scss" timestamp="1586612960353">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="22" column="20" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" timestamp="1586554114567">
-        <mark key="'" line="31" column="6" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_carousel.scss" timestamp="1586613217279">
+        <mark key="[" line="35" column="1" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/index.html" timestamp="1586608123732">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/boxes/index.blade.php" timestamp="1586619431557">
+        <mark key="'" line="4" column="30" />
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1586527406739">
-        <mark key="[" line="103" column="4" />
-        <mark key="]" line="103" column="4" />
-        <mark key="." line="103" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Setup/ProjectFactory.php" timestamp="1586525246831">
-        <mark key="t" line="13" column="4" />
-        <mark key="'" line="22" column="4" />
-        <mark key="[" line="30" column="56" />
-        <mark key="m" line="22" column="4" />
-        <mark key="]" line="30" column="56" />
-        <mark key="." line="30" column="56" />
-        <mark key="^" line="30" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/_card.scss" timestamp="1586578067352">
+      <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_section.scss" timestamp="1586612648004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/package-lock.json" timestamp="1586552792576" />
-      <file name="$USER_HOME$/code/icanmart/database/factories/UserFactory.php" timestamp="1586526235416">
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="41" column="8" />
-        <mark key="^" line="41" column="8" />
-        <mark key="." line="41" column="7" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_header.scss" timestamp="1586613899332">
+        <mark key="'" line="11" column="6" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/node_modules/flickity/gulpfile.js" timestamp="1586554188879" />
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/ProjectTaskTest.php" timestamp="1586514775465">
-        <mark key="'" line="35" column="16" />
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="46" />
-        <mark key="." line="54" column="45" />
-        <mark key="^" line="54" column="46" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_button-bs.scss" timestamp="1586617406851">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="14" />
+        <mark key="^" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1586609895764">
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="28" column="54" />
-        <mark key="." line="28" column="54" />
-        <mark key="^" line="29" column="41" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/base/_base.scss" timestamp="1586612682715">
+        <mark key="[" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1586609863679">
-        <mark key="[" line="35" column="3" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_card.scss" timestamp="1586611715182">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/webpack.mix.js" timestamp="1586609792700">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="13" column="30" />
+      <file name="$USER_HOME$/code/birdboard/node_modules/bootstrap/scss/_buttons.scss" timestamp="1586617223488" />
+      <file name="$USER_HOME$/code/birdboard/node_modules/bootstrap/scss/mixins/_buttons.scss" timestamp="1586619993416" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1586621693169">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/TestCase.php" timestamp="1586526271042">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="26" column="19" />
+      <file name="$USER_HOME$/code/icanmart/resources/js/components/Box.vue" timestamp="1586619187295">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="31" />
+        <mark key="^" line="25" column="68" />
+        <mark key="." line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/webpack.mix.js" timestamp="1586609756893">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="13" column="29" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_box.scss" timestamp="1586612706539">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1586578270652">
-        <mark key="[" line="85" column="1" />
-        <mark key="]" line="91" column="8" />
-        <mark key="^" line="91" column="8" />
-        <mark key="." line="91" column="7" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_form.scss" timestamp="1586613010615">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_nav.scss" timestamp="1586621633622">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="45" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1586617805932">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="25" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/public/css/ic.css" timestamp="1586613290491">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/abstracts/_variables.scss" timestamp="1586621736735">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="23" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="5" filename="$USER_HOME$/code/birdboard/composer.json" />
-      <jump line="15" column="16" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
-      <jump line="2" column="10" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
-      <jump line="4" column="26" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
       <jump line="5" column="26" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
       <jump line="6" column="10" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
       <jump line="8" column="18" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTasksTest.php" />
@@ -311,15 +313,19 @@
       <jump line="3" column="75" filename="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" />
       <jump line="28" column="61" filename="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" />
       <jump line="31" column="6" filename="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
+      <jump line="11" column="6" filename="$USER_HOME$/code/icanmart/resources/sass/layout/_header.scss" />
+      <jump line="5" column="27" filename="$USER_HOME$/code/icanmart/resources/views/boxes/index.blade.php" />
+      <jump line="4" column="30" filename="$USER_HOME$/code/icanmart/resources/views/boxes/index.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>icanmart.test</text>
+        <text>b0eaff</text>
       </register>
       <register name="-" type="4">
-        <text>icanmart.test</text>
+        <text>b0eaff</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -328,7 +334,7 @@
         <text encoding="base64">ICAgICAgICAkcHJvamVjdCA9IFByb2plY3RGYWN0b3J5Ojp3aXRoVGFza3MoMSktPmNyZWF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgbWl4ID0gcmVxdWlyZSgnbGFyYXZlbC1taXgnKTsKCmNvbnN0IHRhaWx3aW5kY3NzID0gcmVxdWlyZSgndGFpbHdpbmRjc3MnKTsKLyoKIHwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogfCBNaXggQXNzZXQgTWFuYWdlbWVudAogfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiB8CiB8IE1peCBwcm92aWRlcyBhIGNsZWFuLCBmbHVlbnQgQVBJIGZvciBkZWZpbmluZyBzb21lIFdlYnBhY2sgYnVpbGQgc3RlcHMKIHwgZm9yIHlvdXIgTGFyYXZlbCBhcHBsaWNhdGlvbi4gQnkgZGVmYXVsdCwgd2UgYXJlIGNvbXBpbGluZyB0aGUgU2FzcwogfCBmaWxlIGZvciB0aGUgYXBwbGljYXRpb24gYXMgd2VsbCBhcyBidW5kbGluZyB1cCBhbGwgdGhlIEpTIGZpbGVzLgogfAogKi8KY29uc3QgZG9tYWluID0gJ2ljYW5tYXJ0LnRlc3QnCmNvbnN0IGhvbWVkaXIgPSByZXF1aXJlKCdvcycpLmhvbWVkaXIoKTsKCm1peAogICAgLnNldFB1YmxpY1BhdGgoJ3B1YmxpYycpCiAgICAuanMoJ3Jlc291cmNlcy9qcy9hcHAuanMnLCAnanMnKQogICAgLnNhc3MoJ3Jlc291cmNlcy9zYXNzL2FwcC5zY3NzJywgJ2NzcycpCiAgICAuYnJvd3NlclN5bmMoewogICAgICAgIC8vIHByb3h5OiAnaHR0cHM6Ly8nKyBkb21haW4sCiAgICAgICAgcHJveHk6IGRvbWFpbiwKICAgICAgICBob3N0OiBkb21haW4sCiAgICAgICAgb3BlbjonZXh0ZXJuYWwnLAogICAgICAgIC8vIGh0dHBzOiB7CiAgICAgICAgLy8gICAga2V5OiBob21lZGlyICsgJy8udmFsZXQvQ2VydGlmaWNhdGVzLycrZG9tYWluKycua2V5JywKICAgICAgICAvLyAgICBjZXJ0OiBob21lZGlyICsgJy8udmFsZXQvQ2VydGlmaWNhdGVzLycrZG9tYWluKycuY3J0JywKICAgICAgICAvLyB9LAogICAgICAgIGZpbGVzOiBbCiAgICAgICAgICAgICdyZXNvdXJjZXMvKiovKicKICAgICAgICBdCiAgICB9KQogICAgLm9wdGlvbnMoewogICAgICAgIHByb2Nlc3NDc3NVcmxzOiBmYWxzZSwKICAgICAgICBwb3N0Q3NzOiBbCiAgICAgICAgICAgIHRhaWx3aW5kY3NzKCcuL3RhaWx3aW5kLmNvbmZpZy5qcycpCiAgICAgICAgXSwKICAgIH0pOwoKbWl4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogMWVtOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -337,29 +343,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMmVtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnLycsZnVuY3Rpb24oKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3BhbiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiBncmV5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Um91dGU6Omdyb3VwKFsnbWlkZGxld2FyZSc9PidhdXRoJ10sIGZ1bmN0aW9uKCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJGNvbG9yLXRleHQtZGFyazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">QGltcG9ydCAnY29tcG9uZW50cy9idXR0b24tYnMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBcSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcRmlsZTo6Z2V0KCdpbmRleC5odG1sJyk7Cg==</text>
+        <text encoding="base64">Ly8gM3JkIHBhcnR5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXEZpbGVcRmlsZTsK</text>
+        <text encoding="base64">QGltcG9ydCAiTWl4aW5zL2J1dHRvbmRkLWJzIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7eyBkZChhdXRoKCktPnVzZXIoKSkgfX0K</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgZGQoYXV0aCgpLT51c2VyKCkpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ3LWZ1bGwiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
