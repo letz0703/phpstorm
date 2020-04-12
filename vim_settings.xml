@@ -161,12 +161,6 @@
       <file name="$USER_HOME$/code/icanmart/resources/sass/base/_base.scss" timestamp="1586612682715">
         <mark key="[" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_card.scss" timestamp="1586611715182">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/code/birdboard/node_modules/bootstrap/scss/_buttons.scss" timestamp="1586617223488" />
       <file name="$USER_HOME$/code/birdboard/node_modules/bootstrap/scss/mixins/_buttons.scss" timestamp="1586619993416" />
       <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1586621693169">
@@ -197,6 +191,12 @@
         <mark key="]" line="19" column="45" />
         <mark key="." line="19" column="44" />
         <mark key="^" line="19" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/webpack.mix.js" timestamp="1586686889422">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="30" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1586617805932">
         <mark key="[" line="13" column="0" />
