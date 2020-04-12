@@ -198,6 +198,12 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="30" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/test.html" timestamp="1586692512882">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1586617805932">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -321,8 +327,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>b0eaff</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGhlYWQ+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>b0eaff</text>
@@ -334,7 +340,7 @@
         <text encoding="base64">ICAgICAgICAkcHJvamVjdCA9IFByb2plY3RGYWN0b3J5Ojp3aXRoVGFza3MoMSktPmNyZWF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogMWVtOwo=</text>
+        <text encoding="base64">PGhlYWQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,28 +350,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMmVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogMWVtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BhbiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiBncmV5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMmVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJGNvbG9yLXRleHQtZGFyazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3BhbiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiBncmV5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGltcG9ydCAnY29tcG9uZW50cy9idXR0b24tYnMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogJGNvbG9yLXRleHQtZGFyazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gM3JkIHBhcnR5Cg==</text>
+        <text encoding="base64">QGltcG9ydCAnY29tcG9uZW50cy9idXR0b24tYnMnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAiTWl4aW5zL2J1dHRvbmRkLWJzIjsK</text>
+        <text encoding="base64">Ly8gM3JkIHBhcnR5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">QGltcG9ydCAiTWl4aW5zL2J1dHRvbmRkLWJzIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ3LWZ1bGwiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
