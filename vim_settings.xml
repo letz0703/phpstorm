@@ -124,12 +124,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/icanmart/resources/views/boxes/index.blade.php" timestamp="1586619431557">
-        <mark key="'" line="4" column="30" />
-        <mark key="[" line="7" column="61" />
-        <mark key="]" line="6" column="43" />
-        <mark key="^" line="6" column="43" />
-        <mark key="." line="6" column="42" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1586621693169">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/webpack.mix.js" timestamp="1586686889422">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/js/components/Box.vue" timestamp="1586619187295">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="31" />
+        <mark key="^" line="25" column="68" />
+        <mark key="." line="29" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/create.blade.php" timestamp="1586774300643">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="55" />
+        <mark key="^" line="9" column="72" />
+        <mark key="." line="9" column="55" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_header.scss" timestamp="1586613899332">
         <mark key="'" line="11" column="6" />
@@ -144,25 +161,14 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/node_modules/bootstrap/scss/_buttons.scss" timestamp="1586617223488" />
+      <file name="$USER_HOME$/code/icanmart/test.html" timestamp="1586699756257">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_grid.scss" timestamp="1586725192364">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/node_modules/bootstrap/scss/mixins/_buttons.scss" timestamp="1586619993416" />
-      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1586621693169">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/js/components/Box.vue" timestamp="1586619187295">
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="31" />
-        <mark key="^" line="25" column="68" />
-        <mark key="." line="29" column="31" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/auth/login.blade.php" timestamp="1586718515098">
         <mark key="'" line="61" column="13" />
@@ -170,6 +176,13 @@
         <mark key="]" line="4" column="45" />
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/boxes/index.blade.php" timestamp="1586619431557">
+        <mark key="'" line="4" column="30" />
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="42" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1586725221992">
         <mark key="[" line="21" column="22" />
@@ -182,15 +195,6 @@
         <mark key="]" line="19" column="45" />
         <mark key="." line="19" column="44" />
         <mark key="^" line="19" column="45" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/webpack.mix.js" timestamp="1586686889422">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="13" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/test.html" timestamp="1586699756257">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1586719136394">
         <mark key="[" line="17" column="0" />
@@ -316,10 +320,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>black</text>
+        <text>border-grey-light</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>border-grey-light</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
