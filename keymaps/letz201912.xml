@@ -195,7 +195,6 @@
   <action id="ShelvedChanges.Diff" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="meta f3" />
-    <keyboard-shortcut first-keystroke="meta b" />
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="SplitHorizontally">
@@ -212,8 +211,8 @@
   </action>
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="alt f3" />
-    <keyboard-shortcut first-keystroke="ctrl meta b" />
     <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
@@ -224,6 +223,7 @@
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.Log.ShowAllAffected" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="VcsHistory.ShowAllAffected" />
