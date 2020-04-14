@@ -343,4 +343,17 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="rv" value="return view('$VIEW$', compact('$END$'));" description="return view" toReformat="true" toShortenFQNames="true">
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="blade" value="@extends('layouts.blade')&#10;&#10;@section('content')&#10;    $END$&#10;@endsection" description="blade template" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
