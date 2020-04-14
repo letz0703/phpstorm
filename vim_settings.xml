@@ -156,11 +156,10 @@
         <mark key="^" line="90" column="44" />
         <mark key="." line="90" column="43" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tailwind.config.js" timestamp="1586875631694">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="4" />
+      <file name="$USER_HOME$/code/birdboard/tailwind.config.js" timestamp="1586876677680">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tailwind.config.js" timestamp="1586864738217">
         <mark key="'" line="625" column="6" />
@@ -207,16 +206,18 @@
         <mark key="^" line="2" column="54" />
         <mark key="." line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/sass/_variables.scss" timestamp="1586876068056">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/code/birdboard/resources/sass/_variables.scss" timestamp="1586877139039">
+        <mark key="'" line="36" column="9" />
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/_form.blade.php" timestamp="1586875598116">
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/_form.blade.php" timestamp="1586877173648">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
-        <mark key="^" line="33" column="33" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/edit.blade.php" timestamp="1586873240780">
         <mark key="[" line="6" column="40" />
@@ -246,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectTaskController.php" />
       <jump line="19" column="0" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
       <jump line="74" column="26" filename="$USER_HOME$/code/icanmart/public/css/ic.css" />
       <jump line="31" column="0" filename="$USER_HOME$/code/icanmart/routes/web.php" />
@@ -346,15 +346,16 @@
       <jump line="33" column="77" filename="$USER_HOME$/code/birdboard/resources/views/projects/edit.blade.php" />
       <jump line="55" column="17" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
+      <jump line="25" column="9" filename="$USER_HOME$/code/birdboard/resources/sass/_variables.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QGZ1bmN0aW9uIGF1dG9Db2xvcigkY29sKXsKICAgIEByZXR1cm4gCn0K</text>
+      <register name="&quot;" type="4">
+        <text>sony</text>
       </register>
       <register name="-" type="4">
-        <text>gey</text>
+        <text>sony</text>
       </register>
       <register name="/" type="4">
         <text>extend</text>
@@ -363,7 +364,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCcvcHJvamVjdHMvZWRpdCcpLT5hc3NlcnRSZWRpcmVjdCgnbG9naW4nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGZ1bmN0aW9uIGF1dG9Db2xvcigkY29sKXsKICAgIEByZXR1cm4gCn0K</text>
+        <text encoding="base64">JGNva2U6IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -373,6 +374,21 @@
         </keys>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICZyZWQgewogICAgICAgIAogICAgfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVuaW06ICcjMGQ1ZGMxJywK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc29ueTogJ3JnYmEoMCwgMTEyLCAxOTksIDEuMCknLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMCwgMTEyLCAxOTksIDEuMCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QGZ1bmN0aW9uIGF1dG9Db2xvcigkY29sKXsKICAgIEByZXR1cm4gCn0K</text>
+      </register>
+      <register name="7" type="4">
         <text>extend: {
         colors: {
             grey: {
@@ -382,26 +398,11 @@
         },
     },</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2hpdGU6ICcjZmZmJywK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmxhY2s6ICcjMDAwJywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkOiAnI2UzMzQyZicsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdkZWZhdWx0JzogCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBlbmRpZgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBpZiAoJGVycm9ycy0+YW55KCkpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAZW5kaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmxhY2s6ICcjMDAwJywK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
