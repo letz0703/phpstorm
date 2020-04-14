@@ -41,7 +41,7 @@
   <template name="cc:noie" value="&lt;!--[if !IE]&gt;&lt;!--&gt;&#10;  $END$&#10;&lt;!--&lt;![endif]--&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="a" value="&lt;a href=&quot;$VAR0$&quot;&gt;$END$&lt;/a&gt;" description="&lt;a href=&quot;...&quot;&gt;...&lt;/a&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="a" value="&lt;a href=&quot;$VAR0$&quot;&gt;$END$&lt;/a&gt;" description="&lt;a href=&quot;...&quot;&gt;...&lt;/a&gt;" toReformat="false" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
