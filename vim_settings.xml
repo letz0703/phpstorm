@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>nav</entry>
         <entry>project</entry>
         <entry>projects</entry>
         <entry>testcas</entry>
@@ -27,6 +26,7 @@
         <entry>break</entry>
         <entry>max</entry>
         <entry>patch</entry>
+        <entry>color</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -124,12 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1586819048587">
-        <mark key="'" line="17" column="22" />
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1586865174150">
+        <mark key="'" line="18" column="22" />
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="39" />
       </file>
       <file name="$USER_HOME$/code/icanmart/composer.json" timestamp="1586820921882">
         <mark key="[" line="97" column="9" />
@@ -157,7 +157,7 @@
         <mark key="^" line="34" column="33" />
         <mark key="." line="34" column="33" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1586863433523">
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1586863487499">
         <mark key="'" line="68" column="5" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -170,14 +170,8 @@
         <mark key="^" line="90" column="44" />
         <mark key="." line="90" column="43" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tailwind.config.js" timestamp="1586785288064">
-        <mark key="[" line="18" column="50" />
-        <mark key="]" line="19" column="14" />
-        <mark key="." line="19" column="13" />
-        <mark key="^" line="19" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/tailwind.config.js" timestamp="1586818828417">
-        <mark key="'" line="30" column="13" />
+      <file name="$USER_HOME$/code/icanmart/tailwind.config.js" timestamp="1586864738217">
+        <mark key="'" line="625" column="6" />
         <mark key="[" line="703" column="0" />
         <mark key="]" line="703" column="0" />
         <mark key="." line="703" column="0" />
@@ -194,13 +188,13 @@
         <mark key="^" line="24" column="40" />
         <mark key="." line="24" column="61" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/edit.blade.php" timestamp="1586858736782">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="16" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/edit.blade.php" timestamp="1586864886160">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
+        <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1586858952272">
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1586863715466">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="44" column="21" />
         <mark key="^" line="44" column="53" />
@@ -223,6 +217,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_card.scss" timestamp="1586865032044">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="4" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Setup/ProjectFactory.php" timestamp="1586858233065">
         <mark key="[" line="14" column="7" />
@@ -247,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="11" filename="$USER_HOME$/code/icanmart/resources/sass/_card.scss" />
       <jump line="84" column="2" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
       <jump line="16" column="13" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
       <jump line="42" column="0" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
@@ -347,24 +346,25 @@
       <jump line="46" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="6" column="26" filename="$USER_HOME$/code/birdboard/resources/views/projects/edit.blade.php" />
       <jump line="67" column="5" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="625" column="6" filename="$USER_HOME$/code/icanmart/tailwind.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>eidt</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>patch</text>
+        <text>color</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCcvcHJvamVjdHMvZWRpdCcpLT5hc3NlcnRSZWRpcmVjdCgnbG9naW4nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgIEBhcHBseSAgLnAtNSAucm91bmRlZC1sZyAuc2hhZG93Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -374,28 +374,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZAo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICA8dGV4dGFyZWEKICAgICAgICAgICAgICAgIHJvd3M9IjEwIgogICAgICAgICAgICAgICAgY2xhc3M9InRleHRhcmVhIGJvcmRlciBiZy10cmFuc3BhcmVudCBib3JkZXItZ3JheS00MDAgcm91bmRlZCBwLTIgdy1mdWxsIHRleHQtc20iCiAgICAgICAgICAgICAgICBuYW1lPSJkZXNjcmlwdGlvbiIgaWQ9ImRlc2NyaXB0aW9uIgogICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgID57eyAkcHJvamVjdC0+ZGVzY3JpcHRpbiB9fTwvdGV4dGFyZWE+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICNmZmY7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmllbGQgbWItNiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CgoKICAgICAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICAgICAgICByb3dzPSIxMCIKICAgICAgICAgICAgICAgIGNsYXNzPSJ0ZXh0YXJlYSBib3JkZXIgYmctdHJhbnNwYXJlbnQgYm9yZGVyLWdyYXktNDAwIHJvdW5kZWQgcC0yIHctZnVsbCB0ZXh0LXNtIgogICAgICAgICAgICAgICAgbmFtZT0iZGVzY3JpcHRpb24iIGlkPSJkZXNjcmlwdGlvbiIKICAgICAgICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgICAgICA+e3sgJHByb2plY3QtPmRlc2NyaXB0aW4gfX08L3RleHRhcmVhPg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICA8dGV4dGFyZWEKICAgICAgICAgICAgICAgIHJvd3M9IjEwIgogICAgICAgICAgICAgICAgY2xhc3M9InRleHRhcmVhIGJvcmRlciBiZy10cmFuc3BhcmVudCBib3JkZXItZ3JheS00MDAgcm91bmRlZCBwLTIgdy1mdWxsIHRleHQtc20iCiAgICAgICAgICAgICAgICBuYW1lPSJkZXNjcmlwdGlvbiIgaWQ9ImRlc2NyaXB0aW9uIgogICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgID57eyAkcHJvamVjdC0+ZGVzY3JpcHRpbiB9fTwvdGV4dGFyZWE+</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmllbGQgbWItNiI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2wiPgo=</text>
+        <text encoding="base64">CgoKICAgICAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICAgICAgICByb3dzPSIxMCIKICAgICAgICAgICAgICAgIGNsYXNzPSJ0ZXh0YXJlYSBib3JkZXIgYmctdHJhbnNwYXJlbnQgYm9yZGVyLWdyYXktNDAwIHJvdW5kZWQgcC0yIHctZnVsbCB0ZXh0LXNtIgogICAgICAgICAgICAgICAgbmFtZT0iZGVzY3JpcHRpb24iIGlkPSJkZXNjcmlwdGlvbiIKICAgICAgICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgICAgICA+e3sgJHByb2plY3QtPmRlc2NyaXB0aW4gfX08L3RleHRhcmVhPg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -404,9 +404,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>patch</last-search>
+      <last-search>color</last-search>
       <last-offset />
-      <last-pattern>patch</last-pattern>
+      <last-pattern>color</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
