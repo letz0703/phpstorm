@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>create</entry>
         <entry>other</entry>
         <entry>Test</entry>
         <entry>payme</entry>
@@ -27,6 +26,7 @@
         <entry>button</entry>
         <entry>New</entry>
         <entry>New P</entry>
+        <entry>fal</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -124,12 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1586954557857">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="79" column="42" />
-        <mark key="]" line="80" column="8" />
-        <mark key="^" line="80" column="8" />
-        <mark key="." line="80" column="7" />
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1586956418147">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="93" column="8" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1586953966286">
         <mark key="'" line="3" column="40" />
@@ -148,11 +148,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/boxes/create.blade.php" timestamp="1586894816343">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/sass/_variables.scss" timestamp="1586904859579">
         <mark key="'" line="36" column="9" />
@@ -173,6 +168,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/app/Http/Requests/UpdateProjectRequest.php" timestamp="1586956990483">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="38" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="38" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1586953164487">
         <mark key="'" line="48" column="32" />
         <mark key="[" line="45" column="0" />
@@ -192,8 +194,8 @@
         <mark key="^" line="101" column="35" />
         <mark key="." line="101" column="34" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/edit.blade.php" timestamp="1586906019997">
-        <mark key="[" line="10" column="34" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/edit.blade.php" timestamp="1586956591826">
+        <mark key="[" line="9" column="40" />
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="9" />
@@ -212,12 +214,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1586954771980">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="56" column="4" />
-        <mark key="]" line="56" column="14" />
-        <mark key="^" line="56" column="14" />
-        <mark key="." line="56" column="13" />
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1586956966894">
+        <mark key="'" line="43" column="28" />
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="46" />
+        <mark key="^" line="43" column="46" />
+        <mark key="." line="43" column="45" />
       </file>
       <file name="/Dummy.txt" timestamp="1586907571403">
         <mark key="[" line="0" column="0" />
@@ -254,10 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="35" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
-      <jump line="88" column="54" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
-      <jump line="92" column="66" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
-      <jump line="73" column="20" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="106" column="20" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
       <jump line="54" column="75" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="29" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
@@ -354,24 +352,28 @@
       <jump line="81" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="48" column="0" filename="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" />
       <jump line="7" column="0" filename="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/app/Http/Requests/UpdateProjectRequest.php" />
+      <jump line="98" column="19" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="127" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="43" column="28" filename="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>min:3</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>min:3</text>
       </register>
       <register name="/" type="4">
-        <text>New P</text>
+        <text>fal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxnOnctMS8yIGxnOm14LWF1dG8gYmctd2hpdGUgcC02IG1kOnB5LTEyIG1kOnB4LTE2IHJvdW5kZWQgc2hhZG93Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -381,28 +383,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL10pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAnbm90ZXMnICAgICAgID0+ICdtaW46MycsCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aG9yaXplKCd1cGRhdGUnLCAkcHJvamVjdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAnZGVzY3JpcHRpb24nID0+ICdyZXF1aXJlZCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAndGl0bGUnICAgICAgID0+ICdyZXF1aXJlZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyR0aGlzLT5hdXRob3JpemUoJ3VwZGF0ZScsICRwcm9qZWN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRhdHRyaWJ1dGVzID0gcmVxdWVzdCgpLT52YWxpZGF0ZShbCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL30K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBhYm9ydCAoNDAzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -411,9 +413,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>New P</last-search>
+      <last-search>fal</last-search>
       <last-offset />
-      <last-pattern>New P</last-pattern>
+      <last-pattern>fal</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
