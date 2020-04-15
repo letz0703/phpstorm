@@ -23,6 +23,9 @@
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+  </ScssCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />

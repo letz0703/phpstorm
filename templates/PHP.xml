@@ -230,7 +230,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="@iferrors" value="@if (count($errors))&#10;    &lt;ul class=&quot;alert alert-danger&quot;&gt;&#10;        @foreach( $errors-&gt;all() as $error)&#10;            &lt;li&gt;{{ $error }}&lt;/li&gt;&#10;        @endforeach&#10;    &lt;/ul&gt;&#10;@endif" description="@if(count($errors))" toReformat="false" toShortenFQNames="true">
+  <template name="@iferrors" value="@if ($errors-&gt;any())&#10;&lt;div&gt;&#10;    &lt;ul&gt;&#10;        @foreach( $errors-&gt;all() as $error)&#10;            &lt;li&gt;{{ $error }}&lt;/li&gt;&#10;        @endforeach&#10;    &lt;/ul&gt;&#10;&lt;/div&gt;&#10;@endif" description="@if(count($errors))" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
