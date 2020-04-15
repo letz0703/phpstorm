@@ -131,11 +131,6 @@
         <mark key="." line="52" column="18" />
         <mark key="^" line="52" column="19" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tailwind.config.js" timestamp="1586876677680">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/home.blade.php" timestamp="1586894607016">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="11" column="13" />
@@ -177,11 +172,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1586905524348">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="7" />
-        <mark key="^" line="35" column="8" />
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1586953164487">
+        <mark key="'" line="48" column="32" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="51" column="31" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/create.blade.php" timestamp="1586905972229">
         <mark key="[" line="1" column="0" />
@@ -189,11 +185,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1586905127187">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="51" />
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1586952896142">
+        <mark key="[" line="101" column="8" />
+        <mark key="]" line="101" column="35" />
+        <mark key="^" line="101" column="35" />
+        <mark key="." line="101" column="34" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/edit.blade.php" timestamp="1586906019997">
         <mark key="[" line="10" column="34" />
@@ -201,12 +197,12 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1586945878263">
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1586950427657">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="65" column="26" />
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="51" column="52" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_form.scss" timestamp="1586908735748">
         <mark key="b" line="2" column="11" />
@@ -217,6 +213,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1586907571403">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Http/Requests/ProjectUpdateRequest.php" timestamp="1586953117869">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="12" />
+        <mark key="^" line="27" column="12" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/_form.blade.php" timestamp="1586897052292">
         <mark key="'" line="33" column="35" />
@@ -247,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="10" filename="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" />
       <jump line="51" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="96" column="0" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
       <jump line="2" column="10" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
@@ -347,15 +348,16 @@
       <jump line="28" column="19" filename="$USER_HOME$/code/icanmart/resources/views/projects/create.blade.php" />
       <jump line="33" column="35" filename="$USER_HOME$/code/birdboard/resources/views/projects/_form.blade.php" />
       <jump line="3" column="40" filename="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" />
+      <jump line="48" column="32" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">JHRoaXMtPnZhbGlkYXRlUmVxdWVzdCgp</text>
       </register>
       <register name="/" type="4">
         <text>New P</text>
@@ -364,7 +366,7 @@
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxnOnctMS8yIGxnOm14LWF1dG8gYmctd2hpdGUgcC02IG1kOnB5LTEyIG1kOnB4LTE2IHJvdW5kZWQgc2hhZG93Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -374,28 +376,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL10pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JhY2tncm91bmQtY29sb3I6cmdiYSgxNjgsIDIzNCwgMjUzLCAuMikK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAnbm90ZXMnID0+ICdudWxsYWJsZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M9ImlucHV0ICIK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAnZGVzY3JpcHRpb24nID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGFzcz0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAndGl0bGUnID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyRhdHRyaWJ1dGVzID0gcmVxdWVzdCgpLT52YWxpZGF0ZShbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly99Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aG9yaXplKCd1cGRhdGUnLCAkcHJvamVjdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgd2lkdGg6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly90ZXh0YXJlYSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnZGVzY3JpcHRpb24nID0+ICdjaGFuZ2VkJywK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
