@@ -124,18 +124,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1586954557857">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="79" column="42" />
+        <mark key="]" line="80" column="8" />
+        <mark key="^" line="80" column="8" />
+        <mark key="." line="80" column="7" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1586953966286">
         <mark key="'" line="3" column="40" />
         <mark key="[" line="48" column="18" />
         <mark key="]" line="57" column="18" />
         <mark key="." line="57" column="17" />
         <mark key="^" line="57" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/home.blade.php" timestamp="1586894607016">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/_form.blade.php" timestamp="1586908838797">
         <mark key="[" line="10" column="63" />
@@ -211,6 +212,13 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1586954771980">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="14" />
+        <mark key="^" line="56" column="14" />
+        <mark key="." line="56" column="13" />
+      </file>
       <file name="/Dummy.txt" timestamp="1586907571403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -226,9 +234,6 @@
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" timestamp="1586894614733">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1586907273607">
         <mark key="'" line="28" column="0" />
@@ -249,26 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="96" column="0" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
-      <jump line="2" column="10" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="6" column="26" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="7" column="26" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="8" column="10" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="10" column="19" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="89" column="11" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="72" column="4" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="95" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="92" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="82" column="14" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="83" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="55" column="8" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="76" column="8" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="28" column="23" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
-      <jump line="77" column="33" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
-      <jump line="94" column="63" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
-      <jump line="98" column="57" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
       <jump line="104" column="35" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
       <jump line="88" column="54" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
       <jump line="92" column="66" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
@@ -276,7 +261,6 @@
       <jump line="106" column="20" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
       <jump line="54" column="75" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="29" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="9" column="0" filename="$USER_HOME$/code/birdboard/app/User.php" />
       <jump line="21" column="22" filename="$USER_HOME$/code/icanmart/resources/sass/app.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/package.json" />
@@ -349,15 +333,36 @@
       <jump line="33" column="35" filename="$USER_HOME$/code/birdboard/resources/views/projects/_form.blade.php" />
       <jump line="3" column="40" filename="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" />
       <jump line="48" column="32" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="71" column="20" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="118" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="117" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="109" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="101" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="96" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="86" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="85" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="57" column="20" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="75" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="81" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnZhbGlkYXRlUmVxdWVzdCgp</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>New P</text>
@@ -376,28 +381,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvL10pOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAnbm90ZXMnID0+ICdudWxsYWJsZScK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAnbm90ZXMnICAgICAgID0+ICdtaW46MycsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLyAgICAnZGVzY3JpcHRpb24nID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAndGl0bGUnID0+ICdyZXF1aXJlZCcsCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAndGl0bGUnICAgICAgID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyRhdHRyaWJ1dGVzID0gcmVxdWVzdCgpLT52YWxpZGF0ZShbCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0aG9yaXplKCd1cGRhdGUnLCAkcHJvamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICBhYm9ydCAoNDAzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
