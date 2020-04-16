@@ -150,13 +150,6 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="11" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1587068899835">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-        <mark key="^" line="6" column="36" />
-      </file>
       <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_125727_create_activities_table.php" timestamp="1587041981869">
         <mark key="[" line="17" column="47" />
         <mark key="]" line="19" column="36" />
@@ -236,11 +229,7 @@
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1587068684160">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="29" column="8" />
         <mark key="m" line="27" column="3" />
-        <mark key="]" line="29" column="15" />
-        <mark key="^" line="29" column="15" />
-        <mark key="." line="29" column="14" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/abstracts/_variables.scss" timestamp="1586981338807">
         <mark key="p" line="13" column="0" />
