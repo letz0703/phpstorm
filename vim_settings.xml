@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>payme</entry>
         <entry>gen</entry>
         <entry>path</entry>
         <entry>break</entry>
@@ -27,6 +26,7 @@
         <entry>fal</entry>
         <entry>vali</entry>
         <entry>Tasks</entry>
+        <entry>route</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -131,13 +131,6 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1586956418147">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="93" column="8" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1586979199421">
         <mark key="'" line="49" column="17" />
         <mark key="[" line="3" column="43" />
@@ -145,11 +138,11 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="26" column="54" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Requests/UpdateProjectRequest.php" timestamp="1586992711888">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="58" />
-        <mark key="^" line="35" column="58" />
-        <mark key="." line="35" column="57" />
+      <file name="$USER_HOME$/code/birdboard/app/Http/Requests/UpdateProjectRequest.php" timestamp="1587032418733">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="11" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_header.scss" timestamp="1586979918848">
         <mark key="'" line="11" column="6" />
@@ -168,12 +161,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Http/Requests/UpdateProjectRequest.php" timestamp="1586991672382">
+      <file name="$USER_HOME$/code/icanmart/app/Http/Requests/UpdateProjectRequest.php" timestamp="1587029577367">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="38" />
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="35" column="58" />
+        <mark key="." line="35" column="57" />
+        <mark key="^" line="35" column="58" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1586980244280">
         <mark key="'" line="21" column="22" />
@@ -182,12 +175,12 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1586994080676">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="48" column="4" />
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1587031781750">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="40" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="40" />
       </file>
       <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1586993661593">
         <mark key="[" line="101" column="8" />
@@ -221,12 +214,15 @@
         <mark key="." line="6" column="70" />
         <mark key="^" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1586956966894">
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1587029635596">
         <mark key="'" line="43" column="28" />
-        <mark key="[" line="43" column="25" />
-        <mark key="]" line="43" column="46" />
-        <mark key="^" line="43" column="46" />
-        <mark key="." line="43" column="45" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="50" />
+        <mark key="^" line="44" column="28" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587031498572">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" timestamp="1586980534978">
         <mark key="[" line="4" column="34" />
@@ -258,13 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/package.json" />
-      <jump line="48" column="0" filename="$USER_HOME$/code/icanmart/package.json" />
-      <jump line="60" column="0" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
-      <jump line="0" column="5" filename="$USER_HOME$/code/icanmart/resources/views/projects/_card.blade.php" />
-      <jump line="38" column="10" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
       <jump line="75" column="4" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
       <jump line="69" column="13" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
       <jump line="112" column="4" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
@@ -358,24 +347,31 @@
       <jump line="44" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
       <jump line="39" column="0" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
       <jump line="48" column="17" filename="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" />
+      <jump line="28" column="33" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="43" column="8" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
+      <jump line="20" column="57" filename="$USER_HOME$/code/birdboard/app/Http/Requests/UpdateProjectRequest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRwcm9qZWN0LT51cGRhdGUoJHJlcXVlc3QtPnZhbGlkYXRlZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Tasks</text>
+        <text>route</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxnOnctMS8yIGxnOm14LWF1dG8gYmctd2hpdGUgcC02IG1kOnB5LTEyIG1kOnB4LTE2IHJvdW5kZWQgc2hhZG93Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRwcm9qZWN0LT51cGRhdGUoJHJlcXVlc3QtPnZhbGlkYXRlZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -385,28 +381,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuYmdncmV5IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvamVjdDo6ZmluZE9yRmFpbCgkdGhpcy0+cHJvamVjdCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvamVjdDo6ZmluZE9yRmFpbCgkdGhpcy0+cHJvamVjdCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXJnaW4tcmlnaHQ6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyRwcm9qZWN0LT51cGRhdGUoJHJlcXVlc3QtPnZhbGlkYXRlZCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICY6bGFzdC1jaGlsZHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1dHRvbiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuYmdncmV5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -415,9 +411,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Tasks</last-search>
+      <last-search>route</last-search>
       <last-offset />
-      <last-pattern>Tasks</last-pattern>
+      <last-pattern>route</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
