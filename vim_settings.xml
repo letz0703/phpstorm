@@ -137,7 +137,7 @@
         <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1587125223619">
-        <mark key="'" line="18" column="53" />
+        <mark key="'" line="30" column="53" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -155,11 +155,7 @@
         <mark key="^" line="20" column="38" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Providers/AppServiceProvider.php" timestamp="1587125598943">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="26" column="49" />
-        <mark key="." line="17" column="0" />
+        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/ActivityFeedTest.php" timestamp="1587041441734">
         <mark key="[" line="14" column="25" />
