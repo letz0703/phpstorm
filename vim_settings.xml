@@ -136,8 +136,8 @@
         <mark key="^" line="20" column="36" />
         <mark key="." line="20" column="35" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1587125223619">
-        <mark key="'" line="30" column="53" />
+      <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1587127831563">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -148,14 +148,17 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1587125201211">
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="4" />
-        <mark key="." line="36" column="4" />
-        <mark key="^" line="20" column="38" />
+      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1587128157430">
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="40" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Providers/AppServiceProvider.php" timestamp="1587125598943">
-        <mark key="^" line="4" column="49" />
+      <file name="$USER_HOME$/code/birdboard/app/Providers/AppServiceProvider.php" timestamp="1587127925041">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="49" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="27" column="48" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/ActivityFeedTest.php" timestamp="1587041441734">
         <mark key="[" line="14" column="25" />
@@ -203,11 +206,10 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" timestamp="1587122895237">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="33" column="5" />
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" timestamp="1587127862337">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2020_04_17_074138_add_project_id_to_activities.php" timestamp="1587077149774">
         <mark key="[" line="17" column="35" />
@@ -236,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="16" filename="$USER_HOME$/code/birdboard/tests/Feature/ProjectTaskTest.php" />
       <jump line="30" column="0" filename="$USER_HOME$/code/icanmart/routes/web.php" />
       <jump line="2" column="0" filename="$USER_HOME$/code/icanmart/nova/tests/Fixtures/UserPolicy.php" />
       <jump line="19" column="0" filename="$USER_HOME$/code/icanmart/app/Policies/BoxPolicy.php" />
@@ -336,15 +337,16 @@
       <jump line="23" column="53" filename="$USER_HOME$/code/birdboard/routes/web.php" />
       <jump line="29" column="42" filename="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" />
       <jump line="5" column="0" filename="$USER_HOME$/code/birdboard/app/Providers/AppServiceProvider.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/birdboard/routes/web.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9qZWN0OjpvYnNlcnZlKFByb2plY3RPYnNlcnZlcjo6Y2xhc3MpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>updat</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>boot</text>
@@ -353,7 +355,7 @@
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxnOnctMS8yIGxnOm14LWF1dG8gYmctd2hpdGUgcC02IG1kOnB5LTEyIG1kOnB4LTE2IHJvdW5kZWQgc2hhZG93Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9qZWN0OjpvYnNlcnZlKFByb2plY3RPYnNlcnZlcjo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -363,90 +365,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XEFwcFxQcm9qZWN0OjpjcmVhdGVkKCBmdW5jdGlvbigkcHJvamVjdCl7CiAgIFxBcHBcQWN0aXZpdHk6OmNyZWF0ZShbCiAgICAgICAncHJvamVjdF9pZCcgPT4gJHByb2plY3QtPmlkLAogICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAnY3JlYXRlZCcKICAgXSk7Cn0pOwoKXEFwcFxQcm9qZWN0Ojp1cGRhdGVkKGZ1bmN0aW9uKCRwcm9qZWN0KXsKCn0pOw==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAnY3JlYXRlZCcK</text>
       </register>
-      <register name="3" type="4">
-        <text>/**
-     * Handle the project &quot;deleted&quot; event.
-     *
-     * @param  \App\Project  $project
-     * @return void
-     */
-    public function deleted(Project $project)
-    {
-        //
-    }
-
-    /**
-     * Handle the project &quot;restored&quot; event.
-     *
-     * @param  \App\Project  $project
-     * @return void
-     */
-    public function restored(Project $project)
-    {
-        //
-    }
-
-    /**
-     * Handle the project &quot;force deleted&quot; event.
-     *
-     * @param  \App\Project  $project
-     * @return void
-     */
-    public function forceDeleted(Project $project)
-    {
-        //
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICRwcm9qZWN0LT5pZCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBcQXBwXEFjdGl2aXR5OjpjcmVhdGUoWwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-     * Handle the project &quot;deleted&quot; event.
-     *
-     * @param  \App\project  $project
-     * @return void
-     */
-    public function deleted(project $project)
-    {
-        //
-    }
-
-    /**
-     * Handle the project &quot;restored&quot; event.
-     *
-     * @param  \App\project  $project
-     * @return void
-     */
-    public function restored(project $project)
-    {
-        //
-    }
-
-    /**
-     * Handle the project &quot;force deleted&quot; event.
-     *
-     * @param  \App\project  $project
-     * @return void
-     */
-    public function forceDeleted(project $project)
-    {
-        //
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEhhbmRsZSB0aGUgcHJvamVjdCAiZGVsZXRlZCIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtICBcQXBwXHByb2plY3QgICRwcm9qZWN0CiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGRlbGV0ZWQocHJvamVjdCAkcHJvamVjdCkKICAgIHsKICAgICAgICAvLwogICAgfQoKICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBwcm9qZWN0ICJyZXN0b3JlZCIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtICBcQXBwXHByb2plY3QgICRwcm9qZWN0CiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJlc3RvcmVkKHByb2plY3QgJHByb2plY3QpCiAgICB7CiAgICAgICAgLy8KICAgIH0KCiAgICAvKioKICAgICAqIEhhbmRsZSB0aGUgcHJvamVjdCAiZm9yY2UgZGVsZXRlZCIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtICBcQXBwXHByb2plY3QgICRwcm9qZWN0CiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGZvcmNlRGVsZXRlZChwcm9qZWN0ICRwcm9qZWN0KQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAnY3JlYXRlZCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICRwcm9qZWN0LT5pZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcQXBwXEFjdGl2aXR5OjpjcmVhdGUoWwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyR0aGlzLT5zaWduSW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
