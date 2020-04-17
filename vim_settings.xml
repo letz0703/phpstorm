@@ -124,11 +124,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" timestamp="1587079049675">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="17" column="50" />
-        <mark key="." line="17" column="49" />
-        <mark key="^" line="17" column="50" />
+      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" timestamp="1587117026339">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_130212_create_activities_table.php" timestamp="1587042418577">
         <mark key="[" line="18" column="33" />
@@ -209,11 +209,11 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" timestamp="1587079095624">
-        <mark key="[" line="17" column="72" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" timestamp="1587117474993">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="34" column="8" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2020_04_17_074138_add_project_id_to_activities.php" timestamp="1587077149774">
         <mark key="[" line="17" column="35" />
@@ -347,10 +347,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>project_id</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>project_id</text>
       </register>
       <register name="/" type="4">
         <text>tasks</text>
