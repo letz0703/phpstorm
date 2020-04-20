@@ -130,23 +130,11 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_130212_create_activities_table.php" timestamp="1587042418577">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="20" column="36" />
-        <mark key="^" line="20" column="36" />
-        <mark key="." line="20" column="35" />
-      </file>
       <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1587127831563">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_125727_create_activities_table.php" timestamp="1587041981869">
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="19" column="36" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="19" column="35" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1587128157430">
         <mark key="[" line="33" column="29" />
@@ -160,18 +148,12 @@
         <mark key="^" line="27" column="49" />
         <mark key="." line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/ActivityFeedTest.php" timestamp="1587041441734">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1587042159885">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="32" column="6" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="42" column="29" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1587338532411">
+        <mark key="'" line="21" column="22" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="19" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_224810_create_activities_table.php" timestamp="1587077327342">
         <mark key="[" line="18" column="33" />
@@ -196,6 +178,18 @@
         <mark key="]" line="20" column="36" />
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1587338907165">
+        <mark key="[" line="38" column="47" />
+        <mark key="]" line="38" column="63" />
+        <mark key="^" line="38" column="63" />
+        <mark key="." line="38" column="62" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_nav.scss" timestamp="1587338700304">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+        <mark key="^" line="19" column="45" />
       </file>
       <file name="/Dummy.txt" timestamp="1587124565382">
         <mark key="[" line="0" column="0" />
@@ -230,6 +224,13 @@
         <mark key="]" line="29" column="47" />
         <mark key="^" line="29" column="47" />
         <mark key="." line="29" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1587336575819">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2019_06_05_161954_create_activities_table.php" timestamp="1587077240000">
         <mark key="[" line="7" column="0" />
@@ -343,10 +344,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>30px</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>30px</text>
       </register>
       <register name="/" type="4">
         <text>boot</text>
@@ -355,7 +356,7 @@
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxnOnctMS8yIGxnOm14LWF1dG8gYmctd2hpdGUgcC02IG1kOnB5LTEyIG1kOnB4LTE2IHJvdW5kZWQgc2hhZG93Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogNnJlbTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -365,28 +366,36 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAnY3JlYXRlZCcK</text>
+        <text encoding="base64">ICAgICAgICBib3gtc2hhZG93OiAwIDFyZW0gMnJlbSByZ2JhKGJsYWNrLCAwLjE1KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICRwcm9qZWN0LT5pZCwK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAkdGhlbWUtY29sb3I7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBcQXBwXEFjdGl2aXR5OjpjcmVhdGUoWwo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+      <register name="5" type="8">
+        <text>tex
+tex
+tex</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAnY3JlYXRlZCcK</text>
+      <register name="6" type="8">
+        <text>unde
+unde
+unde</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICRwcm9qZWN0LT5pZCwK</text>
+      <register name="7" type="8">
+        <text>unde
+unde
+unde</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBcQXBwXEFjdGl2aXR5OjpjcmVhdGUoWwo=</text>
+      <register name="8" type="8">
+        <text>unde
+unde
+unde</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
