@@ -200,11 +200,11 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" timestamp="1587382328466">
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="56" column="31" />
-        <mark key="." line="56" column="30" />
-        <mark key="^" line="56" column="31" />
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" timestamp="1587394371272">
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="26" />
+        <mark key="^" line="39" column="38" />
+        <mark key="." line="39" column="26" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2020_04_17_074138_add_project_id_to_activities.php" timestamp="1587077149774">
         <mark key="[" line="17" column="35" />
@@ -218,12 +218,6 @@
         <mark key="m" line="32" column="3" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1587382305668">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="27" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1587336575819">
         <mark key="'" line="28" column="0" />
@@ -344,10 +338,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>create</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>boot</text>
@@ -356,7 +350,7 @@
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxnOnctMS8yIGxnOm14LWF1dG8gYmctd2hpdGUgcC02IG1kOnB5LTEyIG1kOnB4LTE2IHJvdW5kZWQgc2hhZG93Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -366,28 +360,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+dGFza3MpOwo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+dGFza3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFjdGl2aXRpZQo=</text>
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0aXZpdHkgPSBjcmVhdGUoWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFjdGl2aXRpZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogNnJlbTsK</text>
+        <text encoding="base64">ICAgICAgICAkYWN0aXZpdHkgPSBjcmVhdGUoWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib3gtc2hhZG93OiAwIDFyZW0gMnJlbSByZ2JhKGJsYWNrLCAwLjE1KTsK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogNnJlbTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAkdGhlbWUtY29sb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3gtc2hhZG93OiAwIDFyZW0gMnJlbSByZ2JhKGJsYWNrLCAwLjE1KTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
