@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>break</entry>
         <entry>max</entry>
         <entry>patch</entry>
         <entry>color</entry>
@@ -27,6 +26,7 @@
         <entry>route</entry>
         <entry>tasks</entry>
         <entry>boot</entry>
+        <entry>gen</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -201,11 +201,12 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" timestamp="1587402616416">
-        <mark key="[" line="52" column="35" />
-        <mark key="]" line="52" column="35" />
-        <mark key="." line="52" column="35" />
-        <mark key="^" line="51" column="43" />
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" timestamp="1587408436379">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="43" column="42" />
+        <mark key="." line="43" column="41" />
+        <mark key="^" line="43" column="42" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2020_04_17_074138_add_project_id_to_activities.php" timestamp="1587077149774">
         <mark key="[" line="17" column="35" />
@@ -221,11 +222,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="42" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1587402464044">
-        <mark key="[" line="38" column="29" />
-        <mark key="]" line="38" column="36" />
-        <mark key="^" line="38" column="36" />
-        <mark key="." line="38" column="35" />
+      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1587408489049">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1587336575819">
         <mark key="'" line="28" column="0" />
@@ -241,8 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/code/icanmart/nova/tests/Fixtures/UserPolicy.php" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/icanmart/app/Policies/BoxPolicy.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/app/Policies/BoxPolicy.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" />
       <jump line="3" column="75" filename="$USER_HOME$/code/icanmart/nova/resources/js/polyfills/composedPath.js" />
@@ -341,24 +340,26 @@
       <jump line="27" column="0" filename="$USER_HOME$/code/birdboard/routes/web.php" />
       <jump line="62" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
       <jump line="34" column="36" filename="$USER_HOME$/code/birdboard/app/Project.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
-        <text>boot</text>
+        <text>gen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxnOnctMS8yIGxnOm14LWF1dG8gYmctd2hpdGUgcC02IG1kOnB5LTEyIG1kOnB4LTE2IHJvdW5kZWQgc2hhZG93Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJ3Byb2plY3RfaWQnID0+ICRwcm9qZWN0LT5pZCwK</text>
+        <text encoding="base64">ICAgICAgICBkZChhdXRoKCktPnVzZXIoKS0+cHJvamVjdHMtPmxhc3QoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -368,28 +369,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZChUYXNrOjphbGwoKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JHRoaXMtPmFjdGl2aXRpZXMoKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICR0aGlzLT5pZCwKICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAndGFza19jcmVhdGVkJwogICAgICAgIF0pOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+dGFza3NbMF0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICRwcm9qZWN0LT5pZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAndGFza19jcmVhdGVkJwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGF0Y2goJHByb2plY3QtPnRhc2tzLT5sYXN0KCktKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICR0aGlzLT5pZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJ3Byb2plY3RfaWQnID0+ICRwcm9qZWN0LT5pZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBY3Rpdml0eTo6Y3JlYXRlKFsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">JHRoaXMtPmFjdGl2aXRpZXMoKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICR0aGlzLT5pZCwKICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAndGFza19jcmVhdGVkJwogICAgICAgIF0pOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAnaGVsbG8nCg==</text>
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -398,9 +399,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>boot</last-search>
+      <last-search>gen</last-search>
       <last-offset />
-      <last-pattern>boot</last-pattern>
+      <last-pattern>gen</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
