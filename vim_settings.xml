@@ -146,11 +146,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/card.blade.php" timestamp="1587664893150">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="55" />
-        <mark key="^" line="5" column="55" />
-        <mark key="." line="5" column="54" />
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/card.blade.php" timestamp="1587665873172">
+        <mark key="[" line="6" column="70" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="39" />
       </file>
       <file name="$USER_HOME$/code/birdboard/tests/Feature/ProjectTaskTest.php" timestamp="1587644631822">
         <mark key="[" line="57" column="34" />
