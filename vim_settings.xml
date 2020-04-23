@@ -124,17 +124,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/card.blade.php" timestamp="1587645119816">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="29" />
+      </file>
       <file name="/a.dummy" timestamp="1587509480998">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectTaskController.php" timestamp="1587641973304">
-        <mark key="'" line="28" column="45" />
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="28" column="26" />
-        <mark key="^" line="28" column="26" />
-        <mark key="." line="28" column="25" />
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectTaskController.php" timestamp="1587644547165">
+        <mark key="'" line="36" column="45" />
+        <mark key="[" line="36" column="58" />
+        <mark key="]" line="36" column="60" />
+        <mark key="." line="36" column="59" />
+        <mark key="^" line="36" column="60" />
       </file>
       <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1587643848483">
         <mark key="'" line="4" column="0" />
@@ -142,11 +148,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/ProjectTaskTest.php" timestamp="1587643828687">
-        <mark key="[" line="55" column="26" />
-        <mark key="]" line="55" column="46" />
-        <mark key="." line="55" column="45" />
-        <mark key="^" line="55" column="46" />
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/ProjectTaskTest.php" timestamp="1587644631822">
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="57" column="43" />
+        <mark key="." line="57" column="42" />
+        <mark key="^" line="57" column="43" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1587465055971">
         <mark key="[" line="27" column="8" />
@@ -165,25 +171,25 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1587338532411">
-        <mark key="'" line="21" column="22" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="19" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/code/birdboard/database/factories/TaskFactory.php" timestamp="1587465472487">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="11" column="8" />
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1587643939025">
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1587643983630">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="45" column="48" />
-        <mark key="]" line="45" column="48" />
-        <mark key="." line="45" column="47" />
-        <mark key="^" line="45" column="48" />
+        <mark key="]" line="42" column="5" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1587644907271">
+        <mark key="'" line="51" column="51" />
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="51" column="52" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1587339031555">
         <mark key="[" line="38" column="47" />
@@ -238,16 +244,8 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1587336575819">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
-        <mark key="^" line="23" column="17" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="3" filename="$USER_HOME$/code/icanmart/resources/sass/layout/_grid.scss" />
       <jump line="35" column="28" filename="$USER_HOME$/code/birdboard/resources/sass/app.scss" />
       <jump line="551" column="23" filename="$USER_HOME$/code/icanmart/tailwind.config.js" />
       <jump line="30" column="13" filename="$USER_HOME$/code/icanmart/tailwind.config.js" />
@@ -347,15 +345,16 @@
       <jump line="68" column="0" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
       <jump line="28" column="45" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectTaskController.php" />
       <jump line="4" column="0" filename="$USER_HOME$/code/birdboard/routes/web.php" />
+      <jump line="51" column="51" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>jpdate</text>
+        <text>project</text>
       </register>
       <register name="-" type="4">
-        <text>jpdate</text>
+        <text>project</text>
       </register>
       <register name="/" type="4">
         <text>patch</text>
@@ -364,7 +363,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhc2stPnByb2plY3QtPnJlY29yZEFjdGl2aXR5KCd0YXNrX2NyZWF0ZWQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnaGknKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+dGFza3MtPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -374,28 +373,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJoaSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChyZXF1ZXN0KCktPmNvbXBsZXRlZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7eyAnaGVsbG8nfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbXBsZXRlZCcgPT4gcmVxdWVzdCgnY29tcGxldGVkJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaGknKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+dGFza3MtPnRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJoaSI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICB7eyAnaGVsbG8nfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWN0aXZpdGllcygpLT5jcmVhdGUoWwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+dGFza3MtPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHBhdGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
