@@ -159,7 +159,6 @@
       <file name="$USER_HOME$/code/birdboard/app/Observers/TaskObserver.php" timestamp="1587732020837">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
-        <mark key="^" line="21" column="14" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1587684877751">
@@ -210,11 +209,7 @@
         <mark key="." line="39" column="28" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1587732115699">
-        <mark key="'" line="59" column="1" />
-        <mark key="[" line="57" column="5" />
-        <mark key="]" line="58" column="4" />
-        <mark key="^" line="58" column="4" />
-        <mark key="." line="58" column="3" />
+        <mark key="'" line="46" column="1" />
       </file>
     </filemarks>
     <jumps>
