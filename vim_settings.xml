@@ -124,7 +124,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/card.blade.php" timestamp="1587659472245" />
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/created.blade.php" timestamp="1587660582800">
         <mark key="[" line="0" column="11" />
       </file>
@@ -157,6 +156,12 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="33" />
       </file>
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_incompleted.blade.php" timestamp="1587752637941">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/app/Observers/TaskObserver.php" timestamp="1587750270513">
         <mark key="[" line="16" column="15" />
         <mark key="]" line="16" column="16" />
@@ -176,6 +181,12 @@
         <mark key="]" line="70" column="44" />
         <mark key="^" line="70" column="44" />
         <mark key="." line="70" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_created.blade.php" timestamp="1587752618475">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="42" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1587684930417">
         <mark key="[" line="34" column="51" />
@@ -198,10 +209,11 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" timestamp="1587751359956">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" timestamp="1587753139663">
+        <mark key="[" line="89" column="33" />
+        <mark key="]" line="89" column="49" />
+        <mark key="^" line="89" column="49" />
+        <mark key="." line="89" column="48" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1587750187824">
         <mark key="[" line="27" column="8" />
@@ -209,12 +221,13 @@
         <mark key="^" line="27" column="29" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1587750588426">
-        <mark key="'" line="46" column="1" />
-        <mark key="[" line="38" column="15" />
-        <mark key="]" line="38" column="15" />
-        <mark key="^" line="54" column="47" />
-        <mark key="." line="38" column="15" />
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_uncompleted.blade.php" timestamp="1587753370023" />
+      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1587753030736">
+        <mark key="'" line="47" column="1" />
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="47" />
+        <mark key="^" line="44" column="47" />
+        <mark key="." line="44" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -322,17 +335,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFjdGl2aXR5LT5zdWJqZWN0LT50b0FycmF5KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>actual</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>patch</text>
       </register>
       <register name="0" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVjb3JkQWN0aXZpdHkoJ3Rhc2tfY29tcGxldGVkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGQoJGFjdGl2aXR5LT5zdWJqZWN0LT50b0FycmF5KCkpOwo=</text>
