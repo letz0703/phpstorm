@@ -124,8 +124,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/created.blade.php" timestamp="1587660582800">
-        <mark key="[" line="0" column="11" />
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/created.blade.php" timestamp="1587770097679">
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" timestamp="1587750033170">
         <mark key="'" line="32" column="7" />
@@ -133,13 +133,6 @@
         <mark key="]" line="18" column="43" />
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="43" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectTaskController.php" timestamp="1587659656021">
-        <mark key="'" line="39" column="45" />
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="8" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/card.blade.php" timestamp="1587665873172">
         <mark key="[" line="6" column="70" />
@@ -168,12 +161,18 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1587684877751">
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1587770511080">
         <mark key="'" line="21" column="22" />
         <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="25" />
-        <mark key="^" line="51" column="34" />
-        <mark key="." line="38" column="25" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_completed.blade.php" timestamp="1587769893370">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1587661983472">
         <mark key="'" line="51" column="51" />
@@ -200,7 +199,7 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587727250197">
+      <file name="/Dummy.txt" timestamp="1587769382639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Activity.php" timestamp="1587750043538">
@@ -209,11 +208,11 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" timestamp="1587754783688">
-        <mark key="[" line="83" column="15" />
-        <mark key="]" line="83" column="15" />
-        <mark key="." line="83" column="15" />
-        <mark key="^" line="88" column="31" />
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" timestamp="1587769672335">
+        <mark key="[" line="76" column="43" />
+        <mark key="]" line="76" column="67" />
+        <mark key="." line="76" column="66" />
+        <mark key="^" line="76" column="67" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1587750187824">
         <mark key="[" line="27" column="8" />
@@ -221,13 +220,18 @@
         <mark key="^" line="27" column="29" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_uncompleted.blade.php" timestamp="1587753370023" />
-      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1587754213420">
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_uncompleted.blade.php" timestamp="1587769884878">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1587769388931">
         <mark key="'" line="47" column="1" />
-        <mark key="[" line="43" column="38" />
-        <mark key="]" line="43" column="43" />
-        <mark key="^" line="43" column="43" />
-        <mark key="." line="43" column="42" />
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="49" column="36" />
+        <mark key="^" line="49" column="36" />
+        <mark key="." line="49" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -336,19 +340,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJvamVjdC0+b3duZXIpLT4=</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvamVjdC0+b3duZXIpLT4=</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>patch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVjb3JkQWN0aXZpdHkoJ3Rhc2tfY29tcGxldGVkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cHJvamVjdC0+cmVjb3JkQWN0aXZpdHkoJ3Rhc2tfY29tcGxldGVkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RkKCRwcm9qZWN0LT5mcmVzaCgpLT5hY3Rpdml0aWVzLT5sYXN0KCktPnRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">WW91IGNvbXBsZXRlZCBhIHRhc2sK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,28 +362,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFjdGl2aXR5LT5yZWZyZXNoKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFjdGl2aXR5LT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFjdGl2aXR5LT5zdWJqZWN0LT50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydEluc3RhbmNlT2YoJ0FwcFxUYXNrJywgJGFjdGl2aXR5LT5zdWJqZWN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCd0YXNrX2NyZWF0ZWQnLCAkYWN0aXZpdHktPmRlc2NyaXB0aW9uKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNyZWF0ZWQodGFzayAkdGFzaykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygndGFza19jb21wbGV0ZWQnLCAkYWN0aXZpdHktPnN1YmplY3QtPmJvZHkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
