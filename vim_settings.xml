@@ -214,11 +214,11 @@
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" timestamp="1587942309358">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="41" />
-        <mark key="^" line="33" column="42" />
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" timestamp="1587980122677">
+        <mark key="[" line="43" column="60" />
+        <mark key="]" line="43" column="60" />
+        <mark key="." line="43" column="60" />
+        <mark key="^" line="42" column="12" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1587750187824">
         <mark key="[" line="27" column="8" />
@@ -346,10 +346,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHByb2plY3QtPmFjdGl2aXRpZXMtPmxhc3QoKQ==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHByb2plY3QtPmFjdGl2aXRpZXMtPmxhc3QoKQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>patch</text>
@@ -374,19 +374,19 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCd1cGRhdGVkJywgJGFjdGl2aXR5LT5kZXNjcmlwdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WW91IGNvbXBsZXRlZCBhIHRhc2sK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCd1cGRhdGVkJywgJGFjdGl2aXR5LT5kZXNjcmlwdGlvbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFjdGl2aXR5LT50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCd1cGRhdGVkJywgJGFjdGl2aXR5LT5kZXNjcmlwdGlvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydEluc3RhbmNlT2YoJ0FwcFxUYXNrJywgJGFjdGl2aXR5LT5zdWJqZWN0KTsK</text>
+        <text encoding="base64">WW91IGNvbXBsZXRlZCBhIHRhc2sK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFjdGl2aXR5LT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc2VydEluc3RhbmNlT2YoJ0FwcFxUYXNrJywgJGFjdGl2aXR5LT5zdWJqZWN0KTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
