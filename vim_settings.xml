@@ -127,12 +127,12 @@
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/created.blade.php" timestamp="1587770097679">
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" timestamp="1587982266722">
-        <mark key="'" line="33" column="7" />
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" timestamp="1587983655814">
+        <mark key="'" line="34" column="7" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="47" />
+        <mark key="." line="20" column="46" />
+        <mark key="^" line="20" column="47" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/BoxController.php" timestamp="1587824574396">
         <mark key="[" line="2" column="31" />
@@ -149,8 +149,8 @@
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/updated.blade.php" timestamp="1587662147263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1587727642070">
-        <mark key="[" line="16" column="18" />
+      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1587983920095">
+        <mark key="[" line="17" column="5" />
         <mark key="]" line="16" column="33" />
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="33" />
@@ -207,18 +207,24 @@
       <file name="/Dummy.txt" timestamp="1587769382639">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/birdboard/app/Activity.php" timestamp="1587983690191">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" timestamp="1587982188837">
         <mark key="[" line="34" column="22" />
         <mark key="]" line="34" column="31" />
         <mark key="." line="34" column="30" />
         <mark key="^" line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1587982092511">
+      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1587983877221">
         <mark key="'" line="41" column="27" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="24" />
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="27" />
+        <mark key="^" line="46" column="8" />
+        <mark key="." line="44" column="27" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_uncompleted.blade.php" timestamp="1587769884878">
         <mark key="[" line="0" column="4" />
@@ -340,10 +346,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>description</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>description</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>patch</text>
