@@ -127,8 +127,8 @@
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/created.blade.php" timestamp="1587770097679">
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" timestamp="1587983655814">
-        <mark key="'" line="34" column="7" />
+      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" timestamp="1587991492839">
+        <mark key="'" line="35" column="7" />
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="47" />
         <mark key="." line="20" column="46" />
@@ -140,11 +140,11 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1587985329019">
+      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1587991225596">
         <mark key="[" line="17" column="5" />
-        <mark key="]" line="16" column="33" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="16" column="33" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="47" />
+        <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_incompleted.blade.php" timestamp="1587752637941">
         <mark key="[" line="0" column="11" />
@@ -176,21 +176,23 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="11" column="57" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Activity.php" timestamp="1587983690191">
-        <mark key="[" line="7" column="1" />
+      <file name="$USER_HOME$/code/birdboard/app/Activity.php" timestamp="1587990924327">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="13" column="4" />
+        <mark key="^" line="13" column="4" />
+        <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" timestamp="1587985035846">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="34" column="22" />
-        <mark key="." line="34" column="22" />
-        <mark key="^" line="42" column="54" />
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" timestamp="1587991551911">
+        <mark key="[" line="43" column="84" />
+        <mark key="]" line="53" column="8" />
+        <mark key="." line="53" column="7" />
+        <mark key="^" line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1587986128400">
-        <mark key="'" line="41" column="27" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1587991522609">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1587769388931">
         <mark key="'" line="47" column="1" />
@@ -326,7 +328,6 @@
       <jump line="36" column="0" filename="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" />
       <jump line="2" column="0" filename="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" />
       <jump line="35" column="3" filename="$USER_HOME$/code/birdboard/app/Project.php" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="85" column="4" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
       <jump line="84" column="0" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
       <jump line="82" column="0" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
@@ -340,15 +341,16 @@
       <jump line="59" column="1" filename="$USER_HOME$/code/birdboard/app/Task.php" />
       <jump line="32" column="7" filename="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" />
       <jump line="41" column="27" filename="$USER_HOME$/code/birdboard/app/Project.php" />
+      <jump line="40" column="4" filename="$USER_HOME$/code/birdboard/app/Project.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICR0aGlzLT5pZCwK</text>
       </register>
       <register name="-" type="4">
-        <text>old</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>patch</text>
@@ -357,7 +359,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+cHJvamVjdC0+cmVjb3JkQWN0aXZpdHkoJ3Rhc2tfY29tcGxldGVkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICR0aGlzLT5pZCwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -367,28 +369,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+b2xkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGRhdGUtPmZvcm1hdCgnWS1tLWQgSDppOnMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdiZWZvcmUnID0+IFtdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXJpYWxpemVEYXRlKERhdGVUaW1lSW50ZXJmYWNlICRkYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGFjdGl2aXR5LT5jaGFuZ2VzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Zhcl9kdW1wKGFycmF5X2RpZmYoJHRoaXMtPm9sZCwgJHRoaXMtPnRvQXJyYXkoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICR0aGlzLT5pZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIHZhcl9kdW1wOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLydjaGFuZ2VzJyA9PiBbXSwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGRhdGUtPmZvcm1hdCgnWS1tLWQgSDppOnMnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
