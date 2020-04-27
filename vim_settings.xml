@@ -183,12 +183,12 @@
         <mark key="^" line="12" column="6" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1588017676837">
+      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1588027191015">
         <mark key="'" line="44" column="41" />
-        <mark key="[" line="51" column="43" />
-        <mark key="]" line="51" column="45" />
-        <mark key="." line="51" column="44" />
-        <mark key="^" line="51" column="45" />
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="48" column="41" />
+        <mark key="." line="48" column="40" />
+        <mark key="^" line="48" column="41" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1587769388931">
         <mark key="'" line="47" column="1" />
@@ -343,10 +343,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>$type</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>$type</text>
       </register>
       <register name="/" type="4">
         <text>patch</text>
