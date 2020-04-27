@@ -355,4 +355,9 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="fixDate" value="protected function serializeDate(DateTimeInterface $date)&#10;    {&#10;        return $date-&gt;format('Y-m-d H:i:s');&#10;    }" description="error fix serailizeDate" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
