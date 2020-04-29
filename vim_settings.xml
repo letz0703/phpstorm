@@ -140,9 +140,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1588098454628">
-        <mark key="[" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1588153781075">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="18" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_incompleted.blade.php" timestamp="1587752637941">
         <mark key="[" line="0" column="11" />
@@ -181,18 +183,18 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1588098642382">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="12" column="0" />
+      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1588153375600">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1588098521943">
-        <mark key="'" line="55" column="20" />
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="3" />
+      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1588153551565">
+        <mark key="'" line="50" column="20" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/BoxController.php" timestamp="1587824574396">
@@ -213,11 +215,11 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588098680018">
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="20" column="84" />
-        <mark key="^" line="20" column="84" />
-        <mark key="." line="20" column="83" />
+      <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588153557830">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="26" column="4" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="26" column="3" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_created.blade.php" timestamp="1587752618475">
         <mark key="[" line="0" column="0" />
@@ -341,7 +343,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAkb2xkID0gW107Cg==</text>
       </register>
       <register name="-" type="4">
         <text>$project</text>
@@ -353,7 +355,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2NoYW5nZXMnID0+ICR0aGlzLT5nZXRBY3Rpdml0eUNoYW5nZXMoJGRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAkb2xkID0gW107Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -362,48 +364,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHB1YmxpYyBmdW5jdGlvbiByZWNvcmRBY3Rpdml0eSgkZGVzY3JpcHRpb24pCiAgICB7CiAgICAgICAgJHRoaXMtPmFjdGl2aXRpZXMoKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+IGNsYXNzX2Jhc2VuYW1lKCR0aGlzKSA9PT0gJ1Byb2plY3QnID8gJHRoaXMtPmlkIDogJHRoaXMtPnByb2plY3QtPmlkLAogICAgICAgICAgICAnZGVzY3JpcHRpb24nID0+ICRkZXNjcmlwdGlvbiwKICAgICAgICAgICAgJ2NoYW5nZXMnID0+ICR0aGlzLT5nZXRBY3Rpdml0eUNoYW5nZXMoJGRlc2NyaXB0aW9uKQogICAgICAgIF0pOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0QWN0aXZpdHlDaGFuZ2VzKCRkZXNjcmlwdGlvbikKICAgIHsKICAgICAgICBpZiAoJGRlc2NyaXB0aW9uID09ICd1cGRhdGVkJykgewogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgJ2JlZm9yZScgPT4gQXJyOjpleGNlcHQoYXJyYXlfZGlmZigkdGhpcy0+b2xkLCAkdGhpcy0+Z2V0QXR0cmlidXRlcygpKSwndXBkYXRlZF9hdCcpLAogICAgICAgICAgICAgICAgJ2FmdGVyJyAgPT4gQXJyOjpleGNlcHQoJHRoaXMtPmdldENoYW5nZXMoKSwndXBkYXRlZF9hdCcpCiAgICAgICAgICAgIF07CiAgICAgICAgfQogICAgfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyAkb2xkID0gW107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBUYXNrICJyZXN0b3JlZCIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtICBcQXBwXFRhc2sgICR0YXNrCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJlc3RvcmVkKFRhc2sgJHRhc2spCiAgICB7CiAgICAgICAgLy8KICAgIH0KCiAgICAvKioKICAgICAqIEhhbmRsZSB0aGUgVGFzayAiZm9yY2UgZGVsZXRlZCIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtICBcQXBwXFRhc2sgICR0YXNrCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGZvcmNlRGVsZXRlZChUYXNrICR0YXNrKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHB1YmxpYyBmdW5jdGlvbiByZWNvcmRBY3Rpdml0eSgkZGVzY3JpcHRpb24pCiAgICB7CiAgICAgICAgJHRoaXMtPmFjdGl2aXRpZXMoKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+IGNsYXNzX2Jhc2VuYW1lKCR0aGlzKSA9PT0gJ1Byb2plY3QnID8gJHRoaXMtPmlkIDogJHRoaXMtPnByb2plY3QtPmlkLAogICAgICAgICAgICAnZGVzY3JpcHRpb24nID0+ICRkZXNjcmlwdGlvbiwKICAgICAgICAgICAgJ2NoYW5nZXMnID0+ICR0aGlzLT5nZXRBY3Rpdml0eUNoYW5nZXMoJGRlc2NyaXB0aW9uKQogICAgICAgIF0pOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0QWN0aXZpdHlDaGFuZ2VzKCRkZXNjcmlwdGlvbikKICAgIHsKICAgICAgICBpZiAoJGRlc2NyaXB0aW9uID09ICd1cGRhdGVkJykgewogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgJ2JlZm9yZScgPT4gQXJyOjpleGNlcHQoYXJyYXlfZGlmZigkdGhpcy0+b2xkLCAkdGhpcy0+Z2V0QXR0cmlidXRlcygpKSwndXBkYXRlZF9hdCcpLAogICAgICAgICAgICAgICAgJ2FmdGVyJyAgPT4gQXJyOjpleGNlcHQoJHRoaXMtPmdldENoYW5nZXMoKSwndXBkYXRlZF9hdCcpCiAgICAgICAgICAgIF07CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFx0YXNrOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBUYXNrICJyZXN0b3JlZCIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtICBcQXBwXFRhc2sgICR0YXNrCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJlc3RvcmVkKFRhc2sgJHRhc2spCiAgICB7CiAgICAgICAgLy8KICAgIH0KCiAgICAvKioKICAgICAqIEhhbmRsZSB0aGUgVGFzayAiZm9yY2UgZGVsZXRlZCIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtICBcQXBwXFRhc2sgICR0YXNrCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGZvcmNlRGVsZXRlZChUYXNrICR0YXNrKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-     * Handle the task &quot;restored&quot; event.
-     *
-     * @param  \App\task  $task
-     * @return void
-     */
-    public function restored(task $task)
-    {
-        //
-    }
-
-    /**
-     * Handle the task &quot;force deleted&quot; event.
-     *
-     * @param  \App\task  $task
-     * @return void
-     */
-    public function forceDeleted(task $task)
-    {
-        //</text>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIEFwcFx0YXNrOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
