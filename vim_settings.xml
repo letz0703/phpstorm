@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Up</entry>
         <entry>@c</entry>
         <entry>Create</entry>
         <entry>Cre</entry>
@@ -27,6 +26,7 @@
         <entry>patch</entry>
         <entry>trait</entry>
         <entry>static</entry>
+        <entry>$old</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -140,10 +140,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1588154345808">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1588157241627">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_incompleted.blade.php" timestamp="1587752637941">
         <mark key="[" line="0" column="11" />
@@ -182,19 +182,19 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1588153375600">
-        <mark key="'" line="38" column="4" />
+      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1588156492937">
+        <mark key="'" line="37" column="4" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1588153551565">
-        <mark key="'" line="50" column="20" />
+      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1588156526233">
+        <mark key="'" line="35" column="4" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
         <mark key="^" line="10" column="4" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/BoxController.php" timestamp="1587824574396">
         <mark key="[" line="2" column="31" />
@@ -202,10 +202,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Observers/TaskObserver.php" timestamp="1588154368206">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/code/birdboard/app/Observers/TaskObserver.php" timestamp="1588157226008">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="3" />
         <mark key="^" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/code/birdboard/database/migrations/2020_03_16_105429_create_projects_table.php" timestamp="1587982218501">
@@ -214,12 +214,12 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588155646121">
-        <mark key="'" line="19" column="44" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="4" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588157212914">
+        <mark key="'" line="16" column="11" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="48" />
+        <mark key="^" line="21" column="48" />
+        <mark key="." line="21" column="47" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_created.blade.php" timestamp="1587752618475">
         <mark key="[" line="0" column="0" />
@@ -238,9 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="16" filename="$USER_HOME$/code/birdboard/resources/views/projects/edit.blade.php" />
-      <jump line="33" column="77" filename="$USER_HOME$/code/birdboard/resources/views/projects/edit.blade.php" />
-      <jump line="55" column="17" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
       <jump line="25" column="9" filename="$USER_HOME$/code/birdboard/resources/sass/_variables.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" />
@@ -338,24 +335,27 @@
       <jump line="31" column="0" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
       <jump line="19" column="44" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
+      <jump line="36" column="4" filename="$USER_HOME$/code/birdboard/app/Task.php" />
+      <jump line="23" column="4" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
+      <jump line="16" column="11" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aWYoICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>old</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>$old</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2NoYW5nZXMnID0+ICR0aGlzLT5nZXRBY3Rpdml0eUNoYW5nZXMoJGRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYoICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -365,28 +365,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGluZyhUYXNrICR0YXNrKQogICAgewogICAgICAgICR0YXNrLT5vbGQgPSAkdGFzay0+Z2V0T3JpZ2luYWwoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGluZyhQcm9qZWN0ICRwcm9qZWN0KQogICAgewogICAgICAgICRwcm9qZWN0LT5vbGQgPSAkcHJvamVjdC0+Z2V0T3JpZ2luYWwoKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBwcm9qZWN0ICJ1cGRhdGluZyIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtIFxBcHBcUHJvamVjdCAkcHJvamVjdAogICAgICogQHJldHVuciB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGluZyhQcm9qZWN0ICRwcm9qZWN0KQogICAgewogICAgICAgICRwcm9qZWN0LT5vbGQgPSAkcHJvamVjdC0+Z2V0T3JpZ2luYWwoKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGluZyhUYXNrICR0YXNrKQogICAgewogICAgICAgICR0YXNrLT5vbGQgPSAkdGFzay0+Z2V0T3JpZ2luYWwoKTsKICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBzCg==</text>
+      <register name="6" type="4">
+        <text>public static function bootRecordsActivity(){
+
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBzbWV0ICAgCg==</text>
+        <text encoding="base64">ICAgIC8vcHVibGljICRvbGQgPSBbXTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyAkb2xkID0gW107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAkb2xkID0gW107Cg==</text>
+        <text encoding="base64">aWYoICkK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -395,9 +397,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>static</last-search>
+      <last-search>$old</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>$old</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
