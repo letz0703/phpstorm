@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>up</entry>
         <entry>Up</entry>
         <entry>@c</entry>
         <entry>Create</entry>
@@ -27,6 +26,7 @@
         <entry>type</entry>
         <entry>patch</entry>
         <entry>trait</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -214,12 +214,12 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588154327975">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="19" column="48" />
-        <mark key="." line="19" column="44" />
+      <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588155646121">
+        <mark key="'" line="19" column="44" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="4" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_created.blade.php" timestamp="1587752618475">
         <mark key="[" line="0" column="0" />
@@ -238,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="625" column="6" filename="$USER_HOME$/code/icanmart/tailwind.config.js" />
       <jump line="8" column="16" filename="$USER_HOME$/code/birdboard/resources/views/projects/edit.blade.php" />
       <jump line="33" column="77" filename="$USER_HOME$/code/birdboard/resources/views/projects/edit.blade.php" />
       <jump line="55" column="17" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
@@ -338,24 +337,25 @@
       <jump line="54" column="20" filename="$USER_HOME$/code/birdboard/app/Task.php" />
       <jump line="31" column="0" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
+      <jump line="19" column="44" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYoICkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
-        <text>trait</text>
+        <text>static</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2NoYW5nZXMnID0+ICR0aGlzLT5nZXRBY3Rpdml0eUNoYW5nZXMoJGRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYoICkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -365,28 +365,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGluZyhUYXNrICR0YXNrKQogICAgewogICAgICAgICR0YXNrLT5vbGQgPSAkdGFzay0+Z2V0T3JpZ2luYWwoKTsKICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGluZyhUYXNrICR0YXNrKQogICAgewogICAgICAgICR0YXNrLT5vbGQgPSAkdGFzay0+Z2V0T3JpZ2luYWwoKTsKICAgIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBwcm9qZWN0ICJ1cGRhdGluZyIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtIFxBcHBcUHJvamVjdCAkcHJvamVjdAogICAgICogQHJldHVuciB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGluZyhQcm9qZWN0ICRwcm9qZWN0KQogICAgewogICAgICAgICRwcm9qZWN0LT5vbGQgPSAkcHJvamVjdC0+Z2V0T3JpZ2luYWwoKTsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBzCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBwcm9qZWN0ICJ1cGRhdGluZyIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtIFxBcHBcUHJvamVjdCAkcHJvamVjdAogICAgICogQHJldHVuciB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGluZyhQcm9qZWN0ICRwcm9qZWN0KQogICAgewogICAgICAgICRwcm9qZWN0LT5vbGQgPSAkcHJvamVjdC0+Z2V0T3JpZ2luYWwoKTsKICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBzbWV0ICAgCg==</text>
+        <text encoding="base64">ICAgIHBzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAkb2xkID0gW107Cg==</text>
+        <text encoding="base64">ICAgIHBzbWV0ICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyAkb2xkID0gW107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAkb2xkID0gW107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -395,9 +395,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>trait</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>trait</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
