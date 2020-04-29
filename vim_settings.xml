@@ -135,15 +135,13 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/card.blade.php" timestamp="1587665873172">
-        <mark key="[" line="6" column="70" />
-        <mark key="]" line="5" column="40" />
-        <mark key="^" line="5" column="40" />
-        <mark key="." line="5" column="39" />
+      <file name="/a.dummy" timestamp="1588095463200">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1588075500975">
+      <file name="$USER_HOME$/code/birdboard/app/Observers/ProjectObserver.php" timestamp="1588098454628">
         <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_incompleted.blade.php" timestamp="1587752637941">
@@ -183,18 +181,19 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1588094448079">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="57" />
-        <mark key="^" line="53" column="5" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1588098642382">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1588094457842">
-        <mark key="'" line="47" column="1" />
-        <mark key="[" line="57" column="56" />
-        <mark key="]" line="57" column="56" />
-        <mark key="^" line="57" column="56" />
-        <mark key="." line="57" column="55" />
+      <file name="$USER_HOME$/code/birdboard/app/Task.php" timestamp="1588098521943">
+        <mark key="'" line="55" column="20" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/BoxController.php" timestamp="1587824574396">
         <mark key="[" line="2" column="31" />
@@ -202,11 +201,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Observers/TaskObserver.php" timestamp="1587753805001">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="16" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="16" column="16" />
+      <file name="$USER_HOME$/code/birdboard/app/Observers/TaskObserver.php" timestamp="1588098477581">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="4" />
       </file>
       <file name="$USER_HOME$/code/birdboard/database/migrations/2020_03_16_105429_create_projects_table.php" timestamp="1587982218501">
         <mark key="[" line="20" column="26" />
@@ -214,19 +213,19 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="26" />
       </file>
+      <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588098680018">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="84" />
+        <mark key="^" line="20" column="84" />
+        <mark key="." line="20" column="83" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_created.blade.php" timestamp="1587752618475">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_nav.scss" timestamp="1587684852498">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="26" />
-        <mark key="^" line="33" column="31" />
-        <mark key="." line="33" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588029754889">
+      <file name="/Dummy.txt" timestamp="1588098537701">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_uncompleted.blade.php" timestamp="1587769884878">
@@ -237,14 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="16" filename="$USER_HOME$/code/icanmart/resources/sass/abstracts/_variables.scss" />
-      <jump line="36" column="0" filename="$USER_HOME$/code/icanmart/routes/web.php" />
-      <jump line="66" column="7" filename="$USER_HOME$/code/icanmart/routes/web.php" />
-      <jump line="67" column="7" filename="$USER_HOME$/code/icanmart/routes/web.php" />
-      <jump line="79" column="7" filename="$USER_HOME$/code/icanmart/routes/web.php" />
-      <jump line="37" column="37" filename="$USER_HOME$/code/icanmart/tests/Feature/ProjectTasksTest.php" />
-      <jump line="49" column="39" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
-      <jump line="46" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="6" column="26" filename="$USER_HOME$/code/birdboard/resources/views/projects/edit.blade.php" />
       <jump line="67" column="5" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="625" column="6" filename="$USER_HOME$/code/icanmart/tailwind.config.js" />
@@ -332,29 +323,37 @@
       <jump line="32" column="7" filename="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" />
       <jump line="40" column="4" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="12" column="4" filename="$USER_HOME$/code/birdboard/app/Activity.php" />
-      <jump line="39" column="36" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="44" column="26" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="43" column="4" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="48" column="41" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="41" column="25" filename="$USER_HOME$/code/birdboard/app/Project.php" />
+      <jump line="43" column="28" filename="$USER_HOME$/code/birdboard/app/Task.php" />
+      <jump line="9" column="3" filename="$USER_HOME$/code/birdboard/app/Task.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/birdboard/app/Task.php" />
+      <jump line="70" column="59" filename="$USER_HOME$/code/birdboard/app/Task.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/birdboard/app/Task.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/code/birdboard/app/Task.php" />
+      <jump line="39" column="4" filename="$USER_HOME$/code/birdboard/app/Project.php" />
+      <jump line="69" column="58" filename="$USER_HOME$/code/birdboard/app/Task.php" />
+      <jump line="54" column="20" filename="$USER_HOME$/code/birdboard/app/Task.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>$project</text>
       </register>
       <register name="/" type="4">
         <text>patch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NoYW5nZXMnICAgICA9PiAkdGhpcy0+Z2V0QWN0aXZpdHlDaGFuZ2VzKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NoYW5nZXMnID0+ICR0aGlzLT5nZXRBY3Rpdml0eUNoYW5nZXMoJGRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -364,31 +363,47 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>/**
-     * @param $description
-     */</text>
+        <text encoding="base64">IHB1YmxpYyBmdW5jdGlvbiByZWNvcmRBY3Rpdml0eSgkZGVzY3JpcHRpb24pCiAgICB7CiAgICAgICAgJHRoaXMtPmFjdGl2aXRpZXMoKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+IGNsYXNzX2Jhc2VuYW1lKCR0aGlzKSA9PT0gJ1Byb2plY3QnID8gJHRoaXMtPmlkIDogJHRoaXMtPnByb2plY3QtPmlkLAogICAgICAgICAgICAnZGVzY3JpcHRpb24nID0+ICRkZXNjcmlwdGlvbiwKICAgICAgICAgICAgJ2NoYW5nZXMnID0+ICR0aGlzLT5nZXRBY3Rpdml0eUNoYW5nZXMoJGRlc2NyaXB0aW9uKQogICAgICAgIF0pOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0QWN0aXZpdHlDaGFuZ2VzKCRkZXNjcmlwdGlvbikKICAgIHsKICAgICAgICBpZiAoJGRlc2NyaXB0aW9uID09ICd1cGRhdGVkJykgewogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgJ2JlZm9yZScgPT4gQXJyOjpleGNlcHQoYXJyYXlfZGlmZigkdGhpcy0+b2xkLCAkdGhpcy0+Z2V0QXR0cmlidXRlcygpKSwndXBkYXRlZF9hdCcpLAogICAgICAgICAgICAgICAgJ2FmdGVyJyAgPT4gQXJyOjpleGNlcHQoJHRoaXMtPmdldENoYW5nZXMoKSwndXBkYXRlZF9hdCcpCiAgICAgICAgICAgIF07CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBwcm9qZWN0ICJ1cGRhdGVkIiBldmVudC4KICAgICAqCiAgICAgKiBAcGFyYW0gIFxBcHBcUHJvamVjdCAgJHByb2plY3QKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdXBkYXRlZChQcm9qZWN0ICRwcm9qZWN0KQogICAgewogICAgICAgICRwcm9qZWN0LT5yZWNvcmRBY3Rpdml0eSgndXBkYXRlZCcsICRwcm9qZWN0KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogSGFuZGxlIHRoZSBUYXNrICJyZXN0b3JlZCIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtICBcQXBwXFRhc2sgICR0YXNrCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJlc3RvcmVkKFRhc2sgJHRhc2spCiAgICB7CiAgICAgICAgLy8KICAgIH0KCiAgICAvKioKICAgICAqIEhhbmRsZSB0aGUgVGFzayAiZm9yY2UgZGVsZXRlZCIgZXZlbnQuCiAgICAgKgogICAgICogQHBhcmFtICBcQXBwXFRhc2sgICR0YXNrCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGZvcmNlRGVsZXRlZChUYXNrICR0YXNrKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphc3NlcnRFcXVhbHMoJ2NyZWF0ZWQnLCAkYWN0aXZpdHktPmRlc2NyaXB0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCd1cGRhdGVkJywgJGFjdGl2aXR5LT5kZXNjcmlwdGlvbik7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFx0YXNrOwo=</text>
       </register>
-      <register name="6" type="8">
-        <text>array_e
-array_e</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>/**
+     * Handle the task &quot;restored&quot; event.
+     *
+     * @param  \App\task  $task
+     * @return void
+     */
+    public function restored(task $task)
+    {
+        //
+    }
+
+    /**
+     * Handle the task &quot;force deleted&quot; event.
+     *
+     * @param  \App\task  $task
+     * @return void
+     */
+    public function forceDeleted(task $task)
+    {
+        //</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
