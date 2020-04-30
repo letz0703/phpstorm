@@ -218,12 +218,12 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588244869686">
+      <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588246489721">
         <mark key="'" line="41" column="55" />
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="35" column="19" />
-        <mark key="^" line="27" column="45" />
-        <mark key="." line="35" column="19" />
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="43" column="8" />
+        <mark key="^" line="43" column="8" />
+        <mark key="." line="43" column="7" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/task_created.blade.php" timestamp="1587752618475">
         <mark key="[" line="0" column="0" />
@@ -346,11 +346,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZnJlc2goKS0+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJlc2goKS0+</text>
+        <text>$recordableEvents</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
@@ -359,7 +359,7 @@
         <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+b2xkID0gJHByb2plY3QtPmdldE9yaWdpbmFsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9kZCgkYWN0aXZpdHktPmRlc2NyaXB0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -369,28 +369,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFjdGl2aXR5LT5kZXNjcmlwdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlY29yZGFibGVFdmVudHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb24nID0+ICdhcnJheScK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAqIEByZXR1cm4gc3RyaW5nW10K</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9kZCgkYWN0aXZpdHktPmRlc2NyaXB0aW9uKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFjdGl2aXR5LT5kZXNjcmlwdGlvbik7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb24nID0+ICdhcnJheScK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
