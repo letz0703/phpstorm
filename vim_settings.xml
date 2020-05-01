@@ -129,8 +129,12 @@
         <mark key="[" line="1" column="4" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" timestamp="1588332397861">
+      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" timestamp="1588348893892">
         <mark key="'" line="43" column="7" />
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="29" />
       </file>
       <file name="/a.dummy" timestamp="1588251313703">
         <mark key="[" line="0" column="0" />
@@ -171,12 +175,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Activity.php" timestamp="1588332939005">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="15" />
+      <file name="$USER_HOME$/code/birdboard/app/Activity.php" timestamp="1588349269312">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" timestamp="1588286880083">
         <mark key="'" line="25" column="46" />
@@ -215,11 +219,17 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/ActivityTest.php" timestamp="1588333303741">
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="57" />
+      <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588349114516">
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="49" column="35" />
+        <mark key="^" line="49" column="35" />
+        <mark key="." line="49" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/ActivityTest.php" timestamp="1588349148297">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1588333412018">
         <mark key="[" line="0" column="0" />
@@ -331,10 +341,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>activityUser</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>activityUser</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
