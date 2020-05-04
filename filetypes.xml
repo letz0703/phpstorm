@@ -4,9 +4,9 @@
       <mapping pattern="temp" type="HTML" />
       <mapping pattern="demo" type="PHP" />
       <mapping pattern="tasks2" type="PHP" />
-      <mapping pattern="tasks" type="PHP" />
-      <mapping pattern="laracast" type="PHP" />
       <mapping pattern="RegistrationTest" type="PHP" />
+      <mapping pattern="laracast" type="PHP" />
+      <mapping pattern="tasks" type="PHP" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
