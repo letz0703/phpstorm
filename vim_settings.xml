@@ -125,8 +125,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1588680360317">
-        <mark key="[" line="0" column="2" />
+      <file name="/a.dummy" timestamp="1588681578653">
+        <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
@@ -142,6 +142,18 @@
         <mark key="]" line="26" column="43" />
         <mark key="^" line="26" column="43" />
         <mark key="." line="26" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1588682360310">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/database/migrations/2020_05_05_213425_create_project_activities_table.php" timestamp="1588682192988">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="38" />
+        <mark key="." line="23" column="37" />
+        <mark key="^" line="23" column="38" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/factories/TaskFactory.php" timestamp="1588599756557">
         <mark key="[" line="11" column="35" />
@@ -161,36 +173,29 @@
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/deleted_task.blade.php" timestamp="1588672984921">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/app/ProjectActivity.php" timestamp="1588682385986">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1588675240094">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="^" line="57" column="20" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1588676853537">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1588682047103">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="33" column="54" />
+        <mark key="^" line="33" column="54" />
+        <mark key="." line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Activity.php" timestamp="1588595232159">
-        <mark key="'" line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/database/migrations/2020_04_03_024806_create_projects_table.php" timestamp="1588595669192" />
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/created_task.blade.php" timestamp="1588672954584">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/database/migrations/2020_05_04_205134_add_project_id_to_actvities.php" timestamp="1588595403307">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="65" />
-        <mark key="^" line="18" column="39" />
-        <mark key="." line="18" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Unit/ActivityTest.php" timestamp="1588681240827">
+      <file name="$USER_HOME$/code/icanmart/tests/Unit/ActivityTest.php" timestamp="1588681925454">
         <mark key="[" line="14" column="24" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/created_project.blade.php" timestamp="1588672911179">
         <mark key="[" line="0" column="0" />
@@ -206,11 +211,6 @@
         <mark key="]" line="31" column="32" />
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/app/RecordActivity.php" timestamp="1588680555154">
-        <mark key="[" line="38" column="57" />
-        <mark key="]" line="38" column="57" />
-        <mark key="." line="38" column="57" />
       </file>
     </filemarks>
     <jumps>
@@ -319,10 +319,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>request('completed')</text>
+        <text>Activity</text>
       </register>
       <register name="-" type="4">
-        <text>request('completed')</text>
+        <text>Activity</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
