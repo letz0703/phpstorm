@@ -137,11 +137,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="27" column="33" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1588759502921">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1588762450120">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2020_05_05_213425_create_project_activities_table.php" timestamp="1588758584546">
         <mark key="[" line="18" column="28" />
@@ -191,11 +191,11 @@
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/created_task.blade.php" timestamp="1588672954584">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Observers/ProjectObserver.php" timestamp="1588759667015">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="23" column="20" />
+      <file name="$USER_HOME$/code/icanmart/app/Observers/ProjectObserver.php" timestamp="1588762474176">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Unit/ActivityTest.php" timestamp="1588759400545">
         <mark key="[" line="38" column="8" />
@@ -318,11 +318,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>class</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text encoding="base64">JGFjdGl2aXR5ID0g</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
@@ -331,7 +331,7 @@
         <text>esToRe</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHByb2plY3QtPmFjdGl2aXRpZXMoKS0+Y3JlYXRlKFsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -341,28 +341,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgV2ViIFJvdXRlcwp8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KfAp8IEhlcmUgaXMgd2hlcmUgeW91IGNhbiByZWdpc3RlciB3ZWIgcm91dGVzIGZvciB5b3VyIGFwcGxpY2F0aW9uLiBUaGVzZQp8IHJvdXRlcyBhcmUgbG9hZGVkIGJ5IHRoZSBSb3V0ZVNlcnZpY2VQcm92aWRlciB3aXRoaW4gYSBncm91cCB3aGljaAp8IGNvbnRhaW5zIHRoZSAid2ViIiBtaWRkbGV3YXJlIGdyb3VwLiBOb3cgY3JlYXRlIHNvbWV0aGluZyBncmVhdCEKfAoqLwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">XEFwcFxQcm9qZWN0OjpjcmVhdGVkKCBmdW5jdGlvbigkcHJvamVjdCl7Cg==</text>
+        <text encoding="base64">fC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsgCg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBcQXBwXFByb2plY3RBY3Rpdml0eTo6Y3JlYXRlKFsK</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+YWN0aXZpdGllcyk7Cg==</text>
+        <text encoding="base64">ICAgIF0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb24nID0+ICd1cGRhdGVkX3Byb2plY3QnCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
