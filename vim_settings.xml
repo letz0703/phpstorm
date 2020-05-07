@@ -183,11 +183,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1588844300793">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="16" column="38" />
+      <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1588844900913">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/TriggerProjectActivityTest.php" timestamp="1588774955906">
         <mark key="[" line="45" column="42" />
@@ -200,7 +200,7 @@
       <file name="/Dummy.txt" timestamp="1588776799182">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Observers/ProjectObserver.php" timestamp="1588843828793">
+      <file name="$USER_HOME$/code/icanmart/app/Observers/ProjectObserver.php" timestamp="1588844579975">
         <mark key="'" line="15" column="39" />
         <mark key="[" line="25" column="9" />
         <mark key="]" line="25" column="9" />
@@ -331,10 +331,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>updated_project</text>
+        <text>updated</text>
       </register>
       <register name="-" type="4">
-        <text>updated_project</text>
+        <text>updated</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
