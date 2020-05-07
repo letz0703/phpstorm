@@ -125,8 +125,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1588681578653">
-        <mark key="[" line="0" column="8" />
+      <file name="/a.dummy" timestamp="1588846050977">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
@@ -160,6 +160,12 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/app/RecordsActivity.php" timestamp="1588846432195">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="22" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/app/Providers/AppServiceProvider.php" timestamp="1588763255123">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="45" column="22" />
@@ -171,16 +177,10 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/ProjectActivity.php" timestamp="1588682385986">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1588845846284">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="23" />
+      <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1588845877192">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
         <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/TriggerProjectActivityTest.php" timestamp="1588774955906">
@@ -200,6 +200,12 @@
         <mark key="]" line="25" column="9" />
         <mark key="^" line="12" column="16" />
         <mark key="." line="25" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/app/Task.php" timestamp="1588846162707">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectTaskController.php" timestamp="1588776715293">
         <mark key="[" line="31" column="38" />
@@ -325,10 +331,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzZSByZWNvcmRzQWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRldmVudCA9ICR0aGlzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
@@ -337,7 +343,7 @@
         <text encoding="base64">ICAgICAgICAkdGFzay0+cHJvamVjdC0+cmVjb3Jkc0FjdGl2aXR5KCd1cGRhdGVkX3Rhc2snKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVzZSByZWNvcmRzQWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRldmVudCA9ICR0aGlzOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -347,28 +353,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgJGV2ZW50VG9SZWNvcmQgPSBbJ2NyZWF0ZWQnLCAndXBkYXRlZCddOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL3N0YXRpYzo6Y3JlYXRlZChmdW5jdGlvbigkcHJvamVjdCl7CiAgICAgICAgLy8gICAgJHByb2plY3QtPmFjdGl2aXRpZXMoKS0+Y3JlYXRlKFsKICAgICAgICAvLyAgICAgICAgJ3Byb2plY3RfaWQnID0+ICRwcm9qZWN0LT5pZCwKICAgICAgICAvLyAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAnY3JlYXRlZF9wcm9qZWN0JwogICAgICAgIC8vICAgIF0pOwogICAgICAgIC8vfSk7CiAgICAgICAgLy8KICAgICAgICAvL3N0YXRpYzo6dXBkYXRlZChmdW5jdGlvbigkcHJvamVjdCl7CiAgICAgICAgLy8gICAgJHByb2plY3QtPmFjdGl2aXRpZXMoKS0+Y3JlYXRlKFsKICAgICAgICAvLyAgICAgICAgJ3Byb2plY3RfaWQnID0+ICRwcm9qZWN0LT5pZCwKICAgICAgICAvLyAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAndXBkYXRlZF9wcm9qZWN0JwogICAgICAgIC8vICAgIF0pOwogICAgICAgIC8vfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbDo6Ym9vdCgpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWM6OnVwZGF0ZWQoUCkK</text>
+        <text encoding="base64">ICAgIHVzZSByZWNvcmRzQWN0aXZpdHk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVjb3JkYWJsZUV2ZW50cyA9IFsnY3JlYXRlZCcsICd1cGRhdGVkJ107Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgJGV2ZW50VG9SZWNvcmQgPSBbJ2NyZWF0ZWQnLCAndXBkYXRlZCddOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWM6OmJvb3QoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWM6OnVwZGF0ZWQoUCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1vZGVsLT5yZWNvcmRzQWN0aXZpdHkoJ3VwZGF0ZWRfcHJvamVjdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVjb3JkYWJsZUV2ZW50cyA9IFsnY3JlYXRlZCcsICd1cGRhdGVkJ107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWM6OnVwZGF0ZWQoZnVuY3Rpb24gKCRtb2RlbCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWM6OmJvb3QoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
