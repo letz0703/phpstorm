@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Cre</entry>
         <entry>My</entry>
         <entry>extend</entry>
         <entry>button</entry>
@@ -27,6 +26,7 @@
         <entry>$old</entry>
         <entry>old</entry>
         <entry>last</entry>
+        <entry>acti</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -130,12 +130,11 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1588892289674">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="67" column="43" />
-        <mark key="]" line="67" column="43" />
-        <mark key="^" line="67" column="45" />
-        <mark key="." line="67" column="43" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1588939557632">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/updated_task.blade.php" timestamp="1588891932011">
         <mark key="[" line="0" column="14" />
@@ -143,14 +142,17 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/TriggerActivity.php" timestamp="1588777823011">
-        <mark key="[" line="22" column="43" />
-        <mark key="]" line="22" column="56" />
-        <mark key="^" line="22" column="56" />
-        <mark key="." line="22" column="55" />
-      </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/created_project.blade.php" timestamp="1588891903853">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/card.blade.php" timestamp="1588939682846">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_card.scss" timestamp="1588937101738">
+        <mark key="[" line="17" column="21" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/factories/TaskFactory.php" timestamp="1588849119858">
         <mark key="[" line="11" column="35" />
@@ -169,34 +171,28 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1588849763292">
-        <mark key="[" line="9" column="8" />
+      <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1588938528425">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="37" column="53" />
         <mark key="]" line="9" column="9" />
         <mark key="." line="9" column="9" />
         <mark key="^" line="11" column="24" />
       </file>
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1588938068162" />
       <file name="$USER_HOME$/code/icanmart/resources/sass/tailwind.scss" timestamp="1588892842271">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1588776864483">
-        <mark key="[" line="27" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588845794843">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_form.scss" timestamp="1588938348414">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/nova/resources/css/app.css" timestamp="1588892744613" />
-      <file name="$USER_HOME$/code/icanmart/app/Observers/ProjectObserver.php" timestamp="1588844579975">
-        <mark key="'" line="15" column="39" />
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="25" column="9" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="25" column="9" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/app/Task.php" timestamp="1588849485842">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="17" />
+      <file name="$USER_HOME$/code/icanmart/app/Task.php" timestamp="1588938518793">
+        <mark key="[" line="33" column="46" />
+        <mark key="]" line="33" column="46" />
+        <mark key="." line="33" column="46" />
+        <mark key="^" line="33" column="46" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectTaskController.php" timestamp="1588848980697">
         <mark key="[" line="34" column="12" />
@@ -223,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="86" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="85" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
       <jump line="12" column="0" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
@@ -323,24 +318,25 @@
       <jump line="70" column="36" filename="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" />
       <jump line="48" column="0" filename="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" />
       <jump line="21" column="39" filename="$USER_HOME$/code/icanmart/app/Observers/ProjectObserver.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/icanmart/app/Project.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>sm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sm</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>last</text>
+        <text>acti</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZigkYWN0aXZpdHktPmRlc2NyaXB0aW9uID09ICdjcmVhdGVkX3Byb2plY3QnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZWxzZWlmKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,33 +346,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICA8dWw+LS19fQp7ey0tICAgICAgICAgICAgICAgICAgICBAZm9yZWFjaCAoJHByb2plY3QtPmFjdGl2aXRpZXMgYXMgJGFjdGl2aXR5KS0tfX0Ke3stLSAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0idGV4dC1zbSB7eyAkbG9vcC0+bGFzdD8nJzonbWItMScgfX0iPi0tfX0Ke3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGluY2x1ZGUoInByb2plY3RzLmFjdGl2aXR5LnskYWN0aXZpdHktPmRlc2NyaXB0aW9ufSIpLS19fQp7ey0tICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4tLX19Cnt7LS0gICAgICAgICAgICAgICAgICAgIEBlbmRmb3JlYWNoLS19fQp7ey0tICAgICAgICAgICAgICAgIDwvdWw+LS19fQ==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICB7ey0tICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FyZCIgc3R5bGU9ImhlaWdodDoyMDBweCI+LS19fQogICAgICAgICAgICAgICAge3stLSAgICAgICAgICAgICAgICA8aDIgY2xhc3M9ImZvbnQtbm9ybWFsIj48YSBocmVmPSJ7eyAkcHJvamVjdC0+cGF0aCgpIH19Ij57eyAkcHJvamVjdC0+dGl0bGUgfX08L2E+PC9oMj4tLX19CiAgICAgICAgICAgICAgICB7ey0tICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtZ3JleSI+e3sgU3RyOjpsaW1pdCgkcHJvamVjdC0+ZGVzY3JpcHRpb24sMTAwICl9fTwvZGl2Pi0tfX0KICAgICAgICAgICAgICAgIHt7LS0gICAgICAgICAgICA8L2Rpdj4tLX19</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBpbmNsdWRlKCdwcm9qZWN0cy5hY3Rpdml0eS4nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAaW5jbHVkZSgncHJvamVjdHMuYWN0aXZpdHkudXBkYXRlZF9wcm9qZWN0JykK</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-     * @param string $event
-     * @param        $model
-     *
-     * @return string
-     */</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbHNlaWYoJGFjdGl2aXR5LT5kZXNjcmlwdGlvbiA9PSAndXBkYXRlZF9wcm9qZWN0JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZigkYWN0aXZpdHktPmRlc2NyaXB0aW9uID09ICdjcmVhdGVkX3Byb2plY3QnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGV2ZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImxnOnctZnVsbCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImxnOnctZnVsbCIK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -385,9 +376,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>last</last-search>
+      <last-search>acti</last-search>
       <last-offset />
-      <last-pattern>last</last-pattern>
+      <last-pattern>acti</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
