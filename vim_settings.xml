@@ -125,6 +125,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1589018356699">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1588939557632">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="67" column="0" />
@@ -136,6 +142,12 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/app/RecordProjectActivity.php" timestamp="1589018527481">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="43" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="32" column="42" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2020_05_05_213425_create_project_activities_table.php" timestamp="1589016691592">
         <mark key="[" line="18" column="36" />
@@ -154,12 +166,6 @@
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/components/_card.scss" timestamp="1588937101738">
         <mark key="[" line="17" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/database/factories/TaskFactory.php" timestamp="1588849119858">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/RecordsActivity.php" timestamp="1588850066790">
         <mark key="[" line="48" column="0" />
@@ -195,28 +201,22 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/nova/resources/css/app.css" timestamp="1588892744613" />
-      <file name="$USER_HOME$/code/icanmart/app/Task.php" timestamp="1589017790694">
-        <mark key="[" line="33" column="47" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="38" />
-        <mark key="^" line="33" column="39" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectTaskController.php" timestamp="1588848980697">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="34" column="30" />
-        <mark key="." line="34" column="29" />
-        <mark key="^" line="34" column="30" />
+      <file name="$USER_HOME$/code/icanmart/app/Task.php" timestamp="1589017904499">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="28" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/created_task.blade.php" timestamp="1588891914970">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Unit/ActivityTest.php" timestamp="1589017748639">
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="45" column="35" />
-        <mark key="." line="45" column="34" />
-        <mark key="^" line="45" column="35" />
+      <file name="$USER_HOME$/code/icanmart/tests/Unit/ActivityTest.php" timestamp="1589018417972">
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Unit/TaskTest.php" timestamp="1588849530993">
         <mark key="[" line="25" column="15" />
@@ -331,10 +331,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>hasMany</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>hasMany</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
