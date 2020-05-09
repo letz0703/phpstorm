@@ -158,11 +158,11 @@
       <file name="$USER_HOME$/code/icanmart/resources/sass/components/_card.scss" timestamp="1588937101738">
         <mark key="[" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/RecordsActivity.php" timestamp="1589023176580">
-        <mark key="[" line="37" column="78" />
-        <mark key="]" line="37" column="97" />
-        <mark key="^" line="37" column="97" />
-        <mark key="." line="37" column="96" />
+      <file name="$USER_HOME$/code/icanmart/app/RecordsActivity.php" timestamp="1589024041586">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="10" />
+        <mark key="." line="34" column="9" />
+        <mark key="^" line="34" column="10" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1589019642783">
         <mark key="[" line="57" column="0" />
@@ -180,7 +180,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/nova/resources/css/app.css" timestamp="1588892744613" />
-      <file name="$USER_HOME$/code/icanmart/app/Task.php" timestamp="1589023070449">
+      <file name="$USER_HOME$/code/icanmart/app/Task.php" timestamp="1589023509089">
         <mark key="[" line="33" column="30" />
         <mark key="]" line="33" column="37" />
         <mark key="^" line="33" column="37" />
@@ -310,10 +310,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>protected</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
