@@ -339,10 +339,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>incompleted</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>incompleted</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
