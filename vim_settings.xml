@@ -183,7 +183,7 @@
         <mark key="." line="21" column="44" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/created_project.blade.php" timestamp="1589195519833" />
-      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1589367047908">
+      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1589367580909">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
@@ -331,10 +331,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Item</text>
+        <text>구매대행</text>
       </register>
       <register name="-" type="4">
-        <text>Item</text>
+        <text>구매대행</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
