@@ -131,6 +131,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/resources/js/app.js" timestamp="1589364359621">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/created_task.blade.php" timestamp="1589195530647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="66" />
@@ -156,12 +161,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/updated_project.blade.php" timestamp="1589194281504">
-        <mark key="'" line="0" column="29" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="4" column="6" />
+      <file name="$USER_HOME$/code/icanmart/webpack.mix.js" timestamp="1589365494781">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="5" />
+        <mark key="^" line="20" column="72" />
+        <mark key="." line="20" column="5" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/RecordsActivity.php" timestamp="1589195302538">
         <mark key="^" line="56" column="52" />
@@ -179,11 +183,10 @@
         <mark key="." line="21" column="44" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/created_project.blade.php" timestamp="1589195519833" />
-      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1589326965332">
-        <mark key="[" line="43" column="59" />
-        <mark key="]" line="43" column="59" />
-        <mark key="." line="43" column="59" />
-        <mark key="^" line="43" column="60" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1589367047908">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/components/_feature-box.scss" timestamp="1589362295840">
         <mark key="[" line="0" column="0" />
@@ -216,16 +219,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Unit/TaskTest.php" timestamp="1589194181450">
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="33" column="5" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="33" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1589362339413">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1589367088046">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="56" />
+        <mark key="." line="9" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -334,10 +331,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>tted</text>
+        <text>Item</text>
       </register>
       <register name="-" type="4">
-        <text>tted</text>
+        <text>Item</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
@@ -346,7 +343,7 @@
         <text encoding="base64">e3sgJGFjdGl2aXR5LT51c2VyLT5uYW1lIH19IGNyZWF0ZWQge3sgJGFjdGl2aXR5LT5zdWJqZWN0LT5ib2R5IH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCAnY29tcG9uZW50cy9mZWF0dXJlLWJveCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMj7snbjthLDrhLcg6rmh7Ya17Iuc7J6lPC9oMj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LWdyZXkiPuu2gOyCsCDquaHthrXsi5zsnqUgSXRlbSDsoJXrs7Q8L3A+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -356,28 +353,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGltcG9ydCAicGFnZXMvaG9tZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text>message-multiple</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL2ljYW5tYXJ0LnRlc3Q6MzAwMC9pdGVtcy9zZWFyY2giPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9pdGVtcy9zZWFyY2giPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXNzZS48L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0iZmVhdHVyZS1ib3hfX3RleHQiPkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0IGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQuIEF1dGVtLAo=</text>
+        <text encoding="base64">QGltcG9ydCAnfkBmb3J0YXdlc29tZS9mb250YXdlc29tZS1mcmVlL3Njc3MvbGlnaHQuc2Nzcyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDMgY2xhc3M9ImhlYWRpbmctdGVydGlhcnkgdS1tYXJnaW4tYm90dG9tLXNtYWxsIj5MaXZlIGEgSGVhbHRoaWVyIExpZmU8L2gzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmVhdHVyZS1ib3hfX2ljb24gaWNvbi1iYXNpYy1oZWFydCI+PC9pPgo=</text>
+        <text encoding="base64">QGltcG9ydCBmb250YXdlc29tZSBmcm9tICd+QGZvbnRhd2Vzb21lL2ZvbnRhd2Vzb21lLWZyZWUvanMvYWxsLmpzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
