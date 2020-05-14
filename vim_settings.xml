@@ -183,10 +183,11 @@
         <mark key="." line="21" column="44" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/created_project.blade.php" timestamp="1589195519833" />
-      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1589367580909">
+      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1589450467546">
         <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="45" />
-        <mark key="." line="5" column="45" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="40" />
+        <mark key="^" line="26" column="41" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/components/_feature-box.scss" timestamp="1589362295840">
         <mark key="[" line="0" column="0" />
