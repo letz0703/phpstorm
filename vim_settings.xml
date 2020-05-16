@@ -125,11 +125,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/completed_task.blade.php" timestamp="1589195907196">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/completed_task.blade.php" timestamp="1589627885073">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/app.js" timestamp="1589364359621">
         <mark key="[" line="15" column="0" />
@@ -141,12 +141,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/activity/created_task.blade.php" timestamp="1589195530647">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="66" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/uncompleted_task.blade.php" timestamp="1589195900437">
-        <mark key="[" line="0" column="16" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/uncompleted_task.blade.php" timestamp="1589627863428">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/pages/_home.scss" timestamp="1589626098764">
         <mark key="[" line="71" column="68" />
@@ -165,6 +163,13 @@
         <mark key="]" line="20" column="5" />
         <mark key="^" line="20" column="72" />
         <mark key="." line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/updated_project.blade.php" timestamp="1589627822480">
+        <mark key="'" line="0" column="29" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1589459309668">
         <mark key="'" line="21" column="22" />
@@ -205,14 +210,14 @@
       <file name="$USER_HOME$/code/icanmart/resources/sass/components/_feature-box.scss" timestamp="1589362295840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/updated_task.blade.php" timestamp="1589195603356">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/updated_task.blade.php" timestamp="1589627845707">
+        <mark key="[" line="0" column="14" />
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/created_task.blade.php" timestamp="1589195851486">
-        <mark key="[" line="0" column="36" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/created_task.blade.php" timestamp="1589627945110">
+        <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="66" />
         <mark key="." line="0" column="0" />
       </file>
@@ -342,10 +347,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>panton</text>
+        <text>owner</text>
       </register>
       <register name="-" type="4">
-        <text>panton</text>
+        <text>owner</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
