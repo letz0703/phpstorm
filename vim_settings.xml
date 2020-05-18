@@ -151,24 +151,17 @@
       <file name="$USER_HOME$/code/birdboard/app/User.php" timestamp="1589802125191">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/ProjectTest.php" timestamp="1589803437609">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="59" column="43" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/ProjectTest.php" timestamp="1589804292475">
+        <mark key="[" line="60" column="42" />
+        <mark key="]" line="60" column="43" />
+        <mark key="^" line="60" column="43" />
+        <mark key="." line="60" column="42" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/updated_project.blade.php" timestamp="1589627822480">
-        <mark key="'" line="0" column="29" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="4" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1589803211012">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="27" column="47" />
-        <mark key="^" line="27" column="47" />
-        <mark key="." line="27" column="46" />
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1589805889343">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="7" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1589757764119">
         <mark key="[" line="52" column="27" />
@@ -194,10 +187,17 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1589802133493">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_05_18_123508_create_project_members_table.php" timestamp="1589805404333">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="22" column="53" />
+        <mark key="." line="22" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1589805246222">
+        <mark key="[" line="42" column="53" />
+        <mark key="]" line="42" column="65" />
+        <mark key="." line="42" column="64" />
+        <mark key="^" line="42" column="65" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/completed_task.blade.php" timestamp="1589627885073">
         <mark key="[" line="0" column="14" />
@@ -347,11 +347,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoJ3Rhc2tzJywgJHRhc2spOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>withTasks(1)-</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -360,7 +360,7 @@
         <text encoding="base64">e3sgJGFjdGl2aXR5LT51c2VyLT5uYW1lIH19IGNyZWF0ZWQge3sgJGFjdGl2aXR5LT5zdWJqZWN0LT5ib2R5IH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoJ3Rhc2tzJywgJHRhc2spOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+bWVtYmVycy0+Y29udGFpbnMoJHVzZXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,28 +370,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoJ3Rhc2tzJywgJHRhc2spOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JvZHknID0+ICdGb28gdGFzaycsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdChhY3Rpb24oJ1Byb2plY3RDb250cm9sbGVyQHN0b3JlJywgJHByb2plY3QpLCAkdGFzayA9IFsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2JvZHknID0+ICdGb28gdGFzaycsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdChhY3Rpb24oJ1Byb2plY3RDb250cm9sbGVyQHN0b3JlJywgJHByb2plY3QpLCAkdGFzayA9IFsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCRuZXdVc2VyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV3VXNlciA9IGZhY3RvcnkoJ0FwcFxVc2VyJyktPmNyZWF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCRuZXdVc2VyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZnVuY3Rpb24gYV9wcm9qZWN0X2Nhbl9pbnZpdGVfdXNlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAkbmV3VXNlciA9IGZhY3RvcnkoJ0FwcFxVc2VyJyktPmNyZWF0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
