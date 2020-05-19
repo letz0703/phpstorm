@@ -154,12 +154,12 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/User.php" timestamp="1589882096556">
+      <file name="$USER_HOME$/code/birdboard/app/User.php" timestamp="1589885018666">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="31" />
-        <mark key="^" line="47" column="31" />
-        <mark key="." line="47" column="30" />
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="15" />
+        <mark key="^" line="49" column="15" />
+        <mark key="." line="49" column="14" />
       </file>
       <file name="$USER_HOME$/code/birdboard/tests/Unit/ProjectTest.php" timestamp="1589804292475">
         <mark key="[" line="60" column="42" />
@@ -351,11 +351,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJGpvaG4tPmFjY2Vzc2libGVQcm9qZWN0cygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHByb2plY3QgPSA=</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
