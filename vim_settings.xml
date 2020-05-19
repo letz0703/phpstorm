@@ -211,23 +211,24 @@
         <mark key="^" line="29" column="32" />
         <mark key="." line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/activity/uncompleted_task.blade.php" timestamp="1589627863428">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1589755878367">
-        <mark key="[" line="53" column="5" />
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1589881617278">
+        <mark key="[" line="13" column="44" />
         <mark key="]" line="54" column="45" />
         <mark key="^" line="54" column="45" />
         <mark key="." line="54" column="44" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1589755822623">
-        <mark key="'" line="40" column="20" />
-        <mark key="[" line="82" column="56" />
-        <mark key="]" line="82" column="58" />
-        <mark key="^" line="82" column="58" />
-        <mark key="." line="82" column="57" />
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/UserTest.php" timestamp="1589881995261">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="59" />
+        <mark key="^" line="28" column="59" />
+        <mark key="." line="28" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1589881123226">
+        <mark key="'" line="41" column="20" />
+        <mark key="[" line="118" column="25" />
+        <mark key="]" line="118" column="30" />
+        <mark key="." line="118" column="29" />
+        <mark key="^" line="118" column="30" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/RecordsActivity.php" timestamp="1589756701763">
         <mark key="'" line="67" column="8" />
@@ -348,10 +349,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmFjdG9yeSgnQXBwXFVzZXInKS0+Y3JlYXRlKCk=</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmFjdG9yeSgnQXBwXFVzZXInKS0+Y3JlYXRlKCk=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -360,7 +361,7 @@
         <text encoding="base64">e3sgJGFjdGl2aXR5LT51c2VyLT5uYW1lIH19IGNyZWF0ZWQge3sgJGFjdGl2aXR5LT5zdWJqZWN0LT5ib2R5IH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCRhbm90aGVyVXNlcik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,28 +371,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+bWVtYmVycy0+Y29udGFpbnMoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2RkKCRhbm90aGVyVXNlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoJ3Rhc2tzJywgJHRhc2spOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+b3cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyR1c2VyID0gJHRoaXMtPnNpZ25JbigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+cGF0aCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JvZHknID0+ICdGb28gdGFzaycsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyR0aGlzLT5hc3NlcnRDb3VudCgxLCAkcHJvamVjdC0+bWVtYmVycyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cG9zdChhY3Rpb24oJ1Byb2plY3RDb250cm9sbGVyQHN0b3JlJywgJHByb2plY3QpLCAkdGFzayA9IFsK</text>
+        <text encoding="base64">ICAgICAgICBkZChhdXRoKCktPnVzZXIoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+bWVtYmVycyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2lnbkluKCRuZXdVc2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+aW52aXRlKCR1c2VyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
