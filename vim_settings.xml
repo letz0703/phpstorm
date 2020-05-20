@@ -137,18 +137,12 @@
         <mark key="." line="21" column="52" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1589794912875">
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="7" column="53" />
-        <mark key="^" line="7" column="53" />
-        <mark key="." line="7" column="52" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/User.php" timestamp="1589886121500">
+      <file name="$USER_HOME$/code/birdboard/app/User.php" timestamp="1589969397047">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="52" column="49" />
-        <mark key="]" line="52" column="42" />
-        <mark key="^" line="52" column="42" />
-        <mark key="." line="52" column="41" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="51" column="22" />
+        <mark key="^" line="51" column="22" />
+        <mark key="." line="51" column="21" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/InvitationTest.php" timestamp="1589929002872">
         <mark key="[" line="24" column="0" />
@@ -167,6 +161,12 @@
         <mark key="]" line="21" column="30" />
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1589968931043">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="53" column="37" />
+        <mark key="^" line="53" column="37" />
+        <mark key="." line="53" column="36" />
       </file>
       <file name="$USER_HOME$/code/birdboard/database/migrations/2020_05_18_123508_create_project_members_table.php" timestamp="1589805404333">
         <mark key="[" line="20" column="33" />
@@ -210,11 +210,11 @@
         <mark key="]" line="34" column="28" />
         <mark key="." line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1589928233670">
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1589968894014">
         <mark key="'" line="41" column="20" />
-        <mark key="]" line="118" column="30" />
-        <mark key="." line="118" column="29" />
-        <mark key="^" line="118" column="30" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="123" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1589928818300">
         <mark key="[" line="37" column="22" />
