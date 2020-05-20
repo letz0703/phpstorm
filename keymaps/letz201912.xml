@@ -20,6 +20,7 @@
   <action id="Arrangement.Rule.Edit" />
   <action id="BaseOnThisFunction" />
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.Move" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
