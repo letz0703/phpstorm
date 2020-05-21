@@ -233,11 +233,11 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="38" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1590058472997">
-        <mark key="[" line="11" column="81" />
-        <mark key="]" line="11" column="60" />
-        <mark key="^" line="11" column="79" />
-        <mark key="." line="11" column="60" />
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1590059483758">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="16" column="79" />
+        <mark key="." line="17" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1589930163931">
         <mark key="[" line="0" column="0" />
@@ -349,10 +349,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>member</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>member</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
