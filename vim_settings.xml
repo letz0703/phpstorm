@@ -149,12 +149,11 @@
         <mark key="." line="45" column="58" />
         <mark key="^" line="45" column="59" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1590188000890">
-        <mark key="'" line="38" column="33" />
-        <mark key="[" line="25" column="83" />
-        <mark key="]" line="25" column="83" />
-        <mark key="^" line="25" column="84" />
-        <mark key="." line="25" column="83" />
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1590189847079">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1590149744557">
         <mark key="'" line="26" column="31" />
@@ -215,11 +214,11 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="24" column="71" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectInvitationController.php" timestamp="1590188007302">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="15" column="86" />
-        <mark key="^" line="15" column="86" />
-        <mark key="." line="15" column="85" />
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectInvitationController.php" timestamp="1590189495178">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="7" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/InvitationTest.php" timestamp="1590168706511">
         <mark key="[" line="17" column="4" />
@@ -349,19 +348,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>only_birdboard_members_could_be_invited</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>only_birdboard_members_could_be_invited</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJGpvaG4tPmFjY2Vzc2libGVQcm9qZWN0cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJ1RoZSBVc2VyIHlvdSBhcmUgaW52aXRpbmcgbXVzdCBoYXZlIGEgYmlyZGJvYXJkIGFjY291bnQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -371,28 +370,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEZhY2FkZXNcVGVzdHNcU2V0dXBcUHJvamVjdEZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAnZW1haWwnID0+ICdUaGUgVXNlciB5b3UgYXJlIGludml0aW5nIG11c3QgaGF2ZSBhIGJpcmRib2FyZCBhY2NvdW50JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC0+YXNzZXJ0KFsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+bWVtYmVycy0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbWFpbCcgPT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIHBocERvY3VtZW50b3JcUmVmbGVjdGlvblxQcm9qZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEZhY2FkZXNcVGVzdHNcU2V0dXBcUHJvamVjdEZhY3Rvcnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBkZDsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
