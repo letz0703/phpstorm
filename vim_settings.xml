@@ -125,6 +125,51 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589930163931">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1590141170669">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1589886175354">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="13" column="56" />
+        <mark key="^" line="13" column="56" />
+        <mark key="." line="13" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/tests/Unit/ProjectTest.php" timestamp="1589929355746">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="55" column="14" />
+        <mark key="." line="55" column="13" />
+        <mark key="^" line="55" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/tests/Unit/UserTest.php" timestamp="1590055162614">
+        <mark key="[" line="43" column="60" />
+        <mark key="]" line="45" column="59" />
+        <mark key="." line="45" column="58" />
+        <mark key="^" line="45" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1590054827670">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1590140996724">
+        <mark key="'" line="22" column="31" />
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="24" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1590055489954">
+        <mark key="[" line="162" column="8" />
+        <mark key="]" line="167" column="59" />
+        <mark key="^" line="167" column="59" />
+        <mark key="." line="167" column="58" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/app/Policies/ProjectPolicy.php" timestamp="1589806781207">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="78" />
@@ -138,79 +183,6 @@
         <mark key="^" line="47" column="15" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/InvitationTest.php" timestamp="1589929002872">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="4" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1590054827670">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="32" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="21" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1590102985764">
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="13" column="56" />
-        <mark key="^" line="13" column="56" />
-        <mark key="." line="13" column="55" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/database/migrations/2020_05_18_123508_create_project_members_table.php" timestamp="1589805404333">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="22" column="53" />
-        <mark key="^" line="22" column="53" />
-        <mark key="." line="22" column="52" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1589973394716">
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="47" column="77" />
-        <mark key="." line="47" column="76" />
-        <mark key="^" line="47" column="77" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Unit/ProjectTest.php" timestamp="1589929355746">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="55" column="14" />
-        <mark key="." line="55" column="13" />
-        <mark key="^" line="55" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1590102365464">
-        <mark key="'" line="22" column="31" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="24" column="43" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1590055489954">
-        <mark key="[" line="162" column="8" />
-        <mark key="]" line="167" column="59" />
-        <mark key="^" line="167" column="59" />
-        <mark key="." line="167" column="58" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/database/migrations/2020_05_20_075030_create_project_members_table.php" timestamp="1589928738406">
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="25" column="7" />
-        <mark key="^" line="25" column="7" />
-        <mark key="." line="25" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/database/migrations/2020_05_20_074754_create_project_users_table.php" timestamp="1589928507149">
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="17" column="45" />
-        <mark key="^" line="17" column="45" />
-        <mark key="." line="17" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1589886175354">
-        <mark key="[" line="13" column="54" />
-        <mark key="]" line="13" column="56" />
-        <mark key="^" line="13" column="56" />
-        <mark key="." line="13" column="55" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Unit/UserTest.php" timestamp="1590055162614">
-        <mark key="[" line="43" column="60" />
-        <mark key="]" line="45" column="59" />
-        <mark key="." line="45" column="58" />
-        <mark key="^" line="45" column="59" />
-      </file>
       <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1590055101110">
         <mark key="'" line="41" column="20" />
         <mark key="[" line="119" column="0" />
@@ -218,11 +190,29 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="114" column="48" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/database/migrations/2020_05_20_075030_create_project_members_table.php" timestamp="1589928738406">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/InvitationTest.php" timestamp="1589929002872">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1590102920853">
         <mark key="[" line="32" column="67" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/database/migrations/2020_05_20_074754_create_project_users_table.php" timestamp="1589928507149">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="17" column="45" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="17" column="44" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Unit/UserTest.php" timestamp="1590058029579">
         <mark key="[" line="38" column="5" />
@@ -240,8 +230,17 @@
         <mark key="^" line="16" column="79" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589930163931">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1589973394716">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="47" column="77" />
+        <mark key="." line="47" column="76" />
+        <mark key="^" line="47" column="77" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1590102985764">
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="56" />
+        <mark key="^" line="13" column="56" />
+        <mark key="." line="13" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -350,10 +349,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBkZCgkcHJvamVjdC0+bWVtYmVycykK</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>focused</text>
+        <text>items-baseline</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -362,7 +361,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJGpvaG4tPmFjY2Vzc2libGVQcm9qZWN0cygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBkZCgkcHJvamVjdC0+bWVtYmVycykK</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -372,28 +371,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlbGxvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBkZCgkcHJvamVjdC0+bWVtYmVycykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhlbGxvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlbGxvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJGpvaG4tPmFjY2Vzc2libGVQcm9qZWN0cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhlbGxvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2FsbHlQcm9qZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJGpvaG4tPmFjY2Vzc2libGVQcm9qZWN0cygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2FsbHlQcm9qZWN0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkc2FsbHkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkc2FsbHkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+aW52aXRlKCR1c2VyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
