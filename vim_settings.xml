@@ -208,8 +208,11 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1590142422910">
-        <mark key="[" line="2" column="37" />
+      <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1590146294421">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="6" column="41" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Unit/UserTest.php" timestamp="1590058029579">
         <mark key="[" line="38" column="5" />
@@ -221,11 +224,11 @@
         <mark key="^" line="74" column="54" />
         <mark key="." line="74" column="53" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1590101997526">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="^" line="16" column="79" />
-        <mark key="." line="17" column="34" />
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1590146396649">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="11" column="60" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1589973394716">
         <mark key="[" line="38" column="5" />
@@ -345,11 +348,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAZW5kaWYK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aHR0cHM6Ly9ncmF2YXRhci5jb20vYXZhdGFyL3t7bWQ1KCRwcm9qZWN0LT5vd25lci0+ZW1haWwpfX0/cz02MA==</text>
       </register>
       <register name="-" type="4">
-        <text>items-baseline</text>
+        <text encoding="base64">aHR0cHM6Ly9ncmF2YXRhci5jb20vYXZhdGFyL3t7bWQ1KCRwcm9qZWN0LT5vd25lci0+ZW1haWwpfX0/cz02MA==</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
