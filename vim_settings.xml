@@ -181,7 +181,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1590147076657">
+      <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1590167779128">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -214,6 +214,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/app/Policies/ProjectPolicy.php" timestamp="1590167969057">
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="72" />
+        <mark key="^" line="24" column="72" />
+        <mark key="." line="24" column="71" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/app/User.php" timestamp="1589974540235">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="52" column="0" />
@@ -221,23 +227,17 @@
         <mark key="^" line="47" column="15" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/InvitationTest.php" timestamp="1590166457504">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="31" column="4" />
-        <mark key="^" line="31" column="4" />
-        <mark key="." line="31" column="3" />
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/InvitationTest.php" timestamp="1590168009172">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="28" column="12" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/helpers.php" timestamp="1590150400870">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="8" column="88" />
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="87" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1589973394716">
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="47" column="77" />
-        <mark key="." line="47" column="76" />
-        <mark key="^" line="47" column="77" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/helpers.php" timestamp="1590150158087">
         <mark key="[" line="9" column="31" />
@@ -352,10 +352,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>auto</text>
@@ -364,7 +364,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJGpvaG4tPmFjY2Vzc2libGVQcm9qZWN0cygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aG91dEV4Y2VwdGlvbkhhbmRsaW5nKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -374,28 +374,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dXNlIEZhY2FkZXNcVGVzdHNcU2V0dXBcUHJvamVjdEZhY3Rvcnk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiaHR0cHM6Ly9hdmF0YXIuY29tL3skZW1haWx9P3M9NjAmZD0naHR0cHM6Ly9zMy5hbWF6b25lYXdzLmNvbS9sYXJhY2FzdHMvaW1hZ2VzL2RlZmF1bHQtc3F1YXJlLWF2YXRhci5qcGcnIjsK</text>
+        <text encoding="base64">ICAgICAgICBkZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRlbWFpbCA9IG1kNSgkZW1haWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+bWVtYmVycy0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYXZhdGFyX3VybCgkZW1haWwpewo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIHBocERvY3VtZW50b3JcUmVmbGVjdGlvblxQcm9qZWN0Owo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ3JhdmF0YXJfdXJsKCRlbWFpbCl7CiAgICAkZW1haWwgPSBtZDUoJGVtYWlsKTsKICAgIHJldHVybiAiaHR0cHM6Ly9ncmF2YXRhci5jb20vYXZhdGFyL3sgJGVtYWlsIH0/cz02MCZkPWh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9sYXJhY2FzdHMvaW1hZ2VzL2RlZmF1bHQtc3F1YXJlLWF2YXRhci5qcGciOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAiaHR0cHM6Ly9hdmF0YXIuY29tL3skZW1haWx9P3M9NjAmZD0naHR0cHM6Ly9zMy5hbWF6b25lYXdzLmNvbS9sYXJhY2FzdHMvaW1hZ2VzL2RlZmF1bHQtc3F1YXJlLWF2YXRhci5qcGcnIjsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
