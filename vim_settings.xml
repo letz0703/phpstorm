@@ -208,9 +208,6 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589930163931">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1590150252044">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -223,6 +220,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="^" line="47" column="15" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/InvitationTest.php" timestamp="1590166457504">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="31" column="3" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/helpers.php" timestamp="1590150400870">
         <mark key="[" line="9" column="10" />
@@ -348,11 +351,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>auto</text>
