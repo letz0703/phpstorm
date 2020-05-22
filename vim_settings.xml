@@ -25,8 +25,8 @@
         <entry>last</entry>
         <entry>acti</entry>
         <entry encoding="base64">XDwwXD4=</entry>
-        <entry>}</entry>
         <entry>auto</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -149,11 +149,12 @@
         <mark key="." line="45" column="58" />
         <mark key="^" line="45" column="59" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1590054827670">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="32" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="21" column="31" />
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1590169936087">
+        <mark key="'" line="22" column="33" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+        <mark key="." line="17" column="41" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1590149744557">
         <mark key="'" line="26" column="31" />
@@ -181,10 +182,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1590167779128">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/code/birdboard/routes/web.php" timestamp="1590169917651">
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="29" column="85" />
+        <mark key="." line="29" column="84" />
+        <mark key="^" line="29" column="85" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Unit/UserTest.php" timestamp="1590058029579">
         <mark key="[" line="38" column="5" />
@@ -220,18 +222,17 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="24" column="71" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/User.php" timestamp="1589974540235">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="47" column="15" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectInvitationController.php" timestamp="1590170138312">
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="13" column="59" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/InvitationTest.php" timestamp="1590168009172">
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/InvitationTest.php" timestamp="1590168706511">
         <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="28" column="12" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/helpers.php" timestamp="1590150400870">
         <mark key="[" line="9" column="10" />
@@ -247,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="33" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
       <jump line="60" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
       <jump line="1" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
       <jump line="22" column="0" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" />
@@ -347,18 +347,19 @@
       <jump line="20" column="31" filename="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/composer.json" />
       <jump line="26" column="18" filename="$USER_HOME$/code/birdboard/composer.json" />
+      <jump line="22" column="33" filename="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>auto</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJGpvaG4tPmFjY2Vzc2libGVQcm9qZWN0cygpKTsK</text>
@@ -404,9 +405,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>auto</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>auto</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
