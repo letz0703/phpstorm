@@ -143,6 +143,12 @@
         <mark key="^" line="44" column="28" />
         <mark key="." line="44" column="27" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/layouts/app.blade.php" timestamp="1590234914026">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="44" column="31" />
+        <mark key="^" line="47" column="33" />
+        <mark key="." line="44" column="31" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1590226018471">
         <mark key="[" line="33" column="15" />
         <mark key="]" line="34" column="46" />
@@ -167,9 +173,6 @@
         <mark key="]" line="29" column="85" />
         <mark key="." line="29" column="84" />
         <mark key="^" line="29" column="85" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Unit/UserTest.php" timestamp="1590058029579">
-        <mark key="[" line="38" column="5" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/User.php" timestamp="1590103102228">
         <mark key="'" line="1" column="0" />
@@ -203,11 +206,11 @@
         <mark key="^" line="24" column="72" />
         <mark key="." line="24" column="71" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/js/components/Search.vue" timestamp="1590228913640">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="14" column="45" />
-        <mark key="." line="14" column="44" />
-        <mark key="^" line="14" column="45" />
+      <file name="$USER_HOME$/code/icanmart/resources/js/components/Search.vue" timestamp="1590234754183">
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectInvitationController.php" timestamp="1590189955391">
         <mark key="[" line="23" column="25" />
@@ -350,10 +353,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>70rem</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>70rem</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
