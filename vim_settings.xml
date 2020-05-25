@@ -137,11 +137,12 @@
         <mark key="^" line="45" column="13" />
         <mark key="." line="97" column="17" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1590408957143">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/InvitationTest.php" timestamp="1590442859768">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="4" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1590406239599">
         <mark key="'" line="26" column="31" />
@@ -150,17 +151,23 @@
         <mark key="." line="89" column="55" />
         <mark key="^" line="89" column="56" />
       </file>
+      <file name="$USER_HOME$/code/birdboard/app/Policies/ProjectPolicy.php" timestamp="1590443189858">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="41" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/errors.blade.php" timestamp="1590442019034">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Requests/ProjectInvitationRequest.php" timestamp="1590408930706">
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="32" column="40" />
-        <mark key="." line="32" column="39" />
-        <mark key="^" line="32" column="40" />
+      <file name="$USER_HOME$/code/birdboard/app/Http/Requests/ProjectInvitationRequest.php" timestamp="1590443109224">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="34" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1590405638453">
         <mark key="[" line="90" column="52" />
@@ -191,12 +198,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="14" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/js/components/Search.vue" timestamp="1590238062893">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="8" column="70" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectInvitationController.php" timestamp="1590408058376">
         <mark key="[" line="11" column="42" />
@@ -340,10 +341,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-red-700</text>
+        <text>update</text>
       </register>
       <register name="-" type="4">
-        <text>-red-700</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>btn</text>
