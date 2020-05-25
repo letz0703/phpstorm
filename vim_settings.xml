@@ -150,11 +150,11 @@
         <mark key="." line="89" column="55" />
         <mark key="^" line="89" column="56" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/errors.blade.php" timestamp="1590409328770">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="0" column="20" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/errors.blade.php" timestamp="1590442019034">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/code/birdboard/app/Http/Requests/ProjectInvitationRequest.php" timestamp="1590408930706">
         <mark key="[" line="32" column="36" />
@@ -180,11 +180,11 @@
         <mark key="]" line="7" column="83" />
         <mark key="." line="7" column="83" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/errors.blade.php" timestamp="1590408452399">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-        <mark key="^" line="0" column="21" />
+      <file name="$USER_HOME$/code/birdboard/resources/views/errors.blade.php" timestamp="1590442219365">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="46" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/card.blade.php" timestamp="1590405418067">
         <mark key="[" line="6" column="25" />
@@ -340,10 +340,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>red-300</text>
+        <text>-red-700</text>
       </register>
       <register name="-" type="4">
-        <text>red-300</text>
+        <text>-red-700</text>
       </register>
       <register name="/" type="4">
         <text>btn</text>
