@@ -125,11 +125,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/card.blade.php" timestamp="1590485778964">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/card.blade.php" timestamp="1590490878114">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1590490703682">
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="54" column="32" />
+        <mark key="." line="54" column="31" />
+        <mark key="^" line="54" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1590483903591">
         <mark key="[" line="0" column="0" />
@@ -154,11 +160,11 @@
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Requests/ProjectInvitationRequest.php" timestamp="1590443109224">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1590490655136">
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="84" column="32" />
+        <mark key="^" line="84" column="32" />
+        <mark key="." line="84" column="31" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" timestamp="1590485870888">
         <mark key="[" line="81" column="16" />
@@ -171,12 +177,6 @@
         <mark key="]" line="1" column="31" />
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/errors.blade.php" timestamp="1590442219365">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="46" />
-        <mark key="." line="4" column="45" />
-        <mark key="^" line="4" column="46" />
       </file>
       <file name="$USER_HOME$/code/icanmart/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestResponse.php" timestamp="1590485087211" />
       <file name="$USER_HOME$/code/icanmart/app/Policies/ProjectPolicy.php" timestamp="1590447418269">
@@ -327,10 +327,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>email === 'rainkisss@nate.com'</text>
+        <text>update</text>
       </register>
       <register name="-" type="4">
-        <text>email === 'rainkisss@nate.com'</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>btn</text>
