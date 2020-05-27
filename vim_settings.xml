@@ -140,6 +140,13 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="42" />
       </file>
+      <file name="$USER_HOME$/code/birdboard/composer.json" timestamp="1590584901786">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="44" column="28" />
+        <mark key="^" line="44" column="28" />
+        <mark key="." line="44" column="27" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/show.blade.php" timestamp="1590486850990">
         <mark key="'" line="26" column="31" />
         <mark key="[" line="78" column="39" />
@@ -164,12 +171,12 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/code/birdboard/node_modules/bootstrap/scss/_functions.scss" timestamp="1590580730272" />
-      <file name="$USER_HOME$/code/birdboard/tailwind.config.js" timestamp="1590582830686">
+      <file name="$USER_HOME$/code/birdboard/tailwind.config.js" timestamp="1590585731356">
         <mark key="'" line="690" column="4" />
-        <mark key="[" line="151" column="29" />
-        <mark key="]" line="151" column="35" />
+        <mark key="[" line="151" column="9" />
+        <mark key="]" line="151" column="9" />
         <mark key="^" line="151" column="35" />
-        <mark key="." line="151" column="34" />
+        <mark key="." line="151" column="9" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/factories/ProjectFactory.php" timestamp="1590497276449">
         <mark key="[" line="11" column="33" />
@@ -196,12 +203,6 @@
         <mark key="^" line="51" column="32" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/sass/_variables.scss" timestamp="1590583458057" />
-      <file name="$USER_HOME$/code/icanmart/app/helpers.php" timestamp="1590486406509">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="88" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/base/_base.scss" timestamp="1590487315639">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -212,12 +213,6 @@
         <mark key="]" line="37" column="26" />
         <mark key="^" line="37" column="26" />
         <mark key="." line="37" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/helpers.php" timestamp="1590486412517">
-        <mark key="[" line="7" column="48" />
-        <mark key="]" line="7" column="50" />
-        <mark key="^" line="9" column="88" />
-        <mark key="." line="7" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -326,10 +321,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>plugins</text>
@@ -348,32 +343,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZGVmYXVsdFRoZW1lID0gcmVxdWlyZSgndGFpbHdpbmRjc3MvZGVmYXVsdFRoZW1lJykK</text>
       </register>
       <register name="3" type="2">
-        <text>//.bg-card {
-//    background-color: #fff;
-//}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text>//.bg-card {
+//    background-color: #fff;
+//}</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Lwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>//body, .button {
 //    ;
 /</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBhcHBseSAucC01IC5yb3VuZGVkLWxnIC5zaGFkb3c7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KSwK</text>
+        <text encoding="base64">ICAgIEBhcHBseSAucC01IC5yb3VuZGVkLWxnIC5zaGFkb3c7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
