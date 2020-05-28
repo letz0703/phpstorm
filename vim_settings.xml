@@ -131,6 +131,15 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/code/birdboard/database/factories/ProjectFactory.php" timestamp="1590497127296">
+        <mark key="[" line="12" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1590496515454">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="42" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="42" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/composer.json" timestamp="1590584901786">
         <mark key="'" line="26" column="18" />
         <mark key="[" line="42" column="9" />
@@ -143,7 +152,20 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/sass/app.scss" timestamp="1590668709049" />
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" timestamp="1590705496707">
+        <mark key="[" line="61" column="60" />
+        <mark key="]" line="44" column="6" />
+        <mark key="^" line="44" column="6" />
+        <mark key="." line="44" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/resources/js/app.js" timestamp="1590670240123">
+        <mark key="[" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1590496149563">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/tailwind.config.js" timestamp="1590589826444">
         <mark key="'" line="1380" column="4" />
         <mark key="]" line="12" column="16" />
@@ -155,53 +177,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/sass/components/button.scss" timestamp="1590669914365">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/database/factories/ProjectFactory.php" timestamp="1590497127296">
-        <mark key="[" line="12" column="46" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1590496515454">
-        <mark key="[" line="34" column="26" />
-        <mark key="]" line="34" column="42" />
-        <mark key="." line="34" column="41" />
-        <mark key="^" line="34" column="42" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/tailwind.config-full.js" timestamp="1590588058462" />
-      <file name="$USER_HOME$/code/birdboard/resources/js/app.js" timestamp="1590670240123">
-        <mark key="[" line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1590496149563">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/node_modules/bootstrap/scss/_functions.scss" timestamp="1590580730272" />
       <file name="$USER_HOME$/code/icanmart/database/factories/ProjectFactory.php" timestamp="1590497276449">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="41" />
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="40" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/layouts/app.blade.php" timestamp="1590589339415">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="21" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1590493717779">
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="51" column="32" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="51" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" timestamp="1590671588090">
-        <mark key="[" line="60" column="28" />
-        <mark key="]" line="44" column="6" />
-        <mark key="^" line="44" column="6" />
-        <mark key="." line="44" column="5" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Setup/ProjectFactory.php" timestamp="1590494246709">
         <mark key="[" line="37" column="26" />
@@ -209,9 +189,32 @@
         <mark key="^" line="37" column="26" />
         <mark key="." line="37" column="25" />
       </file>
+      <file name="$USER_HOME$/code/birdboard/resources/views/layouts/app.blade.php" timestamp="1590589339415">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="21" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/resources/sass/components/button.scss" timestamp="1590669914365">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/resources/views/welcome.blade.php" timestamp="1590705407845">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="95" column="40" />
+        <mark key="]" line="95" column="40" />
+        <mark key="." line="95" column="40" />
+        <mark key="^" line="95" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1590493717779">
+        <mark key="[" line="51" column="26" />
+        <mark key="]" line="51" column="32" />
+        <mark key="." line="51" column="31" />
+        <mark key="^" line="51" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="23" column="53" filename="$USER_HOME$/code/birdboard/routes/web.php" />
       <jump line="29" column="42" filename="$USER_HOME$/code/birdboard/tests/Unit/ActivityFeedTest.php" />
       <jump line="5" column="0" filename="$USER_HOME$/code/birdboard/app/Providers/AppServiceProvider.php" />
@@ -311,15 +314,16 @@
       <jump line="609" column="11" filename="$USER_HOME$/code/birdboard/tailwind.config.js" />
       <jump line="689" column="4" filename="$USER_HOME$/code/birdboard/tailwind.config.js" />
       <jump line="5" column="0" filename="$USER_HOME$/code/birdboard/node_modules/bootstrap/scss/_buttons.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/resources/views/welcome.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>items</text>
+        <text>GitHub</text>
       </register>
       <register name="-" type="4">
-        <text>items</text>
+        <text>GitHub</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
