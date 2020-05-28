@@ -43,6 +43,9 @@
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.Submit" />
+  <action id="CopyAsPlainText">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="DatabaseView.CopyAction" />
   <action id="Debug" />
   <action id="Diff.ShowDiff" />
