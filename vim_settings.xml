@@ -165,6 +165,11 @@
         <mark key="^" line="34" column="42" />
       </file>
       <file name="$USER_HOME$/code/birdboard/tailwind.config-full.js" timestamp="1590588058462" />
+      <file name="$USER_HOME$/code/birdboard/resources/js/app.js" timestamp="1590660569646">
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="15" />
+      </file>
       <file name="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" timestamp="1590496149563">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -195,11 +200,11 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="32" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" timestamp="1590659667300">
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="5" column="96" />
-        <mark key="^" line="5" column="97" />
-        <mark key="." line="5" column="96" />
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" timestamp="1590661314998">
+        <mark key="[" line="22" column="55" />
+        <mark key="]" line="22" column="53" />
+        <mark key="." line="22" column="52" />
+        <mark key="^" line="22" column="53" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Setup/ProjectFactory.php" timestamp="1590494246709">
         <mark key="[" line="37" column="26" />
@@ -314,10 +319,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>satart</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>satart</text>
       </register>
       <register name="/" type="4">
         <text>plugins</text>
@@ -326,7 +331,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsLmV4aXN0cycgPT4gJ1RoZSBVc2VyIHlvdSBhcmUgaW52aXRpbmcgbXVzdCBoYXZlIGEgYmlyZGJvYXJkIGFjY291bnQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgIGNsYXNzPSJwLTQgYmRkZy13aGl0ZSIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -336,28 +341,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHRlbmQ6IHsK</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdleGFtcGxlJzogJ3ZhcigtLWV4YW1wbGUtYmctY29sb3InLAo=</text>
+        <text encoding="base64">ICAgICAgICBleHRlbmQ6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0tZXhhbXBsZS1iZy1jb2xvcjogdGhlbWUoImNvbG9ycy5ibHVlLjUwMCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdleGFtcGxlJzogJ3ZhcigtLWV4YW1wbGUtYmctY29sb3InLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC0tZXhhbXBsZS1iZy1jb2xvcjogdGhlbWUoImNvbG9ycy5ibHVlLjUwMCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21haW4nOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21haW4nOiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICdtYWluJzogewo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwYWdlJzogIiNmMzEzZTMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICdtYWluJzogewo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
