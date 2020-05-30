@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>trait</entry>
-        <entry>static</entry>
         <entry>$old</entry>
         <entry>old</entry>
         <entry>last</entry>
@@ -27,6 +25,8 @@
         <entry>Title</entry>
         <entry>Add</entry>
         <entry>items</entry>
+        <entry>cancel</entry>
+        <entry>hello-</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -137,13 +137,24 @@
         <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/code/icanmart/public/js/icanmart.js" timestamp="1590748683476" />
-      <file name="$USER_HOME$/code/birdboard/resources/js/app.js" timestamp="1590745619935" />
+      <file name="$USER_HOME$/code/birdboard/resources/js/app.js" timestamp="1590838308464">
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="25" column="57" />
+        <mark key="." line="25" column="57" />
+        <mark key="^" line="25" column="32" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/app.js" timestamp="1590749155982">
         <mark key="'" line="74" column="50" />
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
         <mark key="^" line="13" column="35" />
         <mark key="." line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1590839027986">
+        <mark key="[" line="63" column="10" />
+        <mark key="]" line="63" column="10" />
+        <mark key="^" line="63" column="10" />
+        <mark key="." line="63" column="9" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_form.scss" timestamp="1590761566643">
         <mark key="[" line="24" column="0" />
@@ -180,11 +191,11 @@
         <mark key="." line="32" column="58" />
         <mark key="^" line="32" column="59" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" timestamp="1590757574899">
-        <mark key="[" line="62" column="50" />
-        <mark key="]" line="62" column="50" />
-        <mark key="^" line="44" column="6" />
-        <mark key="." line="62" column="50" />
+      <file name="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" timestamp="1590838351731">
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/index.blade.php" timestamp="1590758114900">
         <mark key="'" line="19" column="39" />
@@ -210,11 +221,6 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/sass/components/button.scss" timestamp="1590669914365">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
-      </file>
       <file name="$USER_HOME$/code/birdboard/resources/views/welcome.blade.php" timestamp="1590705407845">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="95" column="40" />
@@ -224,9 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
-      <jump line="28" column="45" filename="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectTaskController.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/birdboard/routes/web.php" />
       <jump line="51" column="51" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
       <jump line="44" column="49" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
       <jump line="59" column="1" filename="$USER_HOME$/code/birdboard/app/Task.php" />
@@ -324,24 +327,27 @@
       <jump line="33" column="90" filename="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" />
       <jump line="43" column="29" filename="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" />
       <jump line="46" column="87" filename="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" />
+      <jump line="61" column="50" filename="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" />
+      <jump line="53" column="14" filename="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" />
+      <jump line="68" column="54" filename="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogYmxhY2s7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>addTask</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>addTask</text>
       </register>
       <register name="/" type="4">
-        <text>items</text>
+        <text>hello-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0ic2VsbF9wcmljZSI+7YyQ66ek6rCAOjwvbGFiZWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogYmxhY2s7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,28 +357,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC90ZXh0YXJlYT4K</text>
+        <text encoding="base64">ICAgIDxtb2RhbCBuYW1lPSJuZXctcHJvamVjdCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0ie3sgb2xkKCd0aXRsZScpIH19IiByZXF1aXJlZD4K</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogYmxhY2s7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICByb3dzPSIzIgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0idy1mdWxsIG1kOmJnLXdoaXRlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC90ZXh0YXJlYT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZXh0YXJlYSB0eXBlPSJ0ZXh0IiBpZD0idGl0bGUiIG5hbWU9InRpdGxlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0ie3sgb2xkKCd0aXRsZScpIH19IiByZXF1aXJlZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9InRpdGxlIiBjbGFzcz0iYmxvY2siPuuwleyKpOyalOyVvTwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICByb3dzPSIzIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWItNCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0idy1mdWxsIG1kOmJnLXdoaXRlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -381,9 +387,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>items</last-search>
+      <last-search>hello-</last-search>
       <last-offset />
-      <last-pattern>items</last-pattern>
+      <last-pattern>hello-</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
