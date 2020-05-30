@@ -136,19 +136,18 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/public/js/icanmart.js" timestamp="1590748683476" />
       <file name="$USER_HOME$/code/birdboard/resources/js/app.js" timestamp="1590838308464">
         <mark key="[" line="25" column="57" />
         <mark key="]" line="25" column="57" />
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/js/app.js" timestamp="1590749155982">
+      <file name="$USER_HOME$/code/icanmart/resources/js/app.js" timestamp="1590841069612">
         <mark key="'" line="74" column="50" />
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="13" column="35" />
-        <mark key="." line="12" column="20" />
+        <mark key="[" line="78" column="78" />
+        <mark key="]" line="78" column="72" />
+        <mark key="^" line="78" column="72" />
+        <mark key="." line="78" column="71" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1590839027986">
         <mark key="[" line="63" column="10" />
@@ -197,12 +196,18 @@
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/index.blade.php" timestamp="1590758114900">
+      <file name="$USER_HOME$/code/icanmart/resources/js/NewProjectModal.vue" timestamp="1590840417370">
+        <mark key="[" line="30" column="79" />
+        <mark key="]" line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+        <mark key="." line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/index.blade.php" timestamp="1590840230077">
         <mark key="'" line="19" column="39" />
-        <mark key="[" line="41" column="51" />
-        <mark key="]" line="41" column="53" />
-        <mark key="." line="41" column="52" />
-        <mark key="^" line="41" column="53" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="23" />
         <mark key="o" line="18" column="45" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" timestamp="1590760191066">
@@ -220,13 +225,6 @@
         <mark key="]" line="5" column="63" />
         <mark key="^" line="11" column="31" />
         <mark key="." line="5" column="63" />
-      </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/welcome.blade.php" timestamp="1590705407845">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="40" />
-        <mark key="]" line="95" column="40" />
-        <mark key="." line="95" column="40" />
-        <mark key="^" line="95" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -335,10 +333,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>addTask</text>
+        <text>SellerForm</text>
       </register>
       <register name="-" type="4">
-        <text>addTask</text>
+        <text>SellerForm</text>
       </register>
       <register name="/" type="4">
         <text>hello-</text>
