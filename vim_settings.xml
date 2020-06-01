@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>$old</entry>
         <entry>old</entry>
         <entry>last</entry>
         <entry>acti</entry>
@@ -27,6 +26,7 @@
         <entry>items</entry>
         <entry>cancel</entry>
         <entry>hello-</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -232,17 +232,15 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" timestamp="1591013461430">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="29" column="46" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" timestamp="1591016420998">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="50" />
+        <mark key="^" line="30" column="50" />
+        <mark key="." line="30" column="49" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="51" filename="$USER_HOME$/code/birdboard/resources/views/projects/show.blade.php" />
-      <jump line="44" column="49" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
-      <jump line="59" column="1" filename="$USER_HOME$/code/birdboard/app/Task.php" />
       <jump line="32" column="7" filename="$USER_HOME$/code/birdboard/database/migrations/2020_04_16_231335_create_activities_table.php" />
       <jump line="40" column="4" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="12" column="4" filename="$USER_HOME$/code/birdboard/app/Activity.php" />
@@ -340,18 +338,21 @@
       <jump line="61" column="50" filename="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" />
       <jump line="53" column="14" filename="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" />
       <jump line="68" column="54" filename="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" />
+      <jump line="79" column="12" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
+      <jump line="77" column="0" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ICd2YWx1ZSc6ICcnIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>form</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>form</text>
       </register>
       <register name="/" type="4">
-        <text>hello-</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0ic2VsbF9wcmljZSI+7YyQ66ek6rCAOjwvbGFiZWw+Cg==</text>
@@ -397,9 +398,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hello-</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>hello-</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
