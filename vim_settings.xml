@@ -155,6 +155,12 @@
         <mark key="^" line="30" column="46" />
         <mark key="." line="30" column="45" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/home.blade.php" timestamp="1591010401818">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="17" column="25" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_form.scss" timestamp="1590761566643">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -166,8 +172,11 @@
         <mark key="^" line="53" column="54" />
         <mark key="." line="53" column="53" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/nova/resources/js/components.js" timestamp="1590749276943">
-        <mark key="'" line="118" column="31" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1591010585596">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="22" />
+        <mark key="^" line="26" column="22" />
+        <mark key="." line="26" column="21" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/projects/test.blade.php" timestamp="1590752655665">
         <mark key="[" line="7" column="0" />
@@ -216,9 +225,6 @@
         <mark key="]" line="86" column="73" />
         <mark key="." line="86" column="73" />
         <mark key="^" line="86" column="75" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/layouts/footer-links.blade.php" timestamp="1590751498439">
-        <mark key="[" line="40" column="46" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/components/Items.vue" timestamp="1590760504817">
         <mark key="[" line="5" column="63" />
