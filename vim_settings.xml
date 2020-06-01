@@ -210,12 +210,12 @@
         <mark key="^" line="18" column="23" />
         <mark key="o" line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" timestamp="1590966489044">
+      <file name="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" timestamp="1590967303695">
         <mark key="'" line="46" column="87" />
         <mark key="[" line="86" column="73" />
         <mark key="]" line="86" column="73" />
         <mark key="." line="86" column="73" />
-        <mark key="^" line="74" column="45" />
+        <mark key="^" line="86" column="75" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/layouts/footer-links.blade.php" timestamp="1590751498439">
         <mark key="[" line="40" column="46" />
@@ -333,10 +333,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>outline</text>
+        <text>teal</text>
       </register>
       <register name="-" type="4">
-        <text>outline</text>
+        <text>teal</text>
       </register>
       <register name="/" type="4">
         <text>hello-</text>
