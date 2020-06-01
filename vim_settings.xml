@@ -211,12 +211,12 @@
         <mark key="^" line="32" column="24" />
         <mark key="." line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/index.blade.php" timestamp="1590965474215">
+      <file name="$USER_HOME$/code/icanmart/resources/views/projects/index.blade.php" timestamp="1591012746523">
         <mark key="'" line="19" column="39" />
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="18" column="23" />
+        <mark key="[" line="6" column="96" />
+        <mark key="]" line="6" column="96" />
+        <mark key="." line="6" column="96" />
+        <mark key="^" line="6" column="97" />
         <mark key="o" line="18" column="45" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" timestamp="1590967303695">
@@ -231,6 +231,12 @@
         <mark key="]" line="5" column="63" />
         <mark key="^" line="11" column="31" />
         <mark key="." line="5" column="63" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" timestamp="1591013461430">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="29" column="46" />
+        <mark key="." line="64" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -338,11 +344,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>teal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ICd2YWx1ZSc6ICcnIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>teal</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>hello-</text>
@@ -351,7 +357,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0ic2VsbF9wcmljZSI+7YyQ66ek6rCAOjwvbGFiZWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL2ljYW5tYXJ0LmNvLmtyL2JveGVzL2NyZWF0ZSI+bmV3IGJveDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ICd2YWx1ZSc6ICcnIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -361,28 +367,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9IiIgQGNsaWNrLnByZXZlbnQ9IiRtb2RhbC5zaG93KCduZXctcHJvamVjdCcpIj5zaG93IG1vZGFsPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCdjYWxsZWQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dmFsdWU6Jyd9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL2ljYW5tYXJ0LmNvLmtyL2JveGVzL2NyZWF0ZSI+bmV3IGJveDwvYT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxhIGhyZWY9IiIgQGNsaWNrLnByZXZlbnQ9IiRtb2RhbC5zaG93KCduZXctcHJvamVjdCcpIj5zaG93IG1vZGFsPC9hPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dmFsdWU6Jyd9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxtb2RhbCBuYW1lPSJuZXctcHJvamVjdCIK</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogYmxhY2s7Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIDxtb2RhbCBuYW1lPSJuZXctcHJvamVjdCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC90ZXh0YXJlYT4K</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogYmxhY2s7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
