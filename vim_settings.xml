@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>acti</entry>
         <entry encoding="base64">XDwwXD4=</entry>
         <entry>auto</entry>
         <entry>}</entry>
@@ -27,6 +26,7 @@
         <entry>text-</entry>
         <entry>muted</entry>
         <entry>button</entry>
+        <entry>task</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -130,11 +130,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1591279157851">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="40" column="45" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/code/birdboard/app/Http/Controllers/ProjectController.php" timestamp="1591282105921">
+        <mark key="[" line="42" column="11" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="38" />
+        <mark key="^" line="45" column="39" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/components/Search.vue" timestamp="1591273948803">
         <mark key="'" line="55" column="0" />
@@ -153,20 +153,15 @@
         <mark key="]" line="97" column="17" />
         <mark key="." line="97" column="17" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/views/projects/index.blade.php" timestamp="1591185457895">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2020_05_05_213425_create_project_activities_table.php" timestamp="1591188730403">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="52" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1591280198553">
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1591282772524">
         <mark key="'" line="83" column="23" />
-        <mark key="[" line="84" column="45" />
-        <mark key="]" line="84" column="45" />
-        <mark key="." line="84" column="45" />
+        <mark key="[" line="84" column="12" />
+        <mark key="]" line="84" column="12" />
+        <mark key="." line="84" column="12" />
         <mark key="^" line="91" column="4" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2020_06_03_213924_drop_project_activities_table.php" timestamp="1591188138562">
@@ -194,23 +189,32 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1591191541170">
-        <mark key="e" line="94" column="59" />
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="99" column="16" />
-        <mark key="^" line="97" column="61" />
-        <mark key="." line="99" column="16" />
+      <file name="$USER_HOME$/code/icanmart/app/Project.php" timestamp="1591282696185">
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="50" />
+        <mark key="^" line="49" column="50" />
+        <mark key="." line="49" column="49" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/projects/index.blade.php" timestamp="1591185455423">
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="5" column="47" />
-        <mark key="." line="5" column="47" />
+      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1591281183873">
+        <mark key="e" line="94" column="59" />
+        <mark key="'" line="40" column="48" />
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="45" />
+        <mark key="m" line="92" column="0" />
+        <mark key="^" line="79" column="30" />
+        <mark key="." line="40" column="45" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/items/search.blade.php" timestamp="1591266772458">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/birdboard/app/Project.php" timestamp="1591281826267">
+        <mark key="[" line="42" column="31" />
+        <mark key="]" line="42" column="50" />
+        <mark key="^" line="42" column="50" />
+        <mark key="." line="42" column="49" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/RecordsActivity.php" timestamp="1591187361129">
         <mark key="[" line="67" column="32" />
@@ -225,25 +229,14 @@
         <mark key="^" line="57" column="32" />
         <mark key="." line="57" column="31" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1591280211213">
-        <mark key="[" line="40" column="40" />
-        <mark key="]" line="40" column="45" />
-        <mark key="^" line="40" column="45" />
-        <mark key="." line="40" column="44" />
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1591282651093">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="42" />
+        <mark key="^" line="39" column="43" />
+        <mark key="." line="39" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="28" filename="$USER_HOME$/code/birdboard/app/Task.php" />
-      <jump line="9" column="3" filename="$USER_HOME$/code/birdboard/app/Task.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/birdboard/app/Task.php" />
-      <jump line="70" column="59" filename="$USER_HOME$/code/birdboard/app/Task.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/code/birdboard/app/Task.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/birdboard/app/Task.php" />
-      <jump line="39" column="4" filename="$USER_HOME$/code/birdboard/app/Project.php" />
-      <jump line="69" column="58" filename="$USER_HOME$/code/birdboard/app/Task.php" />
-      <jump line="54" column="20" filename="$USER_HOME$/code/birdboard/app/Task.php" />
-      <jump line="31" column="0" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
       <jump line="19" column="44" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
       <jump line="36" column="4" filename="$USER_HOME$/code/birdboard/app/Task.php" />
       <jump line="16" column="11" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
@@ -333,24 +326,35 @@
       <jump line="53" column="22" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
       <jump line="57" column="31" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
       <jump line="83" column="23" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
+      <jump line="12" column="34" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="22" column="24" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="25" column="16" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="87" column="0" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="31" column="24" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="74" column="19" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="78" column="20" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="89" column="42" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="40" column="48" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text encoding="base64">J3Rhc2syJyA9PiA=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">J3Rhc2syJyA9PiA=</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>task</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZGF5ID0gbW9tZW50KHRvZGF5KS5mb3JtYXQoJ0xMTEwnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPjwvdGV4dGFyZWE+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHYtaWY9ImVycm9ycy5kZXNjcmlwdGlvbiIgdi10ZXh0PSJlcnJvcnMuZGVzY3JpcHRpb25bMF0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RkKFByb2plY3Q6OmZpcnN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -360,28 +364,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWyd0YXNrMicgPT4gJ3Rhc2syIGJvZHknXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaChyZXF1ZXN0KCd0YXNrcycpIGFzICR0YXNrKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWydib2R5JyA9PiAndGFzazEgYm9keSddLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+YWRkVGFzaygkdGFza3MpOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy99Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9mb3JlYWNoICggcmVxdWVzdCgndGFza3MnKSBhcyAkdGFzayl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAvL2RkKFByb2plY3Q6OmZpcnN0KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoICRwcm9qZWN0LT50YXNrcyBhcyAkdGFzaykgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWyd0YXNrMicgPT4gJ3Rhc2syIGJvZHknXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFza3MgPSAkcHJvamVjdC0+dGFza3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWydib2R5JyA9PiAndGFzazEgYm9keSddLAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -390,9 +394,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>button</last-search>
+      <last-search>task</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>task</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
