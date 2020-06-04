@@ -162,8 +162,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="52" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1591278162702">
-        <mark key="[" line="74" column="5" />
+      <file name="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" timestamp="1591280198553">
+        <mark key="'" line="83" column="23" />
+        <mark key="[" line="84" column="45" />
+        <mark key="]" line="84" column="45" />
+        <mark key="." line="84" column="45" />
+        <mark key="^" line="91" column="4" />
       </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2020_06_03_213924_drop_project_activities_table.php" timestamp="1591188138562">
         <mark key="[" line="15" column="22" />
@@ -221,9 +225,14 @@
         <mark key="^" line="57" column="32" />
         <mark key="." line="57" column="31" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ProjectController.php" timestamp="1591280211213">
+        <mark key="[" line="40" column="40" />
+        <mark key="]" line="40" column="45" />
+        <mark key="^" line="40" column="45" />
+        <mark key="." line="40" column="44" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="25" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="43" column="28" filename="$USER_HOME$/code/birdboard/app/Task.php" />
       <jump line="9" column="3" filename="$USER_HOME$/code/birdboard/app/Task.php" />
       <jump line="38" column="0" filename="$USER_HOME$/code/birdboard/app/Task.php" />
@@ -323,15 +332,16 @@
       <jump line="42" column="34" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
       <jump line="53" column="22" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
       <jump line="57" column="31" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
+      <jump line="83" column="23" filename="$USER_HOME$/code/icanmart/tests/Feature/ManageProjectTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+YWRkVGFzaygkdGFza3MpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>task</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -340,7 +350,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZGF5ID0gbW9tZW50KHRvZGF5KS5mb3JtYXQoJ0xMTEwnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+YWRkVGFzaygkdGFza3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2RkKFByb2plY3Q6OmZpcnN0KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,28 +360,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWyd0YXNrMicgPT4gJ3Rhc2syIGJvZHknXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWydib2R5JyA9PiAndGFzazEgYm9keSddLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+YWRkVGFzaygkdGFza3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoICRwcm9qZWN0LT50YXNrcyBhcyAkdGFzaykgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFza3MgPSAkcHJvamVjdC0+dGFza3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoICRwcm9qZWN0LT50YXNrcyBhcyAkdGFzaykgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGl0ZW0ubmFtZSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGFza3MgPSAkcHJvamVjdC0+dGFza3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
