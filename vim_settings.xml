@@ -17,7 +17,6 @@
         <entry>theme</entry>
         <entry>theme:</entry>
         <entry>plugins</entry>
-        <entry>button</entry>
         <entry>modal</entry>
         <entry>Title</entry>
         <entry>Add</entry>
@@ -27,6 +26,7 @@
         <entry>title</entry>
         <entry>text-</entry>
         <entry>muted</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -202,18 +202,15 @@
         <mark key="." line="67" column="46" />
         <mark key="^" line="67" column="47" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" timestamp="1591191831109">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="94" column="33" />
-        <mark key="]" line="94" column="33" />
-        <mark key="^" line="95" column="23" />
-        <mark key="." line="94" column="33" />
+      <file name="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" timestamp="1591277258394">
+        <mark key="'" line="57" column="31" />
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="57" column="32" />
+        <mark key="^" line="57" column="32" />
+        <mark key="." line="57" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="26" filename="$USER_HOME$/code/birdboard/app/Project.php" />
-      <jump line="43" column="4" filename="$USER_HOME$/code/birdboard/app/Project.php" />
-      <jump line="48" column="41" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="41" column="25" filename="$USER_HOME$/code/birdboard/app/Project.php" />
       <jump line="43" column="28" filename="$USER_HOME$/code/birdboard/app/Task.php" />
       <jump line="9" column="3" filename="$USER_HOME$/code/birdboard/app/Task.php" />
@@ -309,8 +306,11 @@
       <jump line="77" column="0" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
       <jump line="6" column="0" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
       <jump line="21" column="14" filename="$USER_HOME$/code/birdboard/resources/sass/_variables.scss" />
-      <jump line="13" column="14" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
       <jump line="83" column="0" filename="$USER_HOME$/code/birdboard/app/RecordsActivity.php" />
+      <jump line="13" column="50" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
+      <jump line="42" column="34" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
+      <jump line="53" column="22" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
+      <jump line="57" column="31" filename="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +322,7 @@
         <text>style=&quot;min-width: 100vw&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>muted</text>
+        <text>button</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRvZGF5ID0gbW9tZW50KHRvZGF5KS5mb3JtYXQoJ0xMTEwnKTsK</text>
@@ -368,9 +368,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>muted</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern>muted</last-pattern>
+      <last-pattern>button</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
