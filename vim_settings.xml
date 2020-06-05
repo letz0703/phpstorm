@@ -191,14 +191,15 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="25" column="33" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/boxes/create.blade.php" timestamp="1591351457175">
+        <mark key="[" line="44" column="98" />
+        <mark key="]" line="38" column="98" />
+        <mark key="." line="38" column="97" />
+        <mark key="^" line="38" column="98" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/database/migrations/2020_05_05_213425_create_project_activities_table.php" timestamp="1591188730403">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="52" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/database/migrations/2020_06_03_213924_drop_project_activities_table.php" timestamp="1591188138562">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Task.php" timestamp="1591192260414">
         <mark key="[" line="37" column="15" />
@@ -343,10 +344,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>checked</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>checked</text>
       </register>
       <register name="/" type="4">
         <text>task</text>
