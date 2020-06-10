@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>modal</entry>
-        <entry>Title</entry>
         <entry>items</entry>
         <entry>cancel</entry>
         <entry>hello-</entry>
@@ -27,6 +25,8 @@
         <entry>outline</entry>
         <entry>out</entry>
         <entry>Add</entry>
+        <entry>gray</entry>
+        <entry>grey</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -125,20 +125,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/icanmart/resources/views/admin/sellers/index.blade.php" timestamp="1591363543548">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="30" />
-        <mark key="^" line="10" column="51" />
-        <mark key="." line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1591708386508">
-        <mark key="'" line="10" column="9" />
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="10" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" timestamp="1591788561592">
+        <mark key="'" line="13" column="22" />
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/components/Item.vue" timestamp="1591710510793">
         <mark key="[" line="11" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/layouts/app.blade.php" timestamp="1591788764715">
+        <mark key="[" line="97" column="38" />
+        <mark key="]" line="97" column="38" />
+        <mark key="." line="97" column="38" />
       </file>
       <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/BoxController.php" timestamp="1591705387116">
         <mark key="[" line="98" column="23" />
@@ -155,14 +155,14 @@
         <mark key="^" line="79" column="30" />
         <mark key="." line="40" column="45" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/admin/layouts/app.blade.php" timestamp="1591363257764">
-        <mark key="[" line="12" column="45" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_form.scss" timestamp="1591361766775">
-        <mark key="[" line="6" column="76" />
-      </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/components/NewItem.vue" timestamp="1591710869924">
         <mark key="[" line="192" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1591788663855">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="33" />
+        <mark key="^" line="39" column="47" />
+        <mark key="." line="28" column="33" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/pages/Box.vue" timestamp="1591708936249">
         <mark key="[" line="49" column="13" />
@@ -170,11 +170,17 @@
         <mark key="^" line="49" column="12" />
         <mark key="." line="49" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591569369756">
+      <file name="/Dummy.txt" timestamp="1591788327430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1591705532129">
         <mark key="'" line="27" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/pages/_home.scss" timestamp="1591788534543">
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="42" />
+        <mark key="." line="34" column="41" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/BoxManageTest.php" timestamp="1591705432332">
         <mark key="[" line="129" column="15" />
@@ -182,15 +188,11 @@
         <mark key="." line="129" column="23" />
         <mark key="^" line="129" column="24" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/js/components/Search.vue" timestamp="1591361847272">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="5" column="44" />
-        <mark key="^" line="25" column="33" />
-      </file>
       <file name="$USER_HOME$/code/icanmart/app/Http/Controllers/ItemController.php" timestamp="1591705616785">
         <mark key="[" line="44" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/components/_card.scss" timestamp="1591786945130">
+        <mark key="'" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" timestamp="1591709916386">
         <mark key="'" line="73" column="73" />
@@ -198,18 +200,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/manage.blade.php" timestamp="1591364401321">
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="8" column="66" />
-        <mark key="." line="8" column="66" />
-        <mark key="^" line="8" column="47" />
-      </file>
       <file name="$USER_HOME$/code/icanmart/app/Providers/AppServiceProvider.php" timestamp="1591368831494">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="39" column="56" />
         <mark key="." line="39" column="56" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1591707828546">
+      <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1591788057859">
         <mark key="[" line="38" column="14" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -220,11 +216,14 @@
         <mark key="]" line="3" column="48" />
         <mark key="." line="3" column="48" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/abstracts/_variables.scss" timestamp="1591788500138">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="13" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="23" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/code/icanmart/app/Providers/AppServiceProvider.php" />
-      <jump line="61" column="27" filename="$USER_HOME$/code/icanmart/tests/Unit/ActivityTest.php" />
-      <jump line="1" column="29" filename="$USER_HOME$/code/icanmart/resources/views/projects/activity/updated_project.blade.php" />
       <jump line="66" column="12" filename="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" />
       <jump line="12" column="41" filename="$USER_HOME$/code/icanmart/resources/sass/abstracts/_variables.scss" />
       <jump line="40" column="20" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
@@ -322,24 +321,27 @@
       <jump line="41" column="0" filename="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" />
       <jump line="11" column="9" filename="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" />
       <jump line="10" column="9" filename="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/icanmart/resources/sass/components/_card.scss" />
+      <jump line="6" column="18" filename="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" />
+      <jump line="13" column="22" filename="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>text-left</text>
+        <text>auto</text>
       </register>
       <register name="-" type="4">
-        <text>text-left</text>
+        <text>auto</text>
       </register>
       <register name="/" type="4">
-        <text>Add</text>
+        <text>grey</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPjwvdGV4dGFyZWE+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHYtaWY9ImVycm9ycy5kZXNjcmlwdGlvbiIgdi10ZXh0PSJlcnJvcnMuZGVzY3JpcHRpb25bMF0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOygnOuqqeyImOyglQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOuPmeyghO2MjOyKpCBiYWNrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,28 +351,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA+eDwvYnV0dG9uPi0tfX0K</text>
+        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDJyZW07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBjbGljay5wcmV2ZW50PSIkbW9kYWwuaGlkZSgnZWRpdC1ib3gtdGl0bGUnKSItLX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOuPmeyghO2MjOyKpAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidXR0b24gbXItNCB0ZXh0LWJsdWUtNTAwIGJvcmRlciByb3VuZGVkLWxnIHNoYWRvdyItLX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOygnOuqqeyImOyglQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBAY2xpY2sucHJldmVudD0iZWRpdFRpdGxlIj5jaGFuZ2U8L2J1dHRvbj4tLX19Cg==</text>
+        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA+eDwvYnV0dG9uPi0tfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBjbGljay5wcmV2ZW50PSIkbW9kYWwuaGlkZSgnZWRpdC1ib3gtdGl0bGUnKSItLX19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmxleCBwLTEwIj4K</text>
+        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidXR0b24gbXItNCB0ZXh0LWJsdWUtNTAwIGJvcmRlciByb3VuZGVkLWxnIHNoYWRvdyItLX19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9ImJveC1zaGFkb3c6MCAxcHggMnB4IDAgI2IwZWFmZjtib3JkZXItY29sb3I6I2IwZWFmZjsiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBAY2xpY2sucHJldmVudD0iZWRpdFRpdGxlIj5jaGFuZ2U8L2J1dHRvbj4tLX19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -379,9 +381,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Add</last-search>
+      <last-search>grey</last-search>
       <last-offset />
-      <last-pattern>Add</last-pattern>
+      <last-pattern>grey</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
