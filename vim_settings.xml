@@ -158,11 +158,12 @@
       <file name="$USER_HOME$/code/icanmart/resources/js/components/NewItem.vue" timestamp="1591710869924">
         <mark key="[" line="192" column="37" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1591788663855">
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="33" />
-        <mark key="^" line="39" column="47" />
-        <mark key="." line="28" column="33" />
+      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1591795525423">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="88" column="66" />
+        <mark key="]" line="88" column="84" />
+        <mark key="^" line="88" column="84" />
+        <mark key="." line="88" column="83" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/pages/Box.vue" timestamp="1591708936249">
         <mark key="[" line="49" column="13" />
@@ -176,11 +177,11 @@
       <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1591705532129">
         <mark key="'" line="27" column="2" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/pages/_home.scss" timestamp="1591788534543">
-        <mark key="[" line="34" column="38" />
-        <mark key="]" line="34" column="42" />
-        <mark key="^" line="34" column="42" />
-        <mark key="." line="34" column="41" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/pages/_home.scss" timestamp="1591792937332">
+        <mark key="[" line="64" column="36" />
+        <mark key="]" line="65" column="27" />
+        <mark key="^" line="65" column="27" />
+        <mark key="." line="65" column="26" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/BoxManageTest.php" timestamp="1591705432332">
         <mark key="[" line="129" column="15" />
@@ -224,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="12" filename="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" />
-      <jump line="12" column="41" filename="$USER_HOME$/code/icanmart/resources/sass/abstracts/_variables.scss" />
       <jump line="40" column="20" filename="$USER_HOME$/code/birdboard/tests/Feature/ManageProjectsTest.php" />
       <jump line="31" column="4" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
       <jump line="34" column="8" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
@@ -324,15 +323,17 @@
       <jump line="18" column="0" filename="$USER_HOME$/code/icanmart/resources/sass/components/_card.scss" />
       <jump line="6" column="18" filename="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" />
       <jump line="13" column="22" filename="$USER_HOME$/code/icanmart/resources/sass/components/_buttons.scss" />
+      <jump line="35" column="77" filename="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>auto</text>
+        <text>한알이면 끝</text>
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>한알이면 끝</text>
       </register>
       <register name="/" type="4">
         <text>grey</text>
@@ -341,7 +342,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPjwvdGV4dGFyZWE+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHYtaWY9ImVycm9ycy5kZXNjcmlwdGlvbiIgdi10ZXh0PSJlcnJvcnMuZGVzY3JpcHRpb25bMF0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOuPmeyghO2MjOyKpCBiYWNrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDsnoXslYjsnbQg7IKw65y7IX4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,28 +352,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDJyZW07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA1NuunpCgxMDDsm5Ag7YGs6riwKSwgNzjrp6QoNTAw7JuQIO2BrOq4sCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOuPmeyghO2MjOyKpAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOygnOuqqeyImOyglQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA+eDwvYnV0dG9uPi0tfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IiI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBjbGljay5wcmV2ZW50PSIkbW9kYWwuaGlkZSgnZWRpdC1ib3gtdGl0bGUnKSItLX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMT7rj5nsoJXtjIzsiqQ8L2gxPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidXR0b24gbXItNCB0ZXh0LWJsdWUtNTAwIGJvcmRlciByb3VuZGVkLWxnIHNoYWRvdyItLX19Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IDxvbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+64+Z7KCE7YyM7IqkPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+7IOk66Gg7YyM7IqkIDE0MOunpDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPuy6rOuyoOynhCAzMDDsoJU8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT5FVkUgUXVpY2s8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT7smKTtg4DsnbTsgrA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9vbD4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBAY2xpY2sucHJldmVudD0iZWRpdFRpdGxlIj5jaGFuZ2U8L2J1dHRvbj4tLX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOuPmeyghO2MjOyKpCBiYWNrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDJyZW07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
