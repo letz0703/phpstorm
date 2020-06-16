@@ -177,11 +177,11 @@
       <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1591705532129">
         <mark key="'" line="27" column="2" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/pages/_home.scss" timestamp="1592261998328">
-        <mark key="[" line="160" column="32" />
-        <mark key="]" line="160" column="36" />
-        <mark key="." line="160" column="32" />
-        <mark key="^" line="160" column="36" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/pages/_home.scss" timestamp="1592301828438">
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="55" column="18" />
+        <mark key="." line="55" column="17" />
+        <mark key="^" line="55" column="18" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/BoxManageTest.php" timestamp="1591705432332">
         <mark key="[" line="129" column="15" />
@@ -329,13 +329,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>bl
-bl
-bl</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>me</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>grey</text>
