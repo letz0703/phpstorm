@@ -158,7 +158,7 @@
       <file name="$USER_HOME$/code/icanmart/resources/js/components/NewItem.vue" timestamp="1591710869924">
         <mark key="[" line="192" column="37" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1592261352019">
+      <file name="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" timestamp="1592302575194">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="94" column="45" />
         <mark key="]" line="94" column="45" />
@@ -177,11 +177,11 @@
       <file name="$USER_HOME$/code/icanmart/routes/web.php" timestamp="1591705532129">
         <mark key="'" line="27" column="2" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/sass/pages/_home.scss" timestamp="1592301828438">
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="55" column="18" />
-        <mark key="." line="55" column="17" />
-        <mark key="^" line="55" column="18" />
+      <file name="$USER_HOME$/code/icanmart/resources/sass/pages/_home.scss" timestamp="1592302518794">
+        <mark key="[" line="83" column="31" />
+        <mark key="]" line="83" column="35" />
+        <mark key="." line="83" column="31" />
+        <mark key="^" line="83" column="35" />
       </file>
       <file name="$USER_HOME$/code/icanmart/tests/Feature/BoxManageTest.php" timestamp="1591705432332">
         <mark key="[" line="129" column="15" />
@@ -195,16 +195,16 @@
       <file name="$USER_HOME$/code/icanmart/resources/sass/components/_card.scss" timestamp="1591786945130">
         <mark key="'" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/code/icanmart/resources/sass/layout/_grid.scss" timestamp="1592302672671">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/code/icanmart/resources/views/boxes/show.blade.php" timestamp="1591709916386">
         <mark key="'" line="73" column="73" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/icanmart/app/Providers/AppServiceProvider.php" timestamp="1591368831494">
-        <mark key="[" line="39" column="53" />
-        <mark key="]" line="39" column="56" />
-        <mark key="." line="39" column="56" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/app.scss" timestamp="1591788057859">
         <mark key="[" line="38" column="14" />
@@ -330,10 +330,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>grey</text>
@@ -342,9 +342,8 @@
         <text encoding="base64">JHRoZW1lLWJsdWUtLWxpZ2h0OiAjNzhDNWVmIDsK</text>
       </register>
       <register name="1" type="8">
-        <text>bl
-bl
-bl</text>
+        <text>second
+second</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -354,34 +353,35 @@ bl</text>
         </keys>
       </register>
       <register name="2" type="8">
+        <text>te
+te</text>
+      </register>
+      <register name="3" type="8">
+        <text>bl
+bl
+bl</text>
+      </register>
+      <register name="4" type="8">
         <text>ter
 ter
 ter</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">JGNvbG9yLWJsdWUtLWxpZ2h0OiAjNzhDNWVmIDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">JGNvbG9yLWJsdWU6cmdiYSgwLCAxOTgsIDI0NSwgMS4wKTsK</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>terti
 terti</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>e
 e</text>
-      </register>
-      <register name="8" type="8">
-        <text>blu
-blu</text>
-      </register>
-      <register name="9" type="8">
-        <text>blu
-blu</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
