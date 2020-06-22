@@ -146,20 +146,20 @@
         <mark key="]" line="97" column="38" />
         <mark key="." line="97" column="38" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1592817507479">
-        <mark key="e" line="98" column="59" />
-        <mark key="'" line="40" column="48" />
-        <mark key="[" line="96" column="23" />
-        <mark key="]" line="95" column="45" />
-        <mark key="m" line="94" column="0" />
-        <mark key="^" line="96" column="22" />
-        <mark key="." line="95" column="45" />
+      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1592832613651">
+        <mark key="e" line="104" column="59" />
+        <mark key="'" line="79" column="8" />
+        <mark key="[" line="79" column="33" />
+        <mark key="m" line="100" column="0" />
+        <mark key="]" line="79" column="33" />
+        <mark key="." line="79" column="33" />
+        <mark key="^" line="79" column="40" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/js/components/BirdboardForm.js" timestamp="1592829783850">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="27" column="40" />
-        <mark key="^" line="27" column="40" />
-        <mark key="." line="27" column="39" />
+      <file name="$USER_HOME$/code/birdboard/resources/js/components/BirdboardForm.js" timestamp="1592831632977">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="30" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/components/NewItem.vue" timestamp="1591710869924">
         <mark key="[" line="192" column="37" />
@@ -231,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
-      <jump line="34" column="8" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
       <jump line="33" column="8" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
       <jump line="40" column="8" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
       <jump line="27" column="7" filename="$USER_HOME$/code/birdboard/tests/Unit/TriggerActivityTest.php" />
@@ -302,7 +300,6 @@
       <jump line="87" column="0" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
       <jump line="31" column="24" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
       <jump line="74" column="19" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
-      <jump line="78" column="20" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
       <jump line="89" column="42" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
       <jump line="40" column="48" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
       <jump line="4" column="53" filename="$USER_HOME$/code/icanmart/resources/views/boxes/create.blade.php" />
@@ -331,15 +328,18 @@
       <jump line="35" column="77" filename="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/icanmart/resources/views/welcome/202004.blade.php" />
       <jump line="8" column="4" filename="$USER_HOME$/code/icanmart/resources/sass/abstracts/_variables.scss" />
+      <jump line="78" column="8" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="73" column="8" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="79" column="8" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>no tasks yet</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>no tasks yet</text>
       </register>
       <register name="/" type="4">
         <text>grey</text>
@@ -347,9 +347,8 @@
       <register name="0" type="2">
         <text encoding="base64">JHRoZW1lLWJsdWUtLWxpZ2h0OiAjNzhDNWVmIDsK</text>
       </register>
-      <register name="1" type="8">
-        <text>bl
-bl</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLm9yaWdpbmFsRGF0YSA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoZGF0YSkpOyAvL2RlZXAgbWVyZ2UK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,39 +357,34 @@ bl</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRoaXMub3JpZ2luYWxEYXRhID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShkYXRhKSk7IC8vZGVlcCBtZXJnZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yczoge30sCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9wczogWycnXSwK</text>
+      </register>
+      <register name="6" type="8">
+        <text>bl
+bl</text>
+      </register>
+      <register name="7" type="8">
         <text>blu
 blu</text>
       </register>
-      <register name="3" type="8">
+      <register name="8" type="8">
         <text>blu
 blu</text>
       </register>
-      <register name="4" type="8">
+      <register name="9" type="8">
         <text>primary
 primary
 primary</text>
-      </register>
-      <register name="5" type="8">
-        <text>second
-second</text>
-      </register>
-      <register name="6" type="8">
-        <text>te
-te</text>
-      </register>
-      <register name="7" type="8">
-        <text>bl
-bl
-bl</text>
-      </register>
-      <register name="8" type="8">
-        <text>ter
-ter
-ter</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
