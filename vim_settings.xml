@@ -146,17 +146,17 @@
         <mark key="]" line="97" column="38" />
         <mark key="." line="97" column="38" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1592482374417">
-        <mark key="e" line="97" column="59" />
+      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1592817507479">
+        <mark key="e" line="98" column="59" />
         <mark key="'" line="40" column="48" />
-        <mark key="[" line="77" column="35" />
-        <mark key="]" line="77" column="36" />
+        <mark key="[" line="96" column="23" />
+        <mark key="]" line="95" column="45" />
         <mark key="m" line="94" column="0" />
-        <mark key="^" line="70" column="21" />
-        <mark key="." line="77" column="36" />
+        <mark key="^" line="96" column="22" />
+        <mark key="." line="95" column="45" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/js/components/BirdboardForm.js" timestamp="1592485980644">
-        <mark key="[" line="5" column="61" />
+      <file name="$USER_HOME$/code/birdboard/resources/js/components/BirdboardForm.js" timestamp="1592817623145">
+        <mark key="[" line="25" column="7" />
         <mark key="]" line="4" column="64" />
         <mark key="^" line="4" column="64" />
         <mark key="." line="4" column="63" />
@@ -336,10 +336,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>grey</text>
