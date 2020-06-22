@@ -146,14 +146,14 @@
         <mark key="]" line="97" column="38" />
         <mark key="." line="97" column="38" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1592832613651">
-        <mark key="e" line="104" column="59" />
+      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1592866359632">
+        <mark key="e" line="102" column="59" />
         <mark key="'" line="79" column="8" />
         <mark key="[" line="79" column="33" />
-        <mark key="m" line="100" column="0" />
+        <mark key="m" line="98" column="0" />
         <mark key="]" line="79" column="33" />
         <mark key="." line="79" column="33" />
-        <mark key="^" line="79" column="40" />
+        <mark key="^" line="13" column="45" />
       </file>
       <file name="$USER_HOME$/code/birdboard/resources/js/components/BirdboardForm.js" timestamp="1592831632977">
         <mark key="[" line="27" column="48" />
@@ -336,10 +336,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>no tasks yet</text>
+        <text>make it simple!!!</text>
       </register>
       <register name="-" type="4">
-        <text>no tasks yet</text>
+        <text>make it simple!!!</text>
       </register>
       <register name="/" type="4">
         <text>grey</text>
@@ -348,7 +348,7 @@
         <text encoding="base64">JHRoZW1lLWJsdWUtLWxpZ2h0OiAjNzhDNWVmIDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9yaWdpbmFsRGF0YSA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoZGF0YSkpOyAvL2RlZXAgbWVyZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yczoge30K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,33 +358,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3JpZ2luYWxEYXRhID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShkYXRhKSk7IC8vZGVlcCBtZXJnZQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9yaWdpbmFsRGF0YSA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoZGF0YSkpOyAvL2RlZXAgbWVyZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yczoge30sCg==</text>
+        <text encoding="base64">ICAgIHRoaXMub3JpZ2luYWxEYXRhID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShkYXRhKSk7IC8vZGVlcCBtZXJnZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yczoge30sCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcm9wczogWycnXSwK</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>bl
 bl</text>
-      </register>
-      <register name="7" type="8">
-        <text>blu
-blu</text>
       </register>
       <register name="8" type="8">
         <text>blu
 blu</text>
       </register>
       <register name="9" type="8">
-        <text>primary
-primary
-primary</text>
+        <text>blu
+blu</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
