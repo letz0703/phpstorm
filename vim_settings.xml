@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>items</entry>
         <entry>cancel</entry>
         <entry>hello-</entry>
         <entry>title</entry>
@@ -27,6 +26,7 @@
         <entry>Add</entry>
         <entry>gray</entry>
         <entry>grey</entry>
+        <entry>async</entry>
       </history-search>
       <history-cmd>
         <entry>vp</entry>
@@ -146,20 +146,20 @@
         <mark key="]" line="97" column="38" />
         <mark key="." line="97" column="38" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1592866359632">
-        <mark key="e" line="102" column="59" />
-        <mark key="'" line="79" column="8" />
-        <mark key="[" line="79" column="33" />
+      <file name="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" timestamp="1592904582385">
+        <mark key="e" line="103" column="59" />
+        <mark key="'" line="79" column="46" />
+        <mark key="[" line="100" column="67" />
         <mark key="m" line="98" column="0" />
-        <mark key="]" line="79" column="33" />
-        <mark key="." line="79" column="33" />
-        <mark key="^" line="13" column="45" />
+        <mark key="]" line="79" column="47" />
+        <mark key="." line="79" column="46" />
+        <mark key="^" line="79" column="47" />
       </file>
-      <file name="$USER_HOME$/code/birdboard/resources/js/components/BirdboardForm.js" timestamp="1592831632977">
-        <mark key="[" line="27" column="48" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="30" />
+      <file name="$USER_HOME$/code/birdboard/resources/js/components/BirdboardForm.js" timestamp="1592905204803">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="38" />
+        <mark key="^" line="32" column="38" />
+        <mark key="." line="32" column="37" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/components/NewItem.vue" timestamp="1591710869924">
         <mark key="[" line="192" column="37" />
@@ -330,19 +330,19 @@
       <jump line="8" column="4" filename="$USER_HOME$/code/icanmart/resources/sass/abstracts/_variables.scss" />
       <jump line="78" column="8" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
       <jump line="73" column="8" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
-      <jump line="79" column="8" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
+      <jump line="79" column="46" filename="$USER_HOME$/code/birdboard/resources/js/components/NewProjectModal.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>make it simple!!!</text>
+        <text>patch</text>
       </register>
       <register name="-" type="4">
-        <text>make it simple!!!</text>
+        <text>patch</text>
       </register>
       <register name="/" type="4">
-        <text>grey</text>
+        <text>async</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JHRoZW1lLWJsdWUtLWxpZ2h0OiAjNzhDNWVmIDsK</text>
@@ -391,9 +391,9 @@ blu</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>grey</last-search>
+      <last-search>async</last-search>
       <last-offset />
-      <last-pattern>grey</last-pattern>
+      <last-pattern>async</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
