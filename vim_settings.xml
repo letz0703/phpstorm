@@ -220,12 +220,12 @@
         <mark key="]" line="3" column="48" />
         <mark key="." line="3" column="48" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" timestamp="1593092140075">
+      <file name="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" timestamp="1593093111716">
         <mark key="'" line="39" column="18" />
-        <mark key="[" line="93" column="13" />
-        <mark key="]" line="94" column="12" />
-        <mark key="." line="94" column="11" />
-        <mark key="^" line="94" column="12" />
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="49" />
+        <mark key="." line="39" column="48" />
+        <mark key="^" line="39" column="49" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/abstracts/_variables.scss" timestamp="1592304209697">
         <mark key="[" line="27" column="7" />
@@ -340,10 +340,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>blue</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>blue</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
