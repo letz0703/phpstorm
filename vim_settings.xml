@@ -161,11 +161,12 @@
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/js/components/BirdboardForm.js" timestamp="1593177505829">
+      <file name="$USER_HOME$/code/icanmart/resources/js/components/BirdboardForm.js" timestamp="1593251114437">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="5" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/js/components/NewItem.vue" timestamp="1591710869924">
         <mark key="[" line="192" column="37" />
@@ -214,12 +215,12 @@
         <mark key="]" line="3" column="48" />
         <mark key="." line="3" column="48" />
       </file>
-      <file name="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" timestamp="1593177323406">
+      <file name="$USER_HOME$/code/icanmart/resources/js/components/NewProjectModal.vue" timestamp="1593251164383">
         <mark key="'" line="39" column="18" />
-        <mark key="[" line="69" column="17" />
-        <mark key="]" line="69" column="17" />
-        <mark key="." line="69" column="16" />
-        <mark key="^" line="69" column="17" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="7" />
       </file>
       <file name="$USER_HOME$/code/icanmart/resources/sass/abstracts/_variables.scss" timestamp="1592304209697">
         <mark key="[" line="27" column="7" />
@@ -334,10 +335,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGF0YSA9IGRhdGE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>orm from './BirdboardForm';</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
@@ -346,7 +347,7 @@
         <text encoding="base64">JHRoZW1lLWJsdWUtLWxpZ2h0OiAjNzhDNWVmIDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGF0YSA9IGRhdGE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -356,30 +357,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yczoge30K</text>
+        <text encoding="base64">ICAgIHByb3BzOiBbJyddLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9yaWdpbmFsRGF0YSA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoZGF0YSkpOyAvL2RlZXAgbWVyZ2UK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QuYXNzaWduKHRoaXMub3JpZ2luYWxEYXRhLCBkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3JpZ2luYWxEYXRhID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShkYXRhKSk7IC8vZGVlcCBtZXJnZQo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QuYXNzaWduKHRoaXMsIGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yczoge30sCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZGF0YSA9IGRhdGE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wczogWycnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yczoge30K</text>
       </register>
-      <register name="8" type="8">
-        <text>bl
-bl</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLm9yaWdpbmFsRGF0YSA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoZGF0YSkpOyAvL2RlZXAgbWVyZ2UK</text>
       </register>
-      <register name="9" type="8">
-        <text>blu
-blu</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRoaXMub3JpZ2luYWxEYXRhID0gSlNPTi5wYXJzZShKU09OLnN0cmluZ2lmeShkYXRhKSk7IC8vZGVlcCBtZXJnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
