@@ -1,0 +1,27 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="endSemiColon">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="59:0">;</typing>
+    </macro>
+    <macro name="BlankSpace">
+      <shortuct text="RIGHT" />
+    </macro>
+    <macro name="BlankSpace3">
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="76:0;65:0">la</typing>
+    </macro>
+    <macro name="end-colon">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="EditorLeft" />
+    </macro>
+    <macro name="ctrl_semicolon">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="59:0">;</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+    </macro>
+  </component>
+</application>
