@@ -1,0 +1,11 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
+  <action id="Macro.endSemicolon">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="ShowProjectStructureSettings" />
+</keymap>
