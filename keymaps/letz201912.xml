@@ -192,12 +192,10 @@
   <action id="Replace" />
   <action id="Rerun" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="ctrl meta t" />
-  </action>
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="RunDashboard.Run">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="SaveAsTemplate">
     <keyboard-shortcut first-keystroke="ctrl meta alt j" />
