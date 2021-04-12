@@ -1,12 +1,14 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="temp" type="HTML" />
-      <mapping pattern="tasks2" type="PHP" />
+      <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="RegistrationTest" type="PHP" />
+      <mapping pattern="demo" type="PHP" />
       <mapping pattern="laracast" type="PHP" />
       <mapping pattern="tasks" type="PHP" />
-      <mapping pattern="demo" type="PHP" />
-      <mapping pattern="RegistrationTest" type="PHP" />
+      <mapping pattern="tasks2" type="PHP" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />

@@ -195,12 +195,10 @@
   <action id="Replace" />
   <action id="Rerun" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="ctrl meta t" />
-  </action>
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="RunDashboard.Run">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="SaveAsTemplate">
     <keyboard-shortcut first-keystroke="ctrl meta alt j" />
@@ -252,6 +250,12 @@
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
   <action id="com.sonnk.iterm.OpenCmd" />
   <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
