@@ -145,6 +145,9 @@
   <action id="Macro.endSemiColon">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
+  <action id="Macro.endSemicolon">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
