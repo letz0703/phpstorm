@@ -141,6 +141,7 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
     <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta back_space" />
   </action>
   <action id="Macro.endSemiColon">
     <keyboard-shortcut first-keystroke="meta semicolon" />
