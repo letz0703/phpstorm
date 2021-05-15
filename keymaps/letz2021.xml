@@ -85,17 +85,6 @@
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="meta right" />
-    <keyboard-shortcut first-keystroke="ctrl e" />
-    <keyboard-shortcut first-keystroke="ctrl a" />
-  </action>
-  <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="meta left" />
-    <keyboard-shortcut first-keystroke="ctrl i" />
-  </action>
   <action id="EditorNextWord" />
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -147,7 +136,6 @@
   <action id="HippieCompletion" />
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.EnterAction" />
-  <action id="ImplementMethods" />
   <action id="Inline">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
