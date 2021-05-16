@@ -12,10 +12,6 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="shift meta i" />
-  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="BaseOnThisFunction" />
@@ -90,11 +86,13 @@
     <keyboard-shortcut first-keystroke="meta right" />
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="shift meta a" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
     <keyboard-shortcut first-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="EditorNextWord" />
   <action id="EditorRight">
@@ -117,11 +115,13 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
@@ -145,6 +145,7 @@
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="HippieCompletion" />
+  <action id="IdeaVim.ReloadVimRc.reload" />
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods">
