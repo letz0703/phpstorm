@@ -5,16 +5,13 @@
         <entry key="app/src/main/res/layout/activity_ato_factivity.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_calculator.xml" value="0.4359375" />
         <entry key="app/src/main/res/layout/activity_guessing_game.xml" value="0.3421875" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4359375" />
         <entry key="app/src/main/res/layout/activity_second.xml" value="0.32760416666666664" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.32760416666666664" />
         <entry key="app/src/main/res/layout/activity_todo.xml" value="0.4359375" />
-        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.32760416666666664" />
-        <entry key="app/src/main/res/layout/fragment_my_dialog.xml" value="0.3026041666666667" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_my_first.xml" value="0.32760416666666664" />
-        <entry key="app/src/main/res/layout/fragment_my_list.xml" value="0.32760416666666664" />
         <entry key="app/src/main/res/layout/fragment_my_second.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.32760416666666664" />
       </map>
     </option>
   </component>
