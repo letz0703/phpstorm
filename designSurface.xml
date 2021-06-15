@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/image_frame.xml" value="0.32666666666666666" />
         <entry key="app/src/main/res/layout/activity_ato_factivity.xml" value="0.42135416666666664" />
         <entry key="app/src/main/res/layout/activity_calculator.xml" value="0.4359375" />
         <entry key="app/src/main/res/layout/activity_countires.xml" value="0.31666666666666665" />
