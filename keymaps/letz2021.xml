@@ -258,6 +258,7 @@
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
