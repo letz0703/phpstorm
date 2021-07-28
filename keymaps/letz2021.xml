@@ -101,6 +101,7 @@
     <keyboard-shortcut first-keystroke="meta right" />
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
