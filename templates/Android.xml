@@ -1,0 +1,12 @@
+<templateSet group="Android">
+  <template name="ld" value="LiveData&lt;$SELECTION$&gt;" description="LiveData" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="launcher" value=" ActivityResultLauncher &lt; Intent &gt; launcher = registerForActivityResult(&#10;        new ActivityResultContracts.StartActivityForResult(),&#10;        new ActivityResultCallback &lt; ActivityResult &gt; () {&#10;            @Override&#10;            public void onActivityResult(ActivityResult result) {&#10;                //                    if (requestCode == 1 &amp;&amp; resultCode == RESULT_OK) {&#10;                if (result.getResultCode() == RESULT_OK) {&#10;                    String title = result.getData().getStringExtra(&quot;noteTitle&quot;);&#10;                    String description = result.getData().getStringExtra(&quot;noteDescription&quot;);&#10;                    //Create an object from Note class&#10;                    Note note = new Note(title, description);&#10;                    //Add this data to the DB&#10;                    noteViewModel.insert(note);&#10;                }&#10;            }&#10;        }&#10;    );" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

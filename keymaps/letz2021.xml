@@ -21,6 +21,7 @@
   <action id="ChangesView.Diff" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.ShelveSilently" />
+  <action id="CheckinProject" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -66,9 +67,17 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="EditorDeleteToLineStart">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
@@ -92,7 +101,7 @@
     <keyboard-shortcut first-keystroke="meta right" />
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="ctrl a" />
-    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
@@ -115,11 +124,6 @@
   </action>
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift meta enter" />
-  </action>
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="ctrl p" />
-    <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoDesktop" />
@@ -160,9 +164,7 @@
   <action id="Inline">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
-  <action id="InsertLiveTemplate">
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
-  </action>
+  <action id="InsertLiveTemplate" />
   <action id="Jdbc.RunSqlScript" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
@@ -256,6 +258,7 @@
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
