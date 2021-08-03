@@ -66,10 +66,6 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
-  <action id="EditorDelete">
-    <keyboard-shortcut first-keystroke="delete" />
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
-  </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="shift ctrl a" />
@@ -164,7 +160,9 @@
   <action id="Inline">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
-  <action id="InsertLiveTemplate" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="Jdbc.RunSqlScript" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
