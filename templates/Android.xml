@@ -16,4 +16,11 @@
       <option name="JSON" value="true" />
     </context>
   </template>
+  <template name="roomdb" value="package com.letz.$NAME2$;&#10;&#10;import android.content.Context;&#10;&#10;import androidx.room.Database;&#10;import androidx.room.Room;&#10;import androidx.room.RoomDatabase;&#10;&#10;@Database(entities = $NAME1$.class, version = 1)&#10;public abstract class $NAME1$Database extends RoomDatabase {&#10;    private static $NAME1$Database instance;&#10;&#10;    public abstract $NAME1$DAO $NAME2$DAO();&#10;&#10;    public static synchronized $NAME1$Database getInstance(Context context) {&#10;        if (instance == null) {&#10;            instance = Room.databaseBuilder(context.getApplicationContext()&#10;                    , $NAME1$Database.class, &quot;$NAME2$_database&quot;)&#10;                    .fallbackToDestructiveMigration()&#10;                    .build();&#10;        }&#10;        return instance;&#10;    }&#10;&#10;}" description="room database" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME2" expression="lowercaseAndDash(NAME1)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
