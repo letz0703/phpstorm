@@ -72,8 +72,8 @@
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="EditorDelete">
-    <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl meta k" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
@@ -262,10 +262,6 @@
   </action>
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
-  </action>
-  <action id="SurroundWithLiveTemplate">
-    <keyboard-shortcut first-keystroke="meta alt j" />
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="alt f3" />
