@@ -379,4 +379,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="launcherAR" value="androidx.activity.result.ActivityResultLauncher&lt;android.content.Intent&gt; launcherAR =&#10;            registerForActivityResult(&#10;                    new androidx.activity.result.contract.ActivityResultContracts.StartActivityForResult(),&#10;                    new androidx.activity.result.ActivityResultCallback&lt;androidx.activity.result.ActivityResult&gt;() {&#10;                        @java.lang.Override&#10;                        public void onActivityResult(androidx.activity.result.ActivityResult result) {&#10;                            if (result.getResultCode() == android.app.Activity.RESULT_OK) {&#10;                                android.widget.Toast.makeText(com.letz.photomemory.MainActivity.this, &quot;Main. backed&quot;, android.widget.Toast.LENGTH_SHORT).show();&#10;                            }&#10;&#10;                        }&#10;                    }&#10;            );" description="launcher activity result" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>

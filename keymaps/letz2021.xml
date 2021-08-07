@@ -1,10 +1,4 @@
 <keymap version="1" name="letz2021" parent="Mac OS X 10.5+">
-  <action id="$Delete">
-    <keyboard-shortcut first-keystroke="delete" />
-    <keyboard-shortcut first-keystroke="back_space" />
-    <keyboard-shortcut first-keystroke="meta back_space" />
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
-  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -58,9 +52,6 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Diff.UpdatedFiles" />
-  <action id="Editor Delete">
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
-  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
@@ -82,6 +73,7 @@
   </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
@@ -287,7 +279,6 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="UsageGrouping.DirectoryStructure" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.Log.ShowAllAffected" />
