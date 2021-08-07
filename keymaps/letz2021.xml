@@ -73,7 +73,6 @@
   </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
@@ -195,6 +194,7 @@
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="NewScratchFile" />
   <action id="NextProjectWindow">
@@ -279,6 +279,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="UsageGrouping.DirectoryStructure" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.Log.ShowAllAffected" />
