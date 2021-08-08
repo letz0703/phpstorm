@@ -27,8 +27,8 @@
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </ScssCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="CLASS_BRACE_STYLE" value="2" />
-    <option name="METHOD_BRACE_STYLE" value="2" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
