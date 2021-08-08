@@ -15,5 +15,6 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="editor.richcopy.strip.indents" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
 </application>
