@@ -16,7 +16,7 @@
         <entry key="ObjectiveC" value="true" />
         <entry key="XHTML" value="true" />
         <entry key="XML" value="true" />
-        <entry key="kotlin" value="false" />
+        <entry key="kotlin" value="true" />
         <entry key="yaml" value="true" />
       </map>
     </option>
