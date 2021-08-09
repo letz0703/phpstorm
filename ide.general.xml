@@ -17,4 +17,11 @@
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="git" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
