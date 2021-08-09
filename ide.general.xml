@@ -20,6 +20,8 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="UserSentimentPanelNegative" value="false" />
+        <entry key="UserSentimentPanelPositive" value="false" />
         <entry key="git" value="false" />
       </map>
     </option>
