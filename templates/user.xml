@@ -384,7 +384,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="launch_sub" value="Intent i =  new Intent();&#10;String userNote = memo.getText().toString();&#10;i.putExtra(&quot;note&quot;,userNote);&#10;setResult(Activity.RESULT_OK,i);&#10;finish();&#10;" description="launcher call back as sub activity" toReformat="true" toShortenFQNames="true">
+  <template name="launcherSub" value="Intent i =  new Intent();&#10;String userNote = memo.getText().toString();&#10;i.putExtra(&quot;note&quot;,userNote);&#10;setResult(Activity.RESULT_OK,i);&#10;finish();&#10;" description="launcher call back as sub activity" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
