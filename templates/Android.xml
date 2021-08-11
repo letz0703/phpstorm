@@ -23,4 +23,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="Toast" value="android.widget.Toast.makeText($context$.this, &quot;$message$&quot;, Toast.LENGTH_SHORT).show();" description="Create a new Toast" toReformat="true" toShortenFQNames="true">
+    <variable name="context" expression="qualifiedClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
