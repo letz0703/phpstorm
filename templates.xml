@@ -122,6 +122,10 @@
           <option name="groupName" value="Kotlin" />
           <option name="key" value="object" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Android" />
+          <option name="key" value="Toast" />
+        </TemplateKey>
       </list>
     </option>
   </component>
