@@ -389,4 +389,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="clicklistener" value="$VAR$.setOnClickListener(v -&gt; {&#10;    $END$&#10;});&#10;" description="set onclick listener" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
