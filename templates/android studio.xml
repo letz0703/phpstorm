@@ -1,0 +1,7 @@
+<templateSet group="android studio">
+  <template name="notigen" value="NotificationChannel channel = new NotificationChannel(CHANNEL_ID, &quot;1&quot;, NotificationManager.IMPORTANCE_DEFAULT);&#10;NotificationManager manager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);&#10;manager.createNotificationChannel(channel);&#10;//customize it&#10;&#10;Notification.Builder builder = new Notification.Builder(MainActivity.this, CHANNEL_ID);&#10;builder.setSmallIcon(R.drawable.ic_baseline_add_alert_24).setContentTitle(&quot;Title&quot;)&#10;        .setContentText(&quot;Notification Text&quot;);&#10;//                    .setPriority(Notification.PRIORITY_DEFAULT);&#10;&#10;//show to user&#10;NotificationManagerCompat compat = NotificationManagerCompat.from(MainActivity.this);&#10;compat.notify(1, builder.build());&#10;" description="notification generation code" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
