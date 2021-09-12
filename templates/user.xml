@@ -394,9 +394,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="igo" value="Intent i$TODO$ = new Intent($THIS$.this,$DESTINATION$.class);&#10;startActivity(i$NAME$);&#10;finish();&#10;" description="Intent i goto" toReformat="false" toShortenFQNames="true">
+  <template name="igo" value="Intent i$TODO$ = new Intent($ClassName$.this,$DESTINATION$.class);&#10;startActivity(i$NAME$);&#10;finish();&#10;" description="Intent i goto" toReformat="false" toShortenFQNames="false">
     <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="THIS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ClassName" expression="fileNameWithoutExtension" defaultValue="" alwaysStopAt="false" />
     <variable name="DESTINATION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="TODO" alwaysStopAt="false" />
     <context>
