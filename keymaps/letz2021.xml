@@ -101,13 +101,13 @@
     <keyboard-shortcut first-keystroke="meta right" />
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="ctrl a" />
-    <keyboard-shortcut first-keystroke="shift meta i" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
     <keyboard-shortcut first-keystroke="ctrl i" />
-    <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="EditorNextWord" />
   <action id="EditorRight">
@@ -302,7 +302,4 @@
   <action id="com.sonnk.iterm.OpenCmd" />
   <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
-  <action id="template.create.ActivityEmpty Activity">
-    <keyboard-shortcut first-keystroke="shift ctrl meta n" />
-  </action>
 </keymap>
