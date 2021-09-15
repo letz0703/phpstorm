@@ -4,4 +4,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="pvm" value="public void $METHOD$($VAR$)&#10;{&#10;    $END$&#10;}" description="public void method" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
