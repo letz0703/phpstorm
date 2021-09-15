@@ -302,4 +302,7 @@
   <action id="com.sonnk.iterm.OpenCmd" />
   <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
+  <action id="template.create.ActivityEmpty Activity">
+    <keyboard-shortcut first-keystroke="shift ctrl meta n" />
+  </action>
 </keymap>
