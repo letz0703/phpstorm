@@ -3,11 +3,11 @@
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Monaco" />
     <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="JetBrains Mono" />
+    <option name="SECONDARY_FONT_FAMILY" value="D2Coding ligature" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
