@@ -399,14 +399,22 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="fb_user" value="//FirebaseDatabase database = FirebaseDatabase.getInstance();&#10;FirebaseAuth auth = FirebaseAuth.getInstance();&#10;FirebaseUser user = auth.getCurrentUser();&#10;DatabaseReference dbrefUser = database.getReference();&#10;" description="firebase database auth user infomation definition" toReformat="false" toShortenFQNames="true">
+  <template name="fdb_auth" value="FirebaseAuth auth = FirebaseAuth.getInstance();&#10;FirebaseUser user = auth.getCurrentUser();&#10;" description="firebase database auth user infomation definition" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="fdbref" value="FirebaseDatabase database = FirebaseDatabase.getInstance();&#10;DatabaseReference dbref$NAME$ = database.getReference(&quot;$CHILD_NAME$&quot;);&#10;" description="firebase db connect with reference" toReformat="false" toShortenFQNames="true">
+  <template name="fdbref" value="FirebaseDatabase database = FirebaseDatabase.getInstance();&#10;DatabaseReference fdbref$NAME$ = database.getReference(&quot;$CHILD_NAME$&quot;);&#10;&#10;FirebaseAuth auth = FirebaseAuth.getInstance();&#10;FirebaseUser user = auth.getCurrentUser();&#10;" description="firebase db connect with reference" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CHILD_NAME" expression="lowercaseAndDash(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="btn_java" value="$BUTTON_NAME$ = findViewById(R.id.btn$ID$_$PAGE_NAME$);&#10;$BUTTON_NAME$.setOnClickListener(v -&gt; {&#10;            &#10;});" description="java button" toReformat="false" toShortenFQNames="true">
+    <variable name="BUTTON_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ID" expression="capitalize(BUTTON_NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="PAGE_NAME" expression="fileNameWithoutExtension" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
