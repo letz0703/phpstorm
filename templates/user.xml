@@ -420,4 +420,15 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="isend" value="Intent i$TODO$ = new Intent($ClassName$.this,$DESTINATION$.class);&#10;i$NAME$.putExtra(&quot;$VAR$&quot;,$VARNAME$);&#10;startActivity(i$NAME$);&#10;$END$finish();&#10;" description="Intent to send data to other activity" toReformat="false" toShortenFQNames="false">
+    <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ClassName" expression="fileNameWithoutExtension" defaultValue="" alwaysStopAt="false" />
+    <variable name="DESTINATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="TODO" alwaysStopAt="false" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARNAME" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
