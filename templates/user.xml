@@ -366,10 +366,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="pmet" value="protected function $NAME$($VAR$){&#10;    $END$    &#10;}" description="protected met" toReformat="true" toShortenFQNames="true">
+  <template name="met" value="public void $NAME$($VAR$){&#10;    $END$    &#10;}" description="public static" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JAVA_CODE" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -415,6 +416,17 @@
     <variable name="BUTTON_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ID" expression="capitalize(BUTTON_NAME)" defaultValue="" alwaysStopAt="true" />
     <variable name="PAGE_NAME" expression="fileNameWithoutExtension" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="isend" value="Intent i$TODO$ = new Intent($ClassName$.this,$DESTINATION$.class);&#10;i$NAME$.putExtra(&quot;$VAR$&quot;,$VARNAME$);&#10;startActivity(i$NAME$);&#10;$END$finish();&#10;" description="Intent to send data to other activity" toReformat="false" toShortenFQNames="false">
+    <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ClassName" expression="fileNameWithoutExtension" defaultValue="" alwaysStopAt="false" />
+    <variable name="DESTINATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="TODO" alwaysStopAt="false" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARNAME" expression="" defaultValue="VAR" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
