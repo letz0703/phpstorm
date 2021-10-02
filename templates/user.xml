@@ -431,4 +431,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="fdb_storage&lt;abbreviation&gt;" value="FirebaseStorage firebaseStorage;&#10;StorageReference storageReference;&#10;$END$//아랫놈은 onC로 이동&#10;firebaseStorage = FirebaseStorage.getInstance();&#10;storageReference = firebaseStorage.getReference();" description="firebase storage" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
