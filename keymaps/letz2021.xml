@@ -135,6 +135,7 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
@@ -216,6 +217,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="OpenElementInNewWindow" />
+  <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt p" />
@@ -287,6 +289,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="UsageGrouping.FlattenModules" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.Log.ShowAllAffected" />
