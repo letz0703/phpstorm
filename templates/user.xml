@@ -436,9 +436,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="fdb_s2_ref" value="StorageReference storage_$CHILD_NAME$ = firebaseStorage.getReference($imageName$);" description="firebase storage reference 2" toReformat="false" toShortenFQNames="true">
+  <template name="fdb_s2_ref" value="StorageReference storageReference_$CHILD_NAME$ = firebaseStorage.getReference($imageName$);&#10;storageReference_$CHID_NAME_COPY$" description="firebase storage reference 2" toReformat="false" toShortenFQNames="true">
     <variable name="CHILD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="imageName" expression="" defaultValue="CHILD_NAME" alwaysStopAt="true" />
+    <variable name="CHID_NAME_COPY" expression="" defaultValue="CHILD_NAME" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
