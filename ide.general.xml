@@ -16,6 +16,7 @@
     <entry key="editor.richcopy.strip.indents" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
+    <entry key="ide.instant.shutdown" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
