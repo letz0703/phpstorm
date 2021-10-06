@@ -87,8 +87,8 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="shift meta j" />
     <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -229,6 +229,10 @@
   <action id="QuickActionPopup" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta l" />
