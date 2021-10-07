@@ -388,13 +388,13 @@
   <template name="igo" value="Intent i$TODO$ = new Intent($ClassName$.this,$DESTINATION$.class);&#10;startActivity(i$NAME$);&#10;$END$finish();&#10;" description="Intent i goto" toReformat="false" toShortenFQNames="false">
     <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ClassName" expression="fileNameWithoutExtension" defaultValue="" alwaysStopAt="false" />
-    <variable name="DESTINATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESTINATION" expression="" defaultValue="TODO" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="TODO" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="onclick" value="$btn$.setOnClickListener(v -&gt; {&#10;    &#10;});" description="setOnClickListener" toReformat="false" toShortenFQNames="true">
+  <template name="onclick" value="$btn$.setOnClickListener(v -&gt; {&#10;    $END$&#10;});" description="setOnClickListener" toReformat="false" toShortenFQNames="true">
     <variable name="btn" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />

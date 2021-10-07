@@ -151,6 +151,11 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
@@ -175,7 +180,9 @@
   <action id="Inline">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
-  <action id="InsertLiveTemplate" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="shift ctrl meta i" />
+  </action>
   <action id="Jdbc.RunSqlScript" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
@@ -228,7 +235,7 @@
   <action id="PreviousProjectWindow" />
   <action id="QuickActionPopup" />
   <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
@@ -246,6 +253,9 @@
   </action>
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="ResetToMySettings">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl meta f" />
   </action>
@@ -256,7 +266,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="SaveAsTemplate">
-    <keyboard-shortcut first-keystroke="ctrl meta alt j" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta j" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
@@ -315,6 +325,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
   <action id="com.sonnk.iterm.OpenCmd" />
+  <action id="hg4idea.QFold" />
   <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
   <action id="template.create.ActivityEmpty Activity">
