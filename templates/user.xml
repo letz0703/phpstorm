@@ -394,7 +394,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="onclick" value="$btn$.setOnClickListener(v -&gt; {&#10;    &#10;});" description="setOnClickListener" toReformat="false" toShortenFQNames="true">
+  <template name="onclick" value="$btn$.setOnClickListener(v -&gt; {&#10;    $END$&#10;});" description="setOnClickListener" toReformat="false" toShortenFQNames="true">
     <variable name="btn" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
