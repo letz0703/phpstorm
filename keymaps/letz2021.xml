@@ -181,7 +181,7 @@
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
   <action id="InsertLiveTemplate">
-    <keyboard-shortcut first-keystroke="shift ctrl meta j" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta i" />
   </action>
   <action id="Jdbc.RunSqlScript" />
   <action id="JumpToLastChange">
@@ -266,7 +266,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="SaveAsTemplate">
-    <keyboard-shortcut first-keystroke="ctrl meta alt j" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta j" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
