@@ -154,7 +154,7 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
-    <keyboard-shortcut first-keystroke="shift alt d" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
