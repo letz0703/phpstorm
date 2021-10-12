@@ -451,4 +451,12 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="fdbref-div" value="FirebaseDatabase database; &#10;DatabaseReference fdbref$NAME$;&#10;FirebaseAuth auth; &#10;FirebaseUser user; &#10;&#10;database = FirebaseDatabase.getInstance();&#10;fdbref$NAMECOPY$= database.getReference(&quot;$CHILD_NAME$&quot;);&#10;auth= FirebaseAuth.getInstance();&#10;user = auth.getCurrentUser();&#10;" description="firebase db connect with reference version2" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAMECOPY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CHILD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
