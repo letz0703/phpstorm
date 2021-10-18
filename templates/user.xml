@@ -459,4 +459,18 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="circleimg" value="&lt;androidx.constraintlayout.widget.ConstraintLayout&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;match_parent&quot;&gt;&#10;&#10;        &lt;de.hdodenhof.circleimageview.CircleImageView&#10;                android:layout_width=&quot;75dp&quot;&#10;                android:layout_height=&quot;75dp&quot;&#10;                android:id=&quot;@+id/ivCircle_users_card&quot;&#10;                android:src=&quot;@drawable/user_icon&quot;&#10;                app:layout_constraintTop_toTopOf=&quot;parent&quot;&#10;                app:layout_constraintBottom_toBottomOf=&quot;parent&quot;&#10;                app:layout_constraintStart_toStartOf=&quot;parent&quot;&#10;                app:layout_constraintEnd_toEndOf=&quot;parent&quot;&#10;                android:layout_marginEnd=&quot;330dp&quot;&#10;                android:layout_marginStart=&quot;10dp&quot; /&gt;&#10;&#10;    &lt;/androidx.constraintlayout.widget.ConstraintLayout&gt;" description="동그라미 이미지" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="adapter" value="public class $NAME_OF_THE_ADAPTER$ extends RecyclerView.Adapter&lt;$NAME_OF_THE_ADAPTER$.ViewHolder&gt;&#10;{&#10;    List &lt;String&gt; $LISTNAME$;&#10;&#10;    public $NAME_OF_THE_ADAPTER$(List&lt;String&gt; $LISTNAME$) {&#10;        this.$LSITNAMECOPY$ = $LISTNAME$;&#10;    }&#10;&#10;    @NonNull&#10;    @Override&#10;    public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {&#10;        return null;&#10;    }&#10;&#10;    @Override&#10;    public void onBindViewHolder(@NonNull ViewHolder holder, int position) {&#10;&#10;    }&#10;&#10;    @Override&#10;    public int getItemCount() {&#10;        return $LISTNAME$.size();&#10;    }&#10;&#10;    public class ViewHolder extends RecyclerView.ViewHolder&#10;    {&#10;        private TextView textView;&#10;        private ImageView imageView;&#10;        private CardView cardView;&#10;        &#10;        public ViewHolder(@NonNull View itemView)&#10;        {&#10;            super(itemView);&#10;            &#10;            textView = itemView.findViewById(R.id.tvUsers_users_card);&#10;            imageView = itemView.findViewById(R.id.ivCircle_users_card);&#10;            cardView = itemView.findViewById(R.id.cardView);&#10;        }&#10;    }&#10;}&#10;" description="java adapter" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME_OF_THE_ADAPTER" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LISTNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LSITNAMECOPY" expression="" defaultValue="LISTNAME" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
