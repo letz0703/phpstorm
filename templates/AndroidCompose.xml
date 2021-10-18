@@ -1,6 +1,7 @@
 <templateSet group="AndroidCompose">
   <template name="weight" value="androidx.compose.ui.Modifier.weight($WEIGHT$)" description="Add weight Modifier" toReformat="true" toShortenFQNames="true">
     <variable name="$WEIGHT$" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="W" value="$WIDGET$ {&#10; $SELECTION$$END$ &#10; }" description="Surround with widget" toReformat="true" toShortenFQNames="true">
     <variable name="WIDGET" expression="" defaultValue="&quot;androidx.compose.foundation.layout.Box&quot;" alwaysStopAt="true" />
@@ -20,5 +21,6 @@
   </template>
   <template name="paddp" value="androidx.compose.ui.Modifier.padding($DP$.dp)" description="Add padding Modifier in dp" toReformat="true" toShortenFQNames="true">
     <variable name="DP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
