@@ -10,7 +10,6 @@
   </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
-    <keyboard-shortcut first-keystroke="shift meta f" />
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="ActivateProjectToolWindow">
