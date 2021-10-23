@@ -20,6 +20,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift ctrl meta t" />
   </action>
+  <action id="Android.Designer.IssueNotificationAction" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="BaseOnThisFunction" />
@@ -245,7 +246,7 @@
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift meta l" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="Refresh" />
   <action id="RenameElement">
