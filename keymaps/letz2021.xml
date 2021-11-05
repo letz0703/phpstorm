@@ -245,9 +245,7 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="alt l" />
-  </action>
+  <action id="ReformatCode" />
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
@@ -284,6 +282,9 @@
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="ShowProjectStructureSettings" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
