@@ -298,6 +298,7 @@
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="ToggleBookmark1" />
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="alt semicolon" />
