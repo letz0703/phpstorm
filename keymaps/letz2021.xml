@@ -9,8 +9,7 @@
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="AceAction">
-    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="f" />
-    <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="semicolon" second-keystroke="f" />
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -199,7 +198,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta back_space" />
   </action>
   <action id="Macro.endSemiColon">
-    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="semicolon" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="Macro.endSemicolon">
     <keyboard-shortcut first-keystroke="meta semicolon" />
@@ -215,7 +214,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta l" />
   </action>
   <action id="NewClass">
-    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="semicolon" second-keystroke="c" />
   </action>
   <action id="NewScratchFile" />
   <action id="NextProjectWindow">
