@@ -197,12 +197,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
     <keyboard-shortcut first-keystroke="shift ctrl meta back_space" />
   </action>
-  <action id="Macro.endSemiColon">
-    <keyboard-shortcut first-keystroke="meta semicolon" />
-  </action>
-  <action id="Macro.endSemicolon">
-    <keyboard-shortcut first-keystroke="meta semicolon" />
-  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl meta p" />
   </action>
@@ -212,6 +206,9 @@
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl meta l" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="c" />
   </action>
   <action id="NewScratchFile" />
   <action id="NextProjectWindow">
