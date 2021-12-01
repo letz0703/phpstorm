@@ -481,4 +481,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="xml rv_layout_item" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;LinearLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;        android:orientation=&quot;vertical&quot;&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;wrap_content&quot;&#10;        android:layout_margin=&quot;10dp&quot;&#10;        android:background=&quot;#8BC34A&quot;&gt;&#10;&#10;    &lt;TextView&#10;            android:text=&quot;TextView&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;wrap_content&quot;&#10;            android:id=&quot;@+id/tv1_layoutItem&quot; /&gt;&#10;&#10;    &lt;TextView&#10;            android:text=&quot;TextView&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;wrap_content&quot;&#10;            android:id=&quot;@+id/tv2_layoutItem&quot; /&gt;&#10;&#10;    &lt;TextView&#10;            android:text=&quot;TextView&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;wrap_content&quot;&#10;            android:id=&quot;@+id/tv3_layoutItem&quot; /&gt;&#10;&#10;    &lt;TextView&#10;            android:text=&quot;TextView&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;wrap_content&quot;&#10;            android:id=&quot;@+id/tv4_layoutItem&quot; /&gt;&#10;&lt;/LinearLayout&gt;" description="recyclerview layout xml" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
 </templateSet>
