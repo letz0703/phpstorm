@@ -328,7 +328,4 @@
   <action id="hg4idea.QFold" />
   <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
-  <action id="template.create.ActivityEmpty Activity">
-    <keyboard-shortcut first-keystroke="f1" second-keystroke="e" />
-  </action>
 </keymap>
