@@ -1,9 +1,0 @@
-<application>
-  <component name="AbbreviationManager">
-    <abbreviations>
-      <action id="NewClass">
-        <abbreviation name="jclass" />
-      </action>
-    </abbreviations>
-  </component>
-</application>
