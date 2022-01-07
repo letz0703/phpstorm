@@ -210,9 +210,6 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl meta l" />
   </action>
-  <action id="NewClass">
-    <keyboard-shortcut first-keystroke="f1" second-keystroke="c" />
-  </action>
   <action id="NewScratchFile" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
