@@ -481,4 +481,12 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="isend2" value="Intent i$VAR1$ = new Intent(mContext,$VAR1$.class );&#10;i$VAR1$.putExtra(&quot;$VAR2$&quot;, $VAR2$);&#10;mContext.startActivity(intent);" description="Intent send data" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
